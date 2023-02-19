@@ -1,0 +1,250 @@
+[14-02-23 19:41:52.034][info] Start chat server initialization....
+[14-02-23 19:41:52.041][info] General chat has id = 0.
+[14-02-23 19:41:52.042][info] Say chat has id = 1.
+[14-02-23 19:41:52.042][info] Shout chat has id = 2.
+[14-02-23 19:41:52.042][info] Radio chat has id = 3.
+[14-02-23 19:41:52.042][info] Admin chat has id = 4.
+[14-02-23 19:41:52.042][info] Server chat has id = 5.
+[14-02-23 19:41:52.043][info] Chat server successfully initialized.
+[14-02-23 19:52:03.950][info] Player with id = '0' tries to connect.
+[14-02-23 19:52:03.950][info] Adding player '0' to chat server.
+[14-02-23 19:52:04.215][info] Player joined to default chats.
+[14-02-23 19:52:04.215][info] Player EL-Mao'(0) joined to chat server successfully.
+[14-02-23 19:53:33.219][info] Player with id = '4' tries to connect.
+[14-02-23 19:53:33.220][info] Adding player '4' to chat server.
+[14-02-23 19:53:33.220][info] Player joined to default chats.
+[14-02-23 19:53:33.220][info] Player Muezza(4) joined to chat server successfully.
+[14-02-23 19:54:20.384][info] Player 0 disconnecting....
+[14-02-23 19:54:20.384][info] Disconnecting player 0 finished.
+[14-02-23 19:54:34.659][info] Player 0 disconnecting....
+[14-02-23 19:54:34.659][info] Disconnecting player 0 finished.
+[14-02-23 19:54:34.660][info] Player with id = '0' tries to connect.
+[14-02-23 19:54:34.660][info] Adding player '0' to chat server.
+[14-02-23 19:54:34.660][error] Player or connection is not found on server!.
+[14-02-23 19:54:34.661][error] player = null.
+[14-02-23 19:54:36.909][info] Player with id = '0' tries to connect.
+[14-02-23 19:54:36.909][info] Adding player '0' to chat server.
+[14-02-23 19:54:36.909][info] Player joined to default chats.
+[14-02-23 19:54:36.909][info] Player EL-Mao'(0) joined to chat server successfully.
+[14-02-23 19:56:26.691][info] Player 4 disconnecting....
+[14-02-23 19:56:26.691][info] Disconnecting player 4 finished.
+[14-02-23 19:56:37.181][info] Player 4 disconnecting....
+[14-02-23 19:56:37.181][info] Disconnecting player 4 finished.
+[14-02-23 19:56:37.181][info] Player with id = '4' tries to connect.
+[14-02-23 19:56:37.181][info] Adding player '4' to chat server.
+[14-02-23 19:56:37.181][error] Player or connection is not found on server!.
+[14-02-23 19:56:37.182][error] player = null.
+[14-02-23 19:56:40.312][info] Player with id = '4' tries to connect.
+[14-02-23 19:56:40.312][info] Adding player '4' to chat server.
+[14-02-23 19:56:40.312][info] Player joined to default chats.
+[14-02-23 19:56:40.312][info] Player Muezza(4) joined to chat server successfully.
+[14-02-23 19:56:42.936][info] Player with id = '8' tries to connect.
+[14-02-23 19:56:42.936][info] Adding player '8' to chat server.
+[14-02-23 19:56:42.937][info] Player joined to default chats.
+[14-02-23 19:56:42.937][info] Player Trisudar(8) joined to chat server successfully.
+[14-02-23 19:57:31.769][info] Player with id = '12' tries to connect.
+[14-02-23 19:57:31.770][info] Adding player '12' to chat server.
+[14-02-23 19:57:31.770][info] Player joined to default chats.
+[14-02-23 19:57:31.770][info] Player Jim Burger(12) joined to chat server successfully.
+[14-02-23 19:58:41.375][info] Player 8 disconnecting....
+[14-02-23 19:58:41.376][info] Disconnecting player 8 finished.
+[14-02-23 20:06:20.791][info] Player 8 disconnecting....
+[14-02-23 20:06:20.791][info] Disconnecting player 8 finished.
+[14-02-23 20:06:20.791][info] Player with id = '8' tries to connect.
+[14-02-23 20:06:20.791][info] Adding player '8' to chat server.
+[14-02-23 20:06:20.792][error] Player or connection is not found on server!.
+[14-02-23 20:06:20.792][error] player = null.
+[14-02-23 20:06:40.153][info] Player with id = '8' tries to connect.
+[14-02-23 20:06:40.153][info] Adding player '8' to chat server.
+[14-02-23 20:06:40.153][info] Player joined to default chats.
+[14-02-23 20:06:40.153][info] Player Trisudar(8) joined to chat server successfully.
+[14-02-23 20:10:27.550][info] Player 0 disconnecting....
+[14-02-23 20:10:27.550][info] Disconnecting player 0 finished.
+[14-02-23 20:10:43.409][info] Player 0 disconnecting....
+[14-02-23 20:10:43.409][info] Disconnecting player 0 finished.
+[14-02-23 20:10:43.409][info] Player with id = '0' tries to connect.
+[14-02-23 20:10:43.409][info] Adding player '0' to chat server.
+[14-02-23 20:10:43.409][error] Player or connection is not found on server!.
+[14-02-23 20:10:43.409][error] player = null.
+[14-02-23 20:10:45.822][info] Player with id = '0' tries to connect.
+[14-02-23 20:10:45.823][info] Adding player '0' to chat server.
+[14-02-23 20:10:45.823][info] Player joined to default chats.
+[14-02-23 20:10:45.823][info] Player EL-Mao'(0) joined to chat server successfully.
+[14-02-23 20:16:17.765][info] Player 12 disconnecting....
+[14-02-23 20:16:17.765][info] Disconnecting player 12 finished.
+[14-02-23 20:16:17.766][info] Player 12 disconnecting....
+[14-02-23 20:16:17.766][info] Disconnecting player 12 finished.
+[14-02-23 20:16:41.033][info] Player 4 disconnecting....
+[14-02-23 20:16:41.034][info] Disconnecting player 4 finished.
+[14-02-23 20:16:56.293][info] Player 4 disconnecting....
+[14-02-23 20:16:56.294][info] Disconnecting player 4 finished.
+[14-02-23 20:16:56.294][info] Player with id = '4' tries to connect.
+[14-02-23 20:16:56.294][info] Adding player '4' to chat server.
+[14-02-23 20:16:56.294][error] Player or connection is not found on server!.
+[14-02-23 20:16:56.294][error] player = null.
+[14-02-23 20:17:00.653][info] Player with id = '4' tries to connect.
+[14-02-23 20:17:00.653][info] Adding player '4' to chat server.
+[14-02-23 20:17:00.653][info] Player joined to default chats.
+[14-02-23 20:17:00.653][info] Player Muezza(4) joined to chat server successfully.
+[14-02-23 20:18:07.455][info] Player 0 disconnecting....
+[14-02-23 20:18:07.455][info] Disconnecting player 0 finished.
+[14-02-23 20:18:50.687][info] Player 0 disconnecting....
+[14-02-23 20:18:50.687][info] Disconnecting player 0 finished.
+[14-02-23 20:18:50.687][info] Player with id = '0' tries to connect.
+[14-02-23 20:18:50.687][info] Adding player '0' to chat server.
+[14-02-23 20:18:50.687][error] Player or connection is not found on server!.
+[14-02-23 20:18:50.687][error] player = null.
+[14-02-23 20:18:53.087][info] Player with id = '0' tries to connect.
+[14-02-23 20:18:53.087][info] Adding player '0' to chat server.
+[14-02-23 20:18:53.087][info] Player joined to default chats.
+[14-02-23 20:18:53.088][info] Player EL-Mao'(0) joined to chat server successfully.
+[14-02-23 20:20:00.935][info] Player with id = '12' tries to connect.
+[14-02-23 20:20:00.935][info] Adding player '12' to chat server.
+[14-02-23 20:20:00.935][info] Player joined to default chats.
+[14-02-23 20:20:00.935][info] Player Jim Burger(12) joined to chat server successfully.
+[14-02-23 20:29:42.784][info] Player 12 disconnecting....
+[14-02-23 20:29:42.784][info] Disconnecting player 12 finished.
+[14-02-23 20:30:52.575][info] Player 4 disconnecting....
+[14-02-23 20:30:52.576][info] Disconnecting player 4 finished.
+[14-02-23 20:31:07.251][info] Player 4 disconnecting....
+[14-02-23 20:31:07.252][info] Disconnecting player 4 finished.
+[14-02-23 20:31:07.252][info] Player with id = '4' tries to connect.
+[14-02-23 20:31:07.252][info] Adding player '4' to chat server.
+[14-02-23 20:31:07.252][error] Player or connection is not found on server!.
+[14-02-23 20:31:07.252][error] player = null.
+[14-02-23 20:31:13.758][info] Player with id = '4' tries to connect.
+[14-02-23 20:31:13.758][info] Adding player '4' to chat server.
+[14-02-23 20:31:13.758][info] Player joined to default chats.
+[14-02-23 20:31:13.758][info] Player Muezza(4) joined to chat server successfully.
+[14-02-23 20:31:41.785][info] Player 0 disconnecting....
+[14-02-23 20:31:41.786][info] Disconnecting player 0 finished.
+[14-02-23 20:31:55.767][info] Player 0 disconnecting....
+[14-02-23 20:31:55.767][info] Disconnecting player 0 finished.
+[14-02-23 20:31:55.768][info] Player with id = '0' tries to connect.
+[14-02-23 20:31:55.768][info] Adding player '0' to chat server.
+[14-02-23 20:31:55.768][error] Player or connection is not found on server!.
+[14-02-23 20:31:55.768][error] player = null.
+[14-02-23 20:31:58.082][info] Player with id = '0' tries to connect.
+[14-02-23 20:31:58.082][info] Adding player '0' to chat server.
+[14-02-23 20:31:58.082][info] Player joined to default chats.
+[14-02-23 20:31:58.082][info] Player EL-Mao'(0) joined to chat server successfully.
+[14-02-23 20:32:18.142][info] Player 12 disconnecting....
+[14-02-23 20:32:18.142][info] Disconnecting player 12 finished.
+[14-02-23 20:32:18.143][info] Player with id = '12' tries to connect.
+[14-02-23 20:32:18.143][info] Adding player '12' to chat server.
+[14-02-23 20:32:18.143][error] Player or connection is not found on server!.
+[14-02-23 20:32:18.143][error] player = null.
+[14-02-23 20:32:26.612][info] Player with id = '12' tries to connect.
+[14-02-23 20:32:26.612][info] Adding player '12' to chat server.
+[14-02-23 20:32:26.612][info] Player joined to default chats.
+[14-02-23 20:32:26.612][info] Player Jim Burger(12) joined to chat server successfully.
+[14-02-23 20:33:17.359][info] Got message:ChatMessage{chat=Local, author='EL-Mao'', text='psst'}.
+[14-02-23 20:33:17.360][info] Message ChatMessage{chat=Local, author='EL-Mao'', text='psst'} sent to chat (id = 2) members.
+[14-02-23 20:59:40.746][info] Player 12 disconnecting....
+[14-02-23 20:59:40.746][info] Disconnecting player 12 finished.
+[14-02-23 20:59:40.747][info] Player 12 disconnecting....
+[14-02-23 20:59:40.747][info] Disconnecting player 12 finished.
+[14-02-23 21:01:37.689][info] Player with id = '12' tries to connect.
+[14-02-23 21:01:37.689][info] Adding player '12' to chat server.
+[14-02-23 21:01:37.689][info] Player joined to default chats.
+[14-02-23 21:01:37.689][info] Player Jim Burger(12) joined to chat server successfully.
+[14-02-23 21:52:14.251][info] Got message:ChatMessage{chat=Local, author='EL-Mao'', text='hey'}.
+[14-02-23 21:52:14.252][info] Message ChatMessage{chat=Local, author='EL-Mao'', text='hey'} sent to chat (id = 2) members.
+[14-02-23 21:58:58.474][info] Got message:ChatMessage{chat=Local, author='Jim Burger', text='HEY YOU!'}.
+[14-02-23 21:58:58.474][info] Message ChatMessage{chat=Local, author='Jim Burger', text='HEY YOU!'} sent to chat (id = 2) members.
+[14-02-23 22:33:56.747][info] Player 12 disconnecting....
+[14-02-23 22:33:56.747][info] Disconnecting player 12 finished.
+[14-02-23 22:33:56.747][info] Player 12 disconnecting....
+[14-02-23 22:33:56.747][info] Disconnecting player 12 finished.
+[14-02-23 22:37:49.719][info] Player with id = '12' tries to connect.
+[14-02-23 22:37:49.719][info] Adding player '12' to chat server.
+[14-02-23 22:37:49.719][info] Player joined to default chats.
+[14-02-23 22:37:49.719][info] Player Jim Burger(12) joined to chat server successfully.
+[14-02-23 23:01:17.225][info] Got message:ChatMessage{chat=Local, author='Trisudar', text='pssst!'}.
+[14-02-23 23:01:17.225][info] Message ChatMessage{chat=Local, author='Trisudar', text='pssst!'} sent to chat (id = 2) members.
+[14-02-23 23:01:20.151][info] Got message:ChatMessage{chat=Local, author='Trisudar', text='pssst!'}.
+[14-02-23 23:01:20.152][info] Message ChatMessage{chat=Local, author='Trisudar', text='pssst!'} sent to chat (id = 2) members.
+[14-02-23 23:01:21.010][info] Got message:ChatMessage{chat=Local, author='Trisudar', text='psst'}.
+[14-02-23 23:01:21.010][info] Message ChatMessage{chat=Local, author='Trisudar', text='psst'} sent to chat (id = 2) members.
+[14-02-23 23:01:21.194][info] Got message:ChatMessage{chat=Local, author='Trisudar', text='psst'}.
+[14-02-23 23:01:21.195][info] Message ChatMessage{chat=Local, author='Trisudar', text='psst'} sent to chat (id = 2) members.
+[14-02-23 23:01:21.344][info] Got message:ChatMessage{chat=Local, author='Trisudar', text='pssst!'}.
+[14-02-23 23:01:21.345][info] Message ChatMessage{chat=Local, author='Trisudar', text='pssst!'} sent to chat (id = 2) members.
+[14-02-23 23:01:21.446][info] Got message:ChatMessage{chat=Local, author='Trisudar', text='hey'}.
+[14-02-23 23:01:21.446][info] Message ChatMessage{chat=Local, author='Trisudar', text='hey'} sent to chat (id = 2) members.
+[14-02-23 23:01:21.639][info] Got message:ChatMessage{chat=Local, author='Trisudar', text='hey'}.
+[14-02-23 23:01:21.640][info] Message ChatMessage{chat=Local, author='Trisudar', text='hey'} sent to chat (id = 2) members.
+[14-02-23 23:01:21.793][info] Got message:ChatMessage{chat=Local, author='Trisudar', text='pssst!'}.
+[14-02-23 23:01:21.793][info] Message ChatMessage{chat=Local, author='Trisudar', text='pssst!'} sent to chat (id = 2) members.
+[14-02-23 23:01:21.989][info] Got message:ChatMessage{chat=Local, author='Trisudar', text='pssst!'}.
+[14-02-23 23:01:21.990][info] Message ChatMessage{chat=Local, author='Trisudar', text='pssst!'} sent to chat (id = 2) members.
+[14-02-23 23:01:22.155][info] Got message:ChatMessage{chat=Local, author='Trisudar', text='pssst!'}.
+[14-02-23 23:01:22.155][info] Message ChatMessage{chat=Local, author='Trisudar', text='pssst!'} sent to chat (id = 2) members.
+[14-02-23 23:01:22.312][info] Got message:ChatMessage{chat=Local, author='Trisudar', text='hey'}.
+[14-02-23 23:01:22.312][info] Message ChatMessage{chat=Local, author='Trisudar', text='hey'} sent to chat (id = 2) members.
+[14-02-23 23:01:22.505][info] Got message:ChatMessage{chat=Local, author='Trisudar', text='hey'}.
+[14-02-23 23:01:22.505][info] Message ChatMessage{chat=Local, author='Trisudar', text='hey'} sent to chat (id = 2) members.
+[14-02-23 23:01:22.714][info] Got message:ChatMessage{chat=Local, author='Trisudar', text='pssst!'}.
+[14-02-23 23:01:22.715][info] Message ChatMessage{chat=Local, author='Trisudar', text='pssst!'} sent to chat (id = 2) members.
+[14-02-23 23:09:59.299][info] Got message:ChatMessage{chat=Local, author='EL-Mao'', text='OVER HERE!'}.
+[14-02-23 23:09:59.299][info] Message ChatMessage{chat=Local, author='EL-Mao'', text='OVER HERE!'} sent to chat (id = 2) members.
+[14-02-23 23:20:59.979][info] Player 8 disconnecting....
+[14-02-23 23:20:59.980][info] Disconnecting player 8 finished.
+[14-02-23 23:24:12.256][info] Player 8 disconnecting....
+[14-02-23 23:24:12.256][info] Disconnecting player 8 finished.
+[14-02-23 23:24:12.257][info] Player with id = '8' tries to connect.
+[14-02-23 23:24:12.257][info] Adding player '8' to chat server.
+[14-02-23 23:24:12.257][error] Player or connection is not found on server!.
+[14-02-23 23:24:12.257][error] player = null.
+[14-02-23 23:24:23.254][info] Player with id = '8' tries to connect.
+[14-02-23 23:24:23.254][info] Adding player '8' to chat server.
+[14-02-23 23:24:23.254][info] Player joined to default chats.
+[14-02-23 23:24:23.254][info] Player Trisudar(8) joined to chat server successfully.
+[14-02-23 23:26:29.133][info] Player 4 disconnecting....
+[14-02-23 23:26:29.134][info] Disconnecting player 4 finished.
+[14-02-23 23:26:41.293][info] Player 4 disconnecting....
+[14-02-23 23:26:41.293][info] Disconnecting player 4 finished.
+[14-02-23 23:26:41.294][info] Player with id = '4' tries to connect.
+[14-02-23 23:26:41.294][info] Adding player '4' to chat server.
+[14-02-23 23:26:41.294][error] Player or connection is not found on server!.
+[14-02-23 23:26:41.294][error] player = null.
+[14-02-23 23:26:46.311][info] Player with id = '4' tries to connect.
+[14-02-23 23:26:46.311][info] Adding player '4' to chat server.
+[14-02-23 23:26:46.311][info] Player joined to default chats.
+[14-02-23 23:26:46.311][info] Player Muezza(4) joined to chat server successfully.
+[14-02-23 23:30:07.034][info] Got message:ChatMessage{chat=Local, author='Jim Burger', text='HEY YOU!'}.
+[14-02-23 23:30:07.035][info] Message ChatMessage{chat=Local, author='Jim Burger', text='HEY YOU!'} sent to chat (id = 2) members.
+[14-02-23 23:32:41.955][info] Player 4 disconnecting....
+[14-02-23 23:32:41.955][info] Disconnecting player 4 finished.
+[14-02-23 23:32:54.289][info] Player 4 disconnecting....
+[14-02-23 23:32:54.290][info] Disconnecting player 4 finished.
+[14-02-23 23:32:54.290][info] Player with id = '4' tries to connect.
+[14-02-23 23:32:54.290][info] Adding player '4' to chat server.
+[14-02-23 23:32:54.290][error] Player or connection is not found on server!.
+[14-02-23 23:32:54.290][error] player = null.
+[14-02-23 23:32:59.305][info] Player with id = '4' tries to connect.
+[14-02-23 23:32:59.305][info] Adding player '4' to chat server.
+[14-02-23 23:32:59.306][info] Player joined to default chats.
+[14-02-23 23:32:59.306][info] Player Muezza(4) joined to chat server successfully.
+[14-02-23 23:37:22.771][info] Player 12 disconnecting....
+[14-02-23 23:37:22.771][info] Disconnecting player 12 finished.
+[14-02-23 23:37:22.771][info] Player 12 disconnecting....
+[14-02-23 23:37:22.771][info] Disconnecting player 12 finished.
+[14-02-23 23:39:21.214][info] Player with id = '12' tries to connect.
+[14-02-23 23:39:21.214][info] Adding player '12' to chat server.
+[14-02-23 23:39:21.214][info] Player joined to default chats.
+[14-02-23 23:39:21.214][info] Player Jim Burger(12) joined to chat server successfully.
+[15-02-23 00:11:27.490][info] Player 8 disconnecting....
+[15-02-23 00:11:27.490][info] Disconnecting player 8 finished.
+[15-02-23 00:12:03.649][info] Player 8 disconnecting....
+[15-02-23 00:12:03.649][info] Disconnecting player 8 finished.
+[15-02-23 00:12:03.649][info] Player 8 disconnecting....
+[15-02-23 00:12:03.649][info] Disconnecting player 8 finished.
+[15-02-23 00:15:12.854][info] Got message:ChatMessage{chat=Local, author='EL-Mao'', text='hey'}.
+[15-02-23 00:15:12.854][info] Message ChatMessage{chat=Local, author='EL-Mao'', text='hey'} sent to chat (id = 2) members.
+[15-02-23 01:12:34.681][info] Player 0 disconnecting....
+[15-02-23 01:12:34.681][info] Disconnecting player 0 finished.
+[15-02-23 01:13:06.632][info] Player 0 disconnecting....
+[15-02-23 01:13:06.632][info] Disconnecting player 0 finished.
+[15-02-23 01:13:06.632][info] Player 0 disconnecting....
+[15-02-23 01:13:06.632][info] Disconnecting player 0 finished.

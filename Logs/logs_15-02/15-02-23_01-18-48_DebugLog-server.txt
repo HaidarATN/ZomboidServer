@@ -1,0 +1,35 @@
+[15-02-23 01:18:48.692] LOG  : General     , 1676398728691> 387.864.702> cachedir set to "C:\Users\h_a_t_n\Zomboid".
+[15-02-23 01:18:48.776] LOG  : General     , 1676398728776> 387.864.787> version=41.78.16 demo=false.
+[15-02-23 01:18:48.776] LOG  : General     , 1676398728776> 387.864.787> revision= date= time=.
+[15-02-23 01:18:48.779] LOG  : General     , 1676398728779> 387.864.790> server name is "servertest".
+[15-02-23 01:18:48.780] LOG  : General     , 1676398728779> 387.864.790> map_t.bin does not exist, cannot determine the server's WorldVersion.  This is ok the first time a server is started..
+[15-02-23 01:18:48.781] LOG  : General     , 1676398728781> 387.864.792> Loading networking libraries....
+[15-02-23 01:18:48.782] LOG  : General     , 1676398728782> 387.864.793> Loading steam_api64....
+[15-02-23 01:18:48.786] LOG  : General     , 1676398728786> 387.864.797> Loading RakNet64....
+[15-02-23 01:18:48.788] LOG  : General     , 1676398728788> 387.864.799> Loading ZNetJNI64....
+[15-02-23 01:18:48.808] LOG  : Network     , 1676398728808> 387.864.819> [15-02-23 01:18:48.807] > ZNet: SetLogLevel 1.
+[15-02-23 01:18:48.810] LOG  : Network     , 1676398728810> 387.864.821> [15-02-23 01:18:48.810] > ZNet: Compiled with SERVER_STEAMAPI == 0.
+[15-02-23 01:18:48.810] LOG  : Network     , 1676398728810> 387.864.821> [15-02-23 01:18:48.810] > ZNet: Starting with bServer == true.
+[15-02-23 01:18:48.810] LOG  : Network     , 1676398728810> 387.864.821> [15-02-23 01:18:48.810] > ZNet: SteamAPI initialised successfully.
+[15-02-23 01:18:48.811] LOG  : General     , 1676398728810> 387.864.821> SteamUtils initialised successfully.
+[15-02-23 01:18:54.194] LOG  : General     , 1676398734194> 387.870.205> translator: language is EN.
+[15-02-23 01:18:54.349] LOG  : General     , 1676398734349> 387.870.360> LightingFPS set to 15.
+[15-02-23 01:18:54.367] LOG  : General     , 1676398734367> 387.870.377> reading C:\Users\h_a_t_n\Zomboid\Server\servertest.ini.
+[15-02-23 01:18:54.368] LOG  : General     , 1676398734368> 387.870.379> writing C:\Users\h_a_t_n\Zomboid\Server\servertest.ini.
+[15-02-23 01:18:54.377] LOG  : Network     , 1676398734377> 387.870.388> [15-02-23 01:18:54.377] > ZNet: SZombienet -> SZombienet: Init.
+[15-02-23 01:18:55.283] LOG  : Network     , 1676398735283> 387.871.294> [15-02-23 01:18:55.283] > ZNet: SteamGameServer seems to be initialized.
+[15-02-23 01:18:55.684] LOG  : Network     , 1676398735683> 387.871.694> [15-02-23 01:18:55.683] > ZNet: SZombienet -> SSteamSDK: SetMaxPlayerCount.
+[15-02-23 01:18:55.733] LOG  : Network     , 1676398735733> 387.871.744> [15-02-23 01:18:55.733] > ZNet: SetServerName 'My PZ Server'.
+[15-02-23 01:18:55.783] LOG  : Network     , 1676398735783> 387.871.794> [15-02-23 01:18:55.783] > ZNet: SetMapName 'Muldraugh, KY'.
+[15-02-23 01:18:55.834] LOG  : Network     , 1676398735833> 387.871.844> [15-02-23 01:18:55.833] > ZNet: SetGameTags 'hidden;hosted'.
+[15-02-23 01:18:55.883] LOG  : Network     , 1676398735883> 387.871.894> [15-02-23 01:18:55.883] > ZNet: SetKeyValue key='description' value=''.
+[15-02-23 01:18:55.933] LOG  : Network     , 1676398735933> 387.871.944> [15-02-23 01:18:55.933] > ZNet: SetKeyValue key='version' value='41.78.16'.
+[15-02-23 01:18:55.984] LOG  : Network     , 1676398735984> 387.871.994> [15-02-23 01:18:55.984] > ZNet: SetKeyValue key='open' value='1'.
+[15-02-23 01:18:56.025] LOG  : Network     , 1676398736025> 387.872.036> [15-02-23 01:18:56.025] > ZNet: SetKeyValue key='public' value='0'.
+[15-02-23 01:18:56.026] LOG  : Network     , 1676398736026> 387.872.036> [15-02-23 01:18:56.026] > ZNet: SetKeyValue key='mods' value=''.
+[15-02-23 01:18:56.026] LOG  : Network     , 1676398736026> 387.872.037> [15-02-23 01:18:56.026] > ZNet: SetKeyValue key='modCount' value='0'.
+[15-02-23 01:18:56.026] LOG  : Network     , 1676398736026> 387.872.037> [15-02-23 01:18:56.026] > ZNet: SetKeyValue key='pvp' value='1'.
+[15-02-23 01:18:56.035] LOG  : General     , 1676398736035> 387.872.046> Waiting for response from Steam servers.
+[15-02-23 01:19:18.757] LOG  : Network     , 1676398758757> 387.894.767> [15-02-23 01:19:18.757] > ZNet: SSteamSDK -> SZombienet: OnSteamServersConnectFailure.
+[15-02-23 01:19:18.757] LOG  : Network     , 1676398758757> 387.894.768> [15-02-23 01:19:18.757] > ZNet: OnSteamServersConnectFailure 3.
+[15-02-23 01:19:18.758] LOG  : General     , 1676398758758> 387.894.768> Failed to connect to Steam servers.

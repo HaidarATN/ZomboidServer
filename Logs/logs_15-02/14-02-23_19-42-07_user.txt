@@ -1,0 +1,102 @@
+[14-02-23 19:42:07.743] added connection index=0 127.0.0.1.
+[14-02-23 19:42:08.592] 76561198080689461 "EL-Mao'" attempting to join.
+[14-02-23 19:42:08.593] 76561198080689461 "EL-Mao'" allowed to join.
+[14-02-23 19:51:50.164] 76561198080689461 "EL-Mao'" attempting to join used queue.
+[14-02-23 19:51:59.048] player EL-Mao' loading time was: 8570 ms.
+[14-02-23 19:52:04.223] 76561198080689461 "EL-Mao'" fully connected (7259,8227,0).
+[14-02-23 19:52:43.617] added connection index=1 196.187.37.191.
+[14-02-23 19:52:44.533] 76561198100576317 "Muezza" attempting to join.
+[14-02-23 19:52:44.534] 76561198100576317 "Muezza" allowed to join.
+[14-02-23 19:52:51.374] 76561198100576317 "Muezza" attempting to join used queue.
+[14-02-23 19:53:31.415] player Muezza loading time was: 39678 ms.
+[14-02-23 19:53:33.221] 76561198100576317 "Muezza" fully connected (6369,5327,0).
+[14-02-23 19:54:20.385] user EL-Mao' died at (7259,8227,0) (non pvp).
+[14-02-23 19:54:28.408] added connection index=2 36.90.102.197.
+[14-02-23 19:54:29.271] 76561198213478008 "Trisudar" attempting to join.
+[14-02-23 19:54:29.271] 76561198213478008 "Trisudar" allowed to join.
+[14-02-23 19:54:34.660] 76561198080689461 "EL-Mao'" disconnected player (7259,8227,0).
+[14-02-23 19:54:36.910] 76561198080689461 "EL-Mao'" fully connected (7259,8227,0).
+[14-02-23 19:54:47.564] 76561198213478008 "Trisudar" attempting to join used queue.
+[14-02-23 19:56:24.570] added connection index=3 35.232.81.204.
+[14-02-23 19:56:25.411] 76561198145393066 "Jim Burger" attempting to join.
+[14-02-23 19:56:25.412] 76561198145393066 "Jim Burger" allowed to join.
+[14-02-23 19:56:26.692] user Muezza died at (6384,5280,0) (non pvp).
+[14-02-23 19:56:37.181] 76561198100576317 "Muezza" disconnected player (6384,5280,0).
+[14-02-23 19:56:40.226] player Trisudar loading time was: 112121 ms.
+[14-02-23 19:56:40.314] 76561198100576317 "Muezza" fully connected (7259,8227,0).
+[14-02-23 19:56:42.938] 76561198213478008 "Trisudar" fully connected (6372,5316,0).
+[14-02-23 19:56:51.877] 76561198145393066 "Jim Burger" attempting to join used queue.
+[14-02-23 19:57:28.792] player Jim Burger loading time was: 36451 ms.
+[14-02-23 19:57:31.771] 76561198145393066 "Jim Burger" fully connected (7259,8227,0).
+[14-02-23 19:58:41.646] user Trisudar died at (6387,5337,0) (non pvp).
+[14-02-23 20:06:20.791] 76561198213478008 "Trisudar" disconnected player (6387,5337,0).
+[14-02-23 20:06:40.155] 76561198213478008 "Trisudar" fully connected (7259,8227,0).
+[14-02-23 20:10:27.551] user EL-Mao' died at (7251,8286,0) (non pvp).
+[14-02-23 20:10:43.409] 76561198080689461 "EL-Mao'" disconnected player (7251,8286,0).
+[14-02-23 20:10:45.824] 76561198080689461 "EL-Mao'" fully connected (7259,8227,0).
+[14-02-23 20:16:17.752] 76561198145393066 "Jim Burger" removed connection index=3.
+[14-02-23 20:16:18.108] 76561198145393066 "Jim Burger" disconnected player (7261,8284,0).
+[14-02-23 20:16:18.108] 76561198145393066 "Jim Burger" removed connection index=3.
+[14-02-23 20:16:41.034] user Muezza died at (7259,8293,0) (non pvp).
+[14-02-23 20:16:56.294] 76561198100576317 "Muezza" disconnected player (7259,8293,0).
+[14-02-23 20:17:00.654] 76561198100576317 "Muezza" fully connected (7259,8227,0).
+[14-02-23 20:18:07.456] user EL-Mao' died at (7261,8238,0) (non pvp).
+[14-02-23 20:18:50.687] 76561198080689461 "EL-Mao'" disconnected player (7261,8238,0).
+[14-02-23 20:18:53.089] 76561198080689461 "EL-Mao'" fully connected (7259,8227,0).
+[14-02-23 20:19:03.440] added connection index=3 137.97.85.29.
+[14-02-23 20:19:04.297] 76561198145393066 "Jim Burger" attempting to join.
+[14-02-23 20:19:04.298] 76561198145393066 "Jim Burger" allowed to join.
+[14-02-23 20:19:12.466] 76561198145393066 "Jim Burger" attempting to join used queue.
+[14-02-23 20:19:22.185] player Jim Burger loading time was: 9376 ms.
+[14-02-23 20:20:00.937] 76561198145393066 "Jim Burger" fully connected (7248,8286,0).
+[14-02-23 20:29:42.785] user Jim Burger died at (7302,8205,0) (non pvp).
+[14-02-23 20:30:52.576] user Muezza died at (7290,8206,0) (non pvp).
+[14-02-23 20:31:07.252] 76561198100576317 "Muezza" disconnected player (7290,8206,0).
+[14-02-23 20:31:13.760] 76561198100576317 "Muezza" fully connected (7259,8227,0).
+[14-02-23 20:31:41.786] user EL-Mao' died at (7304,8176,0) (non pvp).
+[14-02-23 20:31:55.767] 76561198080689461 "EL-Mao'" disconnected player (7304,8176,0).
+[14-02-23 20:31:58.084] 76561198080689461 "EL-Mao'" fully connected (7259,8227,0).
+[14-02-23 20:32:18.142] 76561198145393066 "Jim Burger" disconnected player (7302,8205,0).
+[14-02-23 20:32:26.613] 76561198145393066 "Jim Burger" fully connected (7259,8227,0).
+[14-02-23 20:59:40.734] 76561198145393066 "Jim Burger" removed connection index=3.
+[14-02-23 20:59:40.748] 76561198145393066 "Jim Burger" disconnected player (7267,8235,0).
+[14-02-23 20:59:40.748] 76561198145393066 "Jim Burger" removed connection index=3.
+[14-02-23 21:01:03.429] added connection index=3 69.77.133.179.
+[14-02-23 21:01:04.219] 76561198145393066 "Jim Burger" attempting to join.
+[14-02-23 21:01:04.220] 76561198145393066 "Jim Burger" allowed to join.
+[14-02-23 21:01:12.366] 76561198145393066 "Jim Burger" attempting to join used queue.
+[14-02-23 21:01:21.214] player Jim Burger loading time was: 8511 ms.
+[14-02-23 21:01:37.691] 76561198145393066 "Jim Burger" fully connected (7260,8236,0).
+[14-02-23 22:33:56.736] 76561198145393066 "Jim Burger" removed connection index=3.
+[14-02-23 22:33:56.748] 76561198145393066 "Jim Burger" disconnected player (7299,8196,1).
+[14-02-23 22:33:56.749] 76561198145393066 "Jim Burger" removed connection index=3.
+[14-02-23 22:37:04.347] added connection index=3 164.3.222.10.
+[14-02-23 22:37:05.317] 76561198145393066 "Jim Burger" attempting to join.
+[14-02-23 22:37:05.317] 76561198145393066 "Jim Burger" allowed to join.
+[14-02-23 22:37:13.550] 76561198145393066 "Jim Burger" attempting to join used queue.
+[14-02-23 22:37:47.951] player Jim Burger loading time was: 34046 ms.
+[14-02-23 22:37:49.721] 76561198145393066 "Jim Burger" fully connected (7299,8204,0).
+[14-02-23 23:20:59.981] user Trisudar died at (7342,8200,0) (non pvp).
+[14-02-23 23:24:12.257] 76561198213478008 "Trisudar" disconnected player (7342,8200,0).
+[14-02-23 23:24:23.255] 76561198213478008 "Trisudar" fully connected (7259,8227,0).
+[14-02-23 23:26:29.134] user Muezza died at (7317,8181,0) (non pvp).
+[14-02-23 23:26:41.294] 76561198100576317 "Muezza" disconnected player (7317,8181,0).
+[14-02-23 23:26:46.312] 76561198100576317 "Muezza" fully connected (7259,8227,0).
+[14-02-23 23:32:41.956] user Muezza died at (7193,8315,0) (non pvp).
+[14-02-23 23:32:54.290] 76561198100576317 "Muezza" disconnected player (7193,8315,0).
+[14-02-23 23:32:59.307] 76561198100576317 "Muezza" fully connected (7259,8227,0).
+[14-02-23 23:37:22.760] 76561198145393066 "Jim Burger" removed connection index=3.
+[14-02-23 23:37:22.772] 76561198145393066 "Jim Burger" disconnected player (7288,8133,0).
+[14-02-23 23:37:22.772] 76561198145393066 "Jim Burger" removed connection index=3.
+[14-02-23 23:38:21.548] added connection index=3 189.58.56.230.
+[14-02-23 23:38:22.447] 76561198145393066 "Jim Burger" attempting to join.
+[14-02-23 23:38:22.447] 76561198145393066 "Jim Burger" allowed to join.
+[14-02-23 23:38:30.743] 76561198145393066 "Jim Burger" attempting to join used queue.
+[14-02-23 23:39:08.045] player Jim Burger loading time was: 36964 ms.
+[14-02-23 23:39:21.215] 76561198145393066 "Jim Burger" fully connected (7231,8286,0).
+[15-02-23 00:11:27.491] user Trisudar died at (6795,7576,0) (non pvp).
+[15-02-23 00:12:03.637] 76561198213478008 "Trisudar" removed connection index=2.
+[15-02-23 00:12:03.649] 76561198213478008 "Trisudar" disconnected player (6795,7576,0).
+[15-02-23 01:12:34.683] user EL-Mao' died at (7368,8362,0) (non pvp).
+[15-02-23 01:13:06.621] 76561198080689461 "EL-Mao'" removed connection index=0.
+[15-02-23 01:13:06.632] 76561198080689461 "EL-Mao'" disconnected player (7368,8362,0).

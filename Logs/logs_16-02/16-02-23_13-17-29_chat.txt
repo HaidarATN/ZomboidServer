@@ -1,0 +1,124 @@
+[16-02-23 13:17:29.476][info] Start chat server initialization....
+[16-02-23 13:17:29.485][info] General chat has id = 0.
+[16-02-23 13:17:29.485][info] Say chat has id = 1.
+[16-02-23 13:17:29.485][info] Shout chat has id = 2.
+[16-02-23 13:17:29.486][info] Radio chat has id = 3.
+[16-02-23 13:17:29.486][info] Admin chat has id = 4.
+[16-02-23 13:17:29.486][info] Server chat has id = 5.
+[16-02-23 13:17:29.486][info] Chat server successfully initialized.
+[16-02-23 13:19:40.751][info] Player with id = '0' tries to connect.
+[16-02-23 13:19:40.751][info] Adding player '0' to chat server.
+[16-02-23 13:19:40.752][info] Player joined to default chats.
+[16-02-23 13:19:40.753][info] Player EL-Mao'(0) joined to chat server successfully.
+[16-02-23 13:45:31.640][info] Player with id = '4' tries to connect.
+[16-02-23 13:45:31.640][info] Adding player '4' to chat server.
+[16-02-23 13:45:31.641][info] Player joined to default chats.
+[16-02-23 13:45:31.641][info] Player Gym Burger (Double Cheese)(4) joined to chat server successfully.
+[16-02-23 13:47:49.722][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 13:47:49.723][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'} sent to chat (id = 2) members.
+[16-02-23 13:47:49.925][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 13:47:49.925][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[16-02-23 13:47:50.489][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 13:47:50.489][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'} sent to chat (id = 2) members.
+[16-02-23 13:47:50.674][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 13:47:50.674][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'} sent to chat (id = 2) members.
+[16-02-23 13:47:50.789][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 13:47:50.789][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'} sent to chat (id = 2) members.
+[16-02-23 13:47:51.011][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 13:47:51.011][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'} sent to chat (id = 2) members.
+[16-02-23 13:47:51.334][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 13:47:51.334][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[16-02-23 13:47:51.546][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 13:47:51.546][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'} sent to chat (id = 2) members.
+[16-02-23 13:47:51.709][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 13:47:51.709][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[16-02-23 13:47:51.939][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 13:47:51.939][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'} sent to chat (id = 2) members.
+[16-02-23 13:47:52.129][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 13:47:52.129][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[16-02-23 13:47:52.383][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 13:47:52.383][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'} sent to chat (id = 2) members.
+[16-02-23 13:47:52.594][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 13:47:52.594][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[16-02-23 13:47:52.857][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 13:47:52.857][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'} sent to chat (id = 2) members.
+[16-02-23 13:47:53.142][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 13:47:53.142][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'} sent to chat (id = 2) members.
+[16-02-23 13:48:09.577][info] Player 4 disconnecting....
+[16-02-23 13:48:09.578][info] Disconnecting player 4 finished.
+[16-02-23 13:50:07.272][info] Player 4 disconnecting....
+[16-02-23 13:50:07.272][info] Disconnecting player 4 finished.
+[16-02-23 13:50:07.272][info] Player with id = '4' tries to connect.
+[16-02-23 13:50:07.272][info] Adding player '4' to chat server.
+[16-02-23 13:50:07.273][error] Player or connection is not found on server!.
+[16-02-23 13:50:07.273][error] player = null.
+[16-02-23 13:50:10.029][info] Player with id = '4' tries to connect.
+[16-02-23 13:50:10.029][info] Adding player '4' to chat server.
+[16-02-23 13:50:10.029][info] Player joined to default chats.
+[16-02-23 13:50:10.029][info] Player Gym Burger (Double Cheese)(4) joined to chat server successfully.
+[16-02-23 14:05:58.312][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:05:58.313][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[16-02-23 14:05:58.450][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 14:05:58.451][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'} sent to chat (id = 2) members.
+[16-02-23 14:05:58.600][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:05:58.600][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[16-02-23 14:05:58.735][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:05:58.736][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[16-02-23 14:05:58.879][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:05:58.879][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'} sent to chat (id = 2) members.
+[16-02-23 14:05:59.996][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:05:59.996][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[16-02-23 14:06:00.122][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:06:00.122][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[16-02-23 14:06:00.254][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:00.255][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'} sent to chat (id = 2) members.
+[16-02-23 14:06:00.473][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:06:00.474][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[16-02-23 14:06:01.229][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:01.230][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'} sent to chat (id = 2) members.
+[16-02-23 14:06:01.394][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:01.394][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'} sent to chat (id = 2) members.
+[16-02-23 14:06:07.936][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:07.937][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'} sent to chat (id = 2) members.
+[16-02-23 14:06:08.106][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:08.106][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'} sent to chat (id = 2) members.
+[16-02-23 14:06:09.423][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 14:06:09.424][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'} sent to chat (id = 2) members.
+[16-02-23 14:06:09.551][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:09.552][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'} sent to chat (id = 2) members.
+[16-02-23 14:06:10.601][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:10.601][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'} sent to chat (id = 2) members.
+[16-02-23 14:06:14.185][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:14.186][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'} sent to chat (id = 2) members.
+[16-02-23 14:06:14.491][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 14:06:14.491][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'} sent to chat (id = 2) members.
+[16-02-23 14:06:16.005][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 14:06:16.005][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'} sent to chat (id = 2) members.
+[16-02-23 14:06:18.300][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:06:18.300][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[16-02-23 14:06:19.471][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:06:19.471][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[16-02-23 14:06:21.557][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 14:06:21.558][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'} sent to chat (id = 2) members.
+[16-02-23 14:06:21.721][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:21.721][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'} sent to chat (id = 2) members.
+[16-02-23 14:06:24.035][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:06:24.035][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[16-02-23 14:06:24.226][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:24.227][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'} sent to chat (id = 2) members.
+[16-02-23 14:06:29.091][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:06:29.091][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[16-02-23 14:06:58.759][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:06:58.759][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[16-02-23 14:06:58.976][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 14:06:58.977][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'} sent to chat (id = 2) members.
+[16-02-23 14:06:59.113][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:59.114][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'} sent to chat (id = 2) members.
+[16-02-23 14:06:59.302][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:59.302][info] Message ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'} sent to chat (id = 2) members.
+[16-02-23 14:54:59.107][info] Player 4 disconnecting....
+[16-02-23 14:54:59.108][info] Disconnecting player 4 finished.
+[16-02-23 15:13:15.844][info] Player 0 disconnecting....
+[16-02-23 15:13:15.844][info] Disconnecting player 0 finished.
+[16-02-23 15:13:15.845][info] Player 0 disconnecting....
+[16-02-23 15:13:15.845][info] Disconnecting player 0 finished.

@@ -1,0 +1,295 @@
+[16-02-23 13:20:06.941] 76561198080689461 "EL-Mao'" floor -1 10674,10629,0 [Base.TinOpener].
+[16-02-23 13:20:07.738] 76561198080689461 "EL-Mao'" container -1 10674,10630,0 [Base.CannedBolognese].
+[16-02-23 13:20:09.058] 76561198080689461 "EL-Mao'" floor +1 10673,10629,0 [Base.TinOpener].
+[16-02-23 13:20:31.645] 76561198080689461 "EL-Mao'" floor -1 10672,10630,0 [Base.BeerBottle].
+[16-02-23 13:20:55.731] 76561198080689461 "EL-Mao'" container +0 10669,10627,0 [Base.TinCanEmpty].
+[16-02-23 13:20:58.731] 76561198080689461 "EL-Mao'" container +0 10669,10627,0 [Base.WineWaterFull, Base.WaterBottleFull].
+[16-02-23 13:22:13.355] 76561198080689461 "EL-Mao'" container -1 10673,10618,0 [Base.BaseballBatNails].
+[16-02-23 13:22:23.860] 76561198080689461 "EL-Mao'" floor -1 10670,10631,0 [Base.Bag_WorkerBag].
+[16-02-23 13:22:40.733] 76561198080689461 "EL-Mao'" container +0 10669,10632,0 [Base.Crowbar].
+[16-02-23 13:22:46.731] 76561198080689461 "EL-Mao'" container +0 10669,10632,0 [Base.Screwdriver].
+[16-02-23 13:22:52.730] 76561198080689461 "EL-Mao'" container +0 10669,10631,0 [Base.SheetMetal].
+[16-02-23 13:22:55.727] 76561198080689461 "EL-Mao'" container +0 10669,10631,0 [Base.SheetMetal].
+[16-02-23 13:22:58.726] 76561198080689461 "EL-Mao'" container +0 10669,10631,0 [Base.Woodglue].
+[16-02-23 13:23:04.731] 76561198080689461 "EL-Mao'" container +0 10669,10631,0 [Base.Rope].
+[16-02-23 13:23:10.431] 76561198080689461 "EL-Mao'" container +0 10669,10632,0 [Radio.WalkieTalkie2].
+[16-02-23 13:23:19.728] 76561198080689461 "EL-Mao'" container +0 10673,10630,0 [Base.LicoriceBlack].
+[16-02-23 13:23:43.731] 76561198080689461 "EL-Mao'" container -1 10673,10630,0 [Base.TortillaChips].
+[16-02-23 13:23:46.733] 76561198080689461 "EL-Mao'" container -2 10673,10630,0 [Base.GranolaBar].
+[16-02-23 13:25:21.931] 76561198080689461 "EL-Mao'" container -2 10669,10631,0 [Base.LightBulb].
+[16-02-23 13:38:10.737] 76561198080689461 "EL-Mao'" container -1 10669,10631,0 [Base.DuctTape].
+[16-02-23 13:38:25.724] 76561198080689461 "EL-Mao'" container -1 10669,10631,0 [Base.DuctTape].
+[16-02-23 13:46:31.346] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.Bag_WorkerBag].
+[16-02-23 13:46:38.622] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.Bandaid].
+[16-02-23 13:46:38.623] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.AlcoholWipes].
+[16-02-23 13:46:38.778] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.Bleach].
+[16-02-23 13:46:38.779] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.RippedSheets].
+[16-02-23 13:46:38.780] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.RippedSheets].
+[16-02-23 13:46:38.781] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.RippedSheets].
+[16-02-23 13:46:38.781] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.RippedSheets].
+[16-02-23 13:46:38.782] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.RippedSheets].
+[16-02-23 13:46:38.783] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.RippedSheets].
+[16-02-23 13:46:38.783] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.RippedSheets].
+[16-02-23 13:46:38.833] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.BookFirstAid1].
+[16-02-23 13:46:39.196] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.BucketWaterFull].
+[16-02-23 13:46:41.045] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.Belt2].
+[16-02-23 13:46:43.010] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.Hat_HardHat].
+[16-02-23 13:46:44.908] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.Briefs_SmallTrunks_Black].
+[16-02-23 13:46:46.878] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.Shirt_FormalTINT].
+[16-02-23 13:46:48.973] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.JacketLong_Random].
+[16-02-23 13:46:50.961] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.Trousers_DefaultTEXTURE_TINT].
+[16-02-23 13:46:52.923] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10667,10615,0 [Base.Shoes_Random].
+[16-02-23 13:46:59.346] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10668,10614,0 [Base.BaseballBatNails].
+[16-02-23 13:51:19.733] 76561198080689461 "EL-Mao'" container +0 10669,10631,0 [Base.DuctTape].
+[16-02-23 13:51:22.733] 76561198080689461 "EL-Mao'" container +0 10669,10631,0 [Base.LightBulb].
+[16-02-23 13:51:40.140] 76561198080689461 "EL-Mao'" floor -1 10673,10629,0 [Base.TinOpener].
+[16-02-23 13:51:40.728] 76561198080689461 "EL-Mao'" container -1 10674,10630,0 [Base.CannedPeas].
+[16-02-23 13:51:43.095] 76561198080689461 "EL-Mao'" floor +1 10673,10629,0 [Base.TinOpener].
+[16-02-23 13:51:49.750] 76561198145393066 "Gym Burger (Double Cheese)" container -7 10667,10615,0 [Base.Crisps, Base.CannedCarrotsOpen, Base.Crisps3, Base.Crisps2, Base.Chocolate].
+[16-02-23 13:51:52.658] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10667,10615,0 [Base.CannedCarrotsOpen].
+[16-02-23 13:52:10.953] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10667,10615,0 [Base.Bag_WorkerBag].
+[16-02-23 13:52:34.739] 76561198080689461 "EL-Mao'" container -1 10676,10632,0 [Base.Burrito].
+[16-02-23 13:52:59.298] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10667,10615,0 [Base.JacketLong_Random].
+[16-02-23 13:53:11.509] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10667,10615,0 [Base.Trousers_DefaultTEXTURE_TINT].
+[16-02-23 13:53:21.170] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10667,10615,0 [Base.Shoes_Random].
+[16-02-23 13:53:26.501] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10667,10615,0 [Base.Hat_HardHat].
+[16-02-23 13:53:37.726] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10668,10614,0 [Base.BaseballBatNails].
+[16-02-23 13:53:39.256] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10667,10615,0 [Base.RippedSheets].
+[16-02-23 13:53:39.267] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10667,10615,0 [Base.RippedSheets].
+[16-02-23 13:53:39.268] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10667,10615,0 [Base.RippedSheets].
+[16-02-23 13:53:39.268] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10667,10615,0 [Base.RippedSheets].
+[16-02-23 13:53:39.268] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10667,10615,0 [Base.RippedSheets].
+[16-02-23 13:53:39.268] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10667,10615,0 [Base.RippedSheets].
+[16-02-23 13:53:39.269] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10667,10615,0 [Base.RippedSheets].
+[16-02-23 13:53:41.954] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10667,10615,0 [Base.BookFirstAid1].
+[16-02-23 13:53:48.291] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10667,10615,0 [Base.BucketWaterFull].
+[16-02-23 13:54:00.212] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10667,10615,0 [Base.Bandaid].
+[16-02-23 13:54:01.276] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10667,10615,0 [Base.AlcoholWipes].
+[16-02-23 13:54:31.735] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10669,10627,0 [Base.Shoes_Random].
+[16-02-23 13:55:14.536] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10669,10622,0 [Base.BookFirstAid1].
+[16-02-23 13:55:24.244] 76561198080689461 "EL-Mao'" floor -1 10669,10622,0 [Base.BookFirstAid1].
+[16-02-23 13:55:34.736] 76561198080689461 "EL-Mao'" container +0 10669,10620,0 [Base.BookFirstAid1].
+[16-02-23 13:55:43.725] 76561198080689461 "EL-Mao'" container +0 10669,10627,0 [Base.TinCanEmpty].
+[16-02-23 13:55:49.770] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10673,10618,0 [Base.MetalPipe].
+[16-02-23 13:55:52.767] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10673,10618,0 [Base.MetalPipe].
+[16-02-23 13:56:01.725] 76561198080689461 "EL-Mao'" container -1 10672,10616,0 [Base.ShotgunShellsBox].
+[16-02-23 13:56:04.732] 76561198080689461 "EL-Mao'" container -1 10672,10616,0 [Base.ShotgunShellsBox].
+[16-02-23 13:56:07.733] 76561198080689461 "EL-Mao'" container +0 10672,10616,0 [Base.ShotgunShells].
+[16-02-23 13:56:16.738] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10669,10627,0 [Base.CannedCarrotsOpen].
+[16-02-23 13:56:31.756] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10674,10630,0 [Base.CannedCornedBeef].
+[16-02-23 13:56:46.731] 76561198080689461 "EL-Mao'" container -1 10673,10615,0 [Base.Shotgun].
+[16-02-23 13:57:10.744] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10673,10615,0 [Base.Shotgun].
+[16-02-23 13:57:22.751] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10672,10616,0 [Base.ShotgunShells].
+[16-02-23 13:57:25.765] 76561198145393066 "Gym Burger (Double Cheese)" container -4 10672,10616,0 [Base.ShotgunShells].
+[16-02-23 13:57:28.821] 76561198145393066 "Gym Burger (Double Cheese)" container -4 10672,10616,0 [Base.ShotgunShells].
+[16-02-23 13:57:31.744] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10672,10616,0 [Base.ShotgunShells].
+[16-02-23 13:57:34.741] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10672,10616,0 [Base.ShotgunShells].
+[16-02-23 13:57:37.737] 76561198145393066 "Gym Burger (Double Cheese)" container -4 10672,10616,0 [Base.ShotgunShells].
+[16-02-23 13:57:40.729] 76561198145393066 "Gym Burger (Double Cheese)" container -5 10672,10616,0 [Base.ShotgunShells].
+[16-02-23 13:58:07.728] 76561198080689461 "EL-Mao'" container -20 10672,10616,0 [Base.ShotgunShells].
+[16-02-23 13:58:22.899] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10675,10620,0 [Base.MetalPipe].
+[16-02-23 13:58:31.620] 76561198080689461 "EL-Mao'" floor +1 10670,10629,0 [Base.Bag_WorkerBag].
+[16-02-23 13:58:46.732] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10673,10618,0 [Base.Nightstick].
+[16-02-23 13:58:49.775] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10673,10618,0 [Base.MetalPipe].
+[16-02-23 14:00:27.462] 76561198080689461 "EL-Mao'" container -1 10659,10614,0 [Base.PetrolCan].
+[16-02-23 14:00:37.728] 76561198080689461 "EL-Mao'" container +0 10654,10622,0 [Base.PetrolCan].
+[16-02-23 14:05:10.628] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10610,9444,0 [Base.Doorknob].
+[16-02-23 14:05:10.629] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10610,9444,0 [Base.Hinge].
+[16-02-23 14:05:27.083] 76561198080689461 "EL-Mao'" floor +1 10614,9404,0 [Base.Glasses_Normal].
+[16-02-23 14:06:09.001] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10612,9437,0 [Base.UnusableWood].
+[16-02-23 14:06:09.002] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10612,9437,0 [Base.Doorknob].
+[16-02-23 14:06:09.002] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10612,9437,0 [Base.Hinge].
+[16-02-23 14:06:48.125] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10600,9389,0 [Base.MetalBar].
+[16-02-23 14:06:59.428] 76561198080689461 "EL-Mao'" floor +1 10602,9410,0 [Base.Doorknob].
+[16-02-23 14:06:59.429] 76561198080689461 "EL-Mao'" floor +1 10602,9410,0 [Base.Hinge].
+[16-02-23 14:07:04.727] 76561198080689461 "EL-Mao'" container -1 10607,9402,0 [Base.Jack].
+[16-02-23 14:07:08.201] 76561198080689461 "EL-Mao'" floor +1 10606,9410,0 [Base.UnusableWood].
+[16-02-23 14:07:08.201] 76561198080689461 "EL-Mao'" floor +1 10606,9410,0 [Base.Doorknob].
+[16-02-23 14:07:08.202] 76561198080689461 "EL-Mao'" floor +1 10606,9410,0 [Base.Hinge].
+[16-02-23 14:07:37.143] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10623,9434,0 [Base.Glasses_Normal].
+[16-02-23 14:08:04.110] 76561198080689461 "EL-Mao'" floor +1 10620,9435,0 [Base.UnusableWood].
+[16-02-23 14:08:04.111] 76561198080689461 "EL-Mao'" floor +1 10620,9435,0 [Base.Doorknob].
+[16-02-23 14:10:40.729] 76561198080689461 "EL-Mao'" container -1 10669,10632,0 [Base.Wrench].
+[16-02-23 14:10:49.101] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10668,10619,0 [Base.DishCloth].
+[16-02-23 14:10:50.793] 76561198080689461 "EL-Mao'" floor -1 10671,10627,0 [Base.LugWrench].
+[16-02-23 14:11:34.713] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10676,10632,0 [Base.Ham].
+[16-02-23 14:12:01.720] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10665,10628,0 [Base.Ham].
+[16-02-23 14:12:48.987] 76561198080689461 "EL-Mao'" floor +1 10656,10629,0 [Base.ModernTire1].
+[16-02-23 14:13:01.711] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10665,10628,0 [Base.Ham].
+[16-02-23 14:13:43.160] 76561198080689461 "EL-Mao'" floor +1 10655,10629,0 [Base.ModernTire1].
+[16-02-23 14:13:43.325] 76561198080689461 "EL-Mao'" floor +1 10655,10629,0 [Base.ModernTire1].
+[16-02-23 14:13:46.967] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10654,10630,0 [Base.Ham].
+[16-02-23 14:13:51.061] 76561198080689461 "EL-Mao'" floor -1 10654,10630,0 [Base.Ham].
+[16-02-23 14:14:25.428] 76561198080689461 "EL-Mao'" floor -1 10655,10629,0 [Base.ModernTire1].
+[16-02-23 14:14:25.439] 76561198080689461 "EL-Mao'" floor -1 10655,10629,0 [Base.ModernTire1].
+[16-02-23 14:15:19.487] 76561198080689461 "EL-Mao'" floor -1 10656,10629,0 [Base.ModernTire1].
+[16-02-23 14:16:04.718] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10676,10632,0 [Base.Milk].
+[16-02-23 14:16:42.964] 76561198080689461 "EL-Mao'" floor +1 10670,10623,0 [Base.Shotgun].
+[16-02-23 14:16:55.716] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10676,10632,0 [Base.Ham].
+[16-02-23 14:16:58.714] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10676,10632,0 [Base.Icecream].
+[16-02-23 14:17:16.716] 76561198145393066 "Gym Burger (Double Cheese)" container -2 10676,10632,0 [Base.MincedMeat].
+[16-02-23 14:17:19.717] 76561198145393066 "Gym Burger (Double Cheese)" container -2 10676,10632,0 [Base.MincedMeat].
+[16-02-23 14:17:34.703] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10665,10628,0 [Base.MincedMeat].
+[16-02-23 14:17:37.713] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10665,10628,0 [Base.Bandaid].
+[16-02-23 14:17:40.705] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10665,10628,0 [Base.Bandaid].
+[16-02-23 14:17:43.713] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10665,10628,0 [Base.Ham].
+[16-02-23 14:17:49.714] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10665,10628,0 [Base.Ham].
+[16-02-23 14:17:56.030] 76561198080689461 "EL-Mao'" floor -1 10676,10615,0 [Base.EmptyPetrolCan].
+[16-02-23 14:18:13.705] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10676,10632,0 [Base.PorkChop].
+[16-02-23 14:18:16.706] 76561198145393066 "Gym Burger (Double Cheese)" container -2 10676,10632,0 [Base.PorkChop].
+[16-02-23 14:18:43.704] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10665,10628,0 [Base.PorkChop].
+[16-02-23 14:19:52.716] 76561198145393066 "Gym Burger (Double Cheese)" container -4 10665,10628,0 [Base.MincedMeat].
+[16-02-23 14:20:28.476] 76561198080689461 "EL-Mao'" floor -1 10676,10615,0 [Base.EmptyPetrolCan].
+[16-02-23 14:20:28.487] 76561198080689461 "EL-Mao'" floor -1 10676,10615,0 [Base.EmptyPetrolCan].
+[16-02-23 14:20:28.487] 76561198080689461 "EL-Mao'" floor -1 10676,10615,0 [Base.EmptyPetrolCan].
+[16-02-23 14:20:28.487] 76561198080689461 "EL-Mao'" floor -1 10676,10615,0 [Base.EmptyPetrolCan].
+[16-02-23 14:20:34.706] 76561198145393066 "Gym Burger (Double Cheese)" container -2 10665,10628,0 [Base.PorkChop].
+[16-02-23 14:20:43.705] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10665,10628,0 [Base.PorkChop].
+[16-02-23 14:21:21.431] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10669,10620,0 [Base.BookFirstAid1].
+[16-02-23 14:21:56.179] 76561198080689461 "EL-Mao'" floor +1 10676,10615,0 [Base.PetrolCan].
+[16-02-23 14:22:00.351] 76561198080689461 "EL-Mao'" floor +1 10676,10615,0 [Base.PetrolCan].
+[16-02-23 14:22:03.879] 76561198080689461 "EL-Mao'" floor +1 10676,10615,0 [Base.PetrolCan].
+[16-02-23 14:22:07.685] 76561198080689461 "EL-Mao'" floor +1 10676,10615,0 [Base.PetrolCan].
+[16-02-23 14:22:17.146] 76561198080689461 "EL-Mao'" floor +1 10676,10615,0 [Base.PetrolCan].
+[16-02-23 14:23:24.304] 76561198080689461 "EL-Mao'" floor -1 10675,10615,0 [Base.CarBattery1].
+[16-02-23 14:23:38.217] 76561198080689461 "EL-Mao'" floor +1 10676,10615,0 [Base.CarBattery1].
+[16-02-23 14:23:44.353] 76561198080689461 "EL-Mao'" floor -1 10676,10616,0 [Base.CarBattery1].
+[16-02-23 14:25:24.198] 76561198080689461 "EL-Mao'" corpse +1 10670,10595,0.
+[16-02-23 14:28:34.569] 76561198080689461 "EL-Mao'" floor +1 10661,10618,0 [Base.CarBattery1].
+[16-02-23 14:28:40.409] 76561198080689461 "EL-Mao'" floor -1 10661,10618,0 [Base.CarBattery1].
+[16-02-23 14:28:43.872] 76561198080689461 "EL-Mao'" floor +1 10660,10617,0 [Base.CarBattery1].
+[16-02-23 14:29:45.163] 76561198080689461 "EL-Mao'" floor +1 10661,10617,0 [Base.ModernTire1].
+[16-02-23 14:29:45.311] 76561198080689461 "EL-Mao'" floor +1 10661,10617,0 [Base.ModernTire1].
+[16-02-23 14:30:58.512] 76561198080689461 "EL-Mao'" floor +1 10660,10617,0 [Base.ModernTire1].
+[16-02-23 14:30:58.668] 76561198080689461 "EL-Mao'" floor +1 10660,10617,0 [Base.ModernTire1].
+[16-02-23 14:32:15.125] 76561198080689461 "EL-Mao'" floor -1 10660,10617,0 [Base.ModernTire1].
+[16-02-23 14:32:15.135] 76561198080689461 "EL-Mao'" floor -1 10661,10617,0 [Base.ModernTire1].
+[16-02-23 14:32:31.813] 76561198080689461 "EL-Mao'" floor -1 10660,10617,0 [Base.CarBattery1].
+[16-02-23 14:32:40.777] 76561198080689461 "EL-Mao'" floor +1 10664,10620,0 [Base.ModernTire1].
+[16-02-23 14:32:40.934] 76561198080689461 "EL-Mao'" floor +1 10664,10620,0 [Base.ModernTire1].
+[16-02-23 14:32:48.793] 76561198080689461 "EL-Mao'" floor -1 10664,10620,0 [Base.ModernTire1].
+[16-02-23 14:32:48.793] 76561198080689461 "EL-Mao'" floor -1 10664,10620,0 [Base.ModernTire1].
+[16-02-23 14:32:58.564] 76561198080689461 "EL-Mao'" floor +1 10665,10620,0 [Base.ModernTire1].
+[16-02-23 14:33:07.680] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10676,10632,0 [Base.MincedMeat].
+[16-02-23 14:33:07.949] 76561198080689461 "EL-Mao'" floor +1 10665,10620,0 [Base.ModernTire1].
+[16-02-23 14:33:10.685] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10676,10632,0 [Base.PorkChop, Base.MincedMeat].
+[16-02-23 14:33:13.690] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10676,10632,0 [Base.Ham, Base.PorkChop].
+[16-02-23 14:33:18.967] 76561198080689461 "EL-Mao'" floor -1 10665,10620,0 [Base.ModernTire1].
+[16-02-23 14:33:18.967] 76561198080689461 "EL-Mao'" floor -1 10665,10620,0 [Base.ModernTire1].
+[16-02-23 14:33:36.568] 76561198080689461 "EL-Mao'" floor +1 10665,10620,0 [Base.ModernTire1].
+[16-02-23 14:33:38.918] 76561198080689461 "EL-Mao'" floor +1 10665,10620,0 [Base.ModernTire1].
+[16-02-23 14:33:43.684] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10676,10632,0 [Base.PorkChop].
+[16-02-23 14:33:54.318] 76561198080689461 "EL-Mao'" floor -1 10660,10617,0 [Base.ModernTire1].
+[16-02-23 14:33:54.318] 76561198080689461 "EL-Mao'" floor -1 10661,10617,0 [Base.ModernTire1].
+[16-02-23 14:33:58.677] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10676,10632,0 [Base.PorkChop].
+[16-02-23 14:34:02.462] 76561198080689461 "EL-Mao'" floor +1 10665,10620,0 [Base.ModernTire1].
+[16-02-23 14:34:19.677] 76561198145393066 "Gym Burger (Double Cheese)" container -4 10676,10632,0 [Base.MincedMeat].
+[16-02-23 14:34:19.677] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10676,10632,0 [Base.MincedMeat].
+[16-02-23 14:34:22.191] 76561198080689461 "EL-Mao'" floor +1 10665,10621,0 [Base.ModernTire1].
+[16-02-23 14:34:22.694] 76561198145393066 "Gym Burger (Double Cheese)" container -2 10676,10632,0 [Base.PorkChop].
+[16-02-23 14:34:22.694] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10676,10632,0 [Base.PorkChop].
+[16-02-23 14:34:25.688] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10676,10632,0 [Base.Ham].
+[16-02-23 14:34:25.688] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10676,10632,0 [Base.Ham].
+[16-02-23 14:34:37.671] 76561198080689461 "EL-Mao'" floor +1 10676,10615,0 [Base.CarBattery1].
+[16-02-23 14:34:52.686] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10665,10628,0 [Base.PorkChop].
+[16-02-23 14:35:13.727] 76561198080689461 "EL-Mao'" container -1 10676,10632,0 [Base.MincedMeat].
+[16-02-23 14:35:22.677] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10665,10628,0 [Base.PorkChop].
+[16-02-23 14:35:28.730] 76561198080689461 "EL-Mao'" container +0 10665,10628,0 [Base.MincedMeat].
+[16-02-23 14:35:37.730] 76561198080689461 "EL-Mao'" container -1 10665,10628,0 [Base.MincedMeat].
+[16-02-23 14:36:34.531] 76561198080689461 "EL-Mao'" container +0 10673,10618,0 [Base.BaseballBatNails].
+[16-02-23 14:37:34.044] 76561198080689461 "EL-Mao'" floor -1 10673,10627,0 [Base.BeerEmpty].
+[16-02-23 14:37:46.729] 76561198080689461 "EL-Mao'" container -2 10669,10627,0 [Base.WineWaterFull, Base.WaterBottleFull].
+[16-02-23 14:37:59.098] 76561198080689461 "EL-Mao'" floor +1 10653,10626,0 [Base.WhiskeyEmpty].
+[16-02-23 14:37:59.111] 76561198080689461 "EL-Mao'" floor +1 10653,10626,0 [Base.BeerEmpty].
+[16-02-23 14:37:59.117] 76561198080689461 "EL-Mao'" floor +1 10653,10626,0 [Base.BeerEmpty].
+[16-02-23 14:38:04.687] 76561198145393066 "Gym Burger (Double Cheese)" container -3 10669,10627,0 [Base.TinCanEmpty].
+[16-02-23 14:38:06.700] 76561198145393066 "Gym Burger (Double Cheese)" container -3 10669,10627,0 [Base.TinCanEmpty].
+[16-02-23 14:38:16.643] 76561198145393066 "Gym Burger (Double Cheese)" container -2 10669,10627,0 [Base.Pop2Empty, Base.Pop3Empty].
+[16-02-23 14:38:36.312] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10653,10626,0 [Base.TinCanEmpty].
+[16-02-23 14:38:36.340] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10653,10626,0 [Base.TinCanEmpty].
+[16-02-23 14:38:36.375] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10653,10626,0 [Base.TinCanEmpty].
+[16-02-23 14:38:36.411] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10653,10626,0 [Base.TinCanEmpty].
+[16-02-23 14:38:36.434] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10653,10626,0 [Base.TinCanEmpty].
+[16-02-23 14:38:36.476] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10653,10626,0 [Base.TinCanEmpty].
+[16-02-23 14:38:36.515] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10653,10626,0 [Base.TinCanEmpty].
+[16-02-23 14:38:36.520] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10653,10626,0 [Base.Pop2Empty].
+[16-02-23 14:38:36.531] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10653,10626,0 [Base.Pop3Empty].
+[16-02-23 14:39:16.859] 76561198080689461 "EL-Mao'" floor -1 10670,10623,0 [Base.Shotgun].
+[16-02-23 14:42:43.672] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10628,10532,0 [Base.CannedMilk].
+[16-02-23 14:42:46.684] 76561198145393066 "Gym Burger (Double Cheese)" container -2 10628,10532,0 [Base.Coffee2].
+[16-02-23 14:42:49.665] 76561198145393066 "Gym Burger (Double Cheese)" container -2 10628,10532,0 [Base.Teacup, Base.SugarPacket].
+[16-02-23 14:43:04.665] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10628,10536,0 [Base.DishCloth].
+[16-02-23 14:43:10.669] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10627,10536,0 [Base.EggCarton].
+[16-02-23 14:43:19.662] 76561198145393066 "Gym Burger (Double Cheese)" container -1 10626,10536,0 [Base.Ham].
+[16-02-23 14:43:22.666] 76561198145393066 "Gym Burger (Double Cheese)" container -2 10626,10536,0 [Base.Pickles].
+[16-02-23 14:46:37.669] 76561198145393066 "Gym Burger (Double Cheese)" container -3 10675,10630,0 [Base.Money].
+[16-02-23 14:47:26.156] 76561198080689461 "EL-Mao'" floor +1 10671,10631,0 [Base.Screwdriver].
+[16-02-23 14:47:29.394] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10671,10631,0 [Base.Screwdriver].
+[16-02-23 14:48:14.032] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10674,10630,0 [Base.GlassTumblerWater].
+[16-02-23 14:48:14.033] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10674,10630,0 [Base.GlassTumblerWater].
+[16-02-23 14:49:34.655] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10676,10630,0 [Base.Coffee2].
+[16-02-23 14:49:37.657] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10676,10630,0 [Base.Coffee2].
+[16-02-23 14:49:40.670] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10676,10632,0 [Base.Pickles].
+[16-02-23 14:49:43.657] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10676,10632,0 [Base.Ham, Base.EggCarton].
+[16-02-23 14:49:49.656] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10676,10630,0 [Base.Teacup].
+[16-02-23 14:49:59.421] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10671,10629,0 [Base.GlassTumblerWater].
+[16-02-23 14:49:59.462] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10671,10629,0 [Base.GlassTumblerWater].
+[16-02-23 14:50:10.663] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10674,10630,0 [Base.Money].
+[16-02-23 14:50:22.666] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10676,10630,0 [Base.SugarPacket].
+[16-02-23 14:50:37.663] 76561198145393066 "Gym Burger (Double Cheese)" container +0 10674,10630,0 [Base.CannedMilk].
+[16-02-23 14:52:10.013] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.Bag_WorkerBag].
+[16-02-23 14:52:19.937] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.Nightstick].
+[16-02-23 14:52:20.073] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.BucketWaterFull].
+[16-02-23 14:52:20.117] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.Screwdriver].
+[16-02-23 14:52:20.201] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.BookFirstAid1].
+[16-02-23 14:52:20.216] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.RippedSheetsDirty].
+[16-02-23 14:52:20.249] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.DishCloth].
+[16-02-23 14:52:20.287] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.DishCloth].
+[16-02-23 14:52:20.304] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.RippedSheets].
+[16-02-23 14:52:20.309] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.RippedSheets].
+[16-02-23 14:52:20.310] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.RippedSheets].
+[16-02-23 14:52:20.310] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.RippedSheets].
+[16-02-23 14:52:20.311] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.RippedSheets].
+[16-02-23 14:52:20.312] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.RippedSheets].
+[16-02-23 14:52:20.312] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.RippedSheets].
+[16-02-23 14:52:20.313] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.RippedSheets].
+[16-02-23 14:52:20.314] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.RippedSheets].
+[16-02-23 14:52:20.323] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.Bandaid].
+[16-02-23 14:52:20.357] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.AlcoholWipes].
+[16-02-23 14:52:20.374] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.375] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.375] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.376] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.377] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.377] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.378] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.378] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.379] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.380] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.380] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.381] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.382] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.382] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.383] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.384] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.384] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.385] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.ShotgunShells].
+[16-02-23 14:52:20.421] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.Hat_BeretArmy].
+[16-02-23 14:52:20.637] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.BaseballBatNails].
+[16-02-23 14:52:20.652] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.KeyRing].
+[16-02-23 14:52:21.923] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.JacketLong_Random].
+[16-02-23 14:52:23.080] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.Tshirt_WhiteLongSleeveTINT].
+[16-02-23 14:52:24.154] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.Socks_Long].
+[16-02-23 14:52:25.325] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.Shirt_CamoGreen].
+[16-02-23 14:52:41.720] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10674,10632,0 [Base.Hat_BeretArmy].
+[16-02-23 14:52:50.811] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10674,10632,0 [Base.Tshirt_WhiteLongSleeveTINT].
+[16-02-23 14:52:52.906] 76561198145393066 "Gym Burger (Double Cheese)" floor -1 10674,10632,0 [Base.Shirt_CamoGreen].
+[16-02-23 14:53:16.699] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.Hat_HardHat].
+[16-02-23 14:53:25.731] 76561198080689461 "EL-Mao'" container -1 10676,10632,0 [Base.Ham].
+[16-02-23 14:53:40.723] 76561198080689461 "EL-Mao'" container +0 10665,10628,0 [Base.Ham].
+[16-02-23 14:53:54.332] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.Trousers_DefaultTEXTURE_TINT].
+[16-02-23 14:54:17.584] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10632,0 [Base.Shoes_Random].
+[16-02-23 14:54:22.726] 76561198080689461 "EL-Mao'" container -1 10665,10628,0 [Base.Ham].
+[16-02-23 14:54:43.943] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10675,10564,0 [Base.Hat_BeretArmy].
+[16-02-23 14:54:55.303] 76561198145393066 "Gym Burger (Double Cheese)" floor +1 10674,10565,0 [Base.Glasses_Normal].
+[16-02-23 14:55:16.730] 76561198080689461 "EL-Mao'" container -1 10672,10622,0 [Base.MagazineWordsearch2].

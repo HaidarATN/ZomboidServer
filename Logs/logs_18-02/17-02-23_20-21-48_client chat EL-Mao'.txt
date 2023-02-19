@@ -1,0 +1,6 @@
+[17-02-23 20:21:48.841][info] Init chat system....
+[17-02-23 20:21:48.841][info] Mode: multiplayer.
+[17-02-23 20:21:48.841][info] Chat owner: EL-Mao'.
+[17-02-23 23:50:05.987][info] Got message from server: ChatMessage{chat=Server, author='Server', text='teleported Muezza to EL-Mao''}.
+[18-02-23 00:20:28.353][info] Got message from server: ChatMessage{chat=Server, author='Server', text='teleported Muezza to EL-Mao''}.
+[18-02-23 02:53:08.853][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.

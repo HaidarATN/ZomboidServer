@@ -1,0 +1,3 @@
+[14-02-23 20:18:53.110][info] Init chat system....
+[14-02-23 20:18:53.111][info] Mode: multiplayer.
+[14-02-23 20:18:53.111][info] Chat owner: EL-Mao'.

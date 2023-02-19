@@ -1,0 +1,414 @@
+[13-02-23 23:56:08.136] reason = GlobalObject x,y,z = 165,154,0
+reason = GlobalObject x,y,z = 166,147,0
+reason = LuaManager.createZombie x,y,z = 165,147,0
+reason = GlobalObject x,y,z = 182,147,0
+reason = GlobalObject x,y,z = 181,147,0
+reason = LuaManager.createZombie x,y,z = 181,147,0
+reason = LuaManager.createZombie x,y,z = 181,147,0
+reason = LuaManager.createZombie x,y,z = 181,147,0
+reason = LuaManager.spawnHorde x,y,z = 205,153,0
+reason = LuaManager.spawnHorde x,y,z = 203,160,0
+reason = LuaManager.spawnHorde x,y,z = 208,159,0
+reason = LuaManager.spawnHorde x,y,z = 207,147,0
+reason = LuaManager.spawnHorde x,y,z = 208,156,0
+reason = LuaManager.spawnHorde x,y,z = 202,143,0
+reason = LuaManager.spawnHorde x,y,z = 207,146,0
+reason = LuaManager.spawnHorde x,y,z = 208,150,0
+reason = LuaManager.spawnHorde x,y,z = 201,153,0
+reason = LuaManager.spawnHorde x,y,z = 209,150,0
+reason = LuaManager.spawnHorde x,y,z = 203,149,0
+reason = LuaManager.spawnHorde x,y,z = 201,144,0
+reason = LuaManager.spawnHorde x,y,z = 207,159,0
+reason = LuaManager.spawnHorde x,y,z = 200,143,0.
+[13-02-23 23:56:08.148] reason = LuaManager.spawnHorde x,y,z = 209,164,0
+reason = LuaManager.spawnHorde x,y,z = 208,163,0
+reason = LuaManager.spawnHorde x,y,z = 205,149,0
+reason = LuaManager.spawnHorde x,y,z = 204,147,0
+reason = LuaManager.spawnHorde x,y,z = 208,154,0
+reason = LuaManager.spawnHorde x,y,z = 204,144,0
+reason = LuaManager.spawnHorde x,y,z = 200,157,0
+reason = LuaManager.spawnHorde x,y,z = 201,144,0
+reason = LuaManager.spawnHorde x,y,z = 202,156,0
+reason = LuaManager.spawnHorde x,y,z = 204,152,0
+reason = LuaManager.spawnHorde x,y,z = 204,147,0
+reason = LuaManager.spawnHorde x,y,z = 207,152,0
+reason = LuaManager.spawnHorde x,y,z = 208,156,0
+reason = LuaManager.spawnHorde x,y,z = 209,146,0
+reason = LuaManager.spawnHorde x,y,z = 206,160,0
+reason = LuaManager.spawnHorde x,y,z = 207,142,0
+reason = LuaManager.spawnHorde x,y,z = 202,141,0
+reason = LuaManager.spawnHorde x,y,z = 208,163,0
+reason = LuaManager.spawnHorde x,y,z = 201,153,0
+reason = LuaManager.spawnHorde x,y,z = 209,141,0
+reason = LuaManager.spawnHorde x,y,z = 202,158,0.
+[13-02-23 23:56:08.162] reason = LuaManager.spawnHorde x,y,z = 206,160,0
+reason = LuaManager.spawnHorde x,y,z = 207,141,0
+reason = LuaManager.spawnHorde x,y,z = 203,151,0
+reason = LuaManager.spawnHorde x,y,z = 205,143,0
+reason = LuaManager.spawnHorde x,y,z = 207,156,0
+reason = LuaManager.spawnHorde x,y,z = 204,148,0
+reason = LuaManager.spawnHorde x,y,z = 201,146,0
+reason = LuaManager.spawnHorde x,y,z = 207,154,0
+reason = LuaManager.spawnHorde x,y,z = 201,152,0
+reason = LuaManager.spawnHorde x,y,z = 207,158,0
+reason = LuaManager.spawnHorde x,y,z = 208,157,0
+reason = LuaManager.spawnHorde x,y,z = 207,152,0
+reason = LuaManager.spawnHorde x,y,z = 209,154,0
+reason = LuaManager.spawnHorde x,y,z = 206,146,0
+reason = LuaManager.spawnHorde x,y,z = 201,152,0
+reason = LuaManager.spawnHorde x,y,z = 209,156,0
+reason = LuaManager.spawnHorde x,y,z = 201,164,0
+reason = LuaManager.spawnHorde x,y,z = 204,155,0
+reason = LuaManager.spawnHorde x,y,z = 201,143,0
+reason = LuaManager.spawnHorde x,y,z = 203,162,0
+reason = LuaManager.spawnHorde x,y,z = 204,158,0.
+[13-02-23 23:56:08.172] reason = LuaManager.spawnHorde x,y,z = 206,149,0
+reason = LuaManager.spawnHorde x,y,z = 209,153,0
+reason = LuaManager.spawnHorde x,y,z = 200,152,0
+reason = LuaManager.spawnHorde x,y,z = 206,152,0
+reason = LuaManager.spawnHorde x,y,z = 201,149,0
+reason = LuaManager.spawnHorde x,y,z = 204,151,0
+reason = LuaManager.spawnHorde x,y,z = 205,144,0
+reason = LuaManager.spawnHorde x,y,z = 206,161,0
+reason = LuaManager.spawnHorde x,y,z = 201,152,0
+reason = LuaManager.spawnHorde x,y,z = 203,146,0
+reason = LuaManager.spawnHorde x,y,z = 200,151,0
+reason = LuaManager.spawnHorde x,y,z = 209,150,0
+reason = LuaManager.spawnHorde x,y,z = 209,145,0
+reason = LuaManager.spawnHorde x,y,z = 200,152,0
+reason = LuaManager.spawnHorde x,y,z = 202,147,0
+reason = LuaManager.spawnHorde x,y,z = 208,159,0
+reason = LuaManager.spawnHorde x,y,z = 205,150,0
+reason = LuaManager.spawnHorde x,y,z = 206,143,0
+reason = LuaManager.spawnHorde x,y,z = 205,163,0
+reason = LuaManager.spawnHorde x,y,z = 209,150,0
+reason = LuaManager.spawnHorde x,y,z = 207,154,0.
+[13-02-23 23:56:08.181] reason = LuaManager.spawnHorde x,y,z = 207,151,0
+reason = LuaManager.spawnHorde x,y,z = 202,150,0
+reason = LuaManager.spawnHorde x,y,z = 209,153,0
+reason = LuaManager.spawnHorde x,y,z = 208,151,0
+reason = LuaManager.spawnHorde x,y,z = 208,159,0
+reason = LuaManager.spawnHorde x,y,z = 203,157,0
+reason = LuaManager.spawnHorde x,y,z = 203,150,0
+reason = LuaManager.spawnHorde x,y,z = 201,164,0
+reason = LuaManager.spawnHorde x,y,z = 201,151,0
+reason = LuaManager.spawnHorde x,y,z = 203,146,0
+reason = LuaManager.spawnHorde x,y,z = 202,141,0
+reason = LuaManager.spawnHorde x,y,z = 203,156,0
+reason = LuaManager.spawnHorde x,y,z = 200,155,0
+reason = LuaManager.spawnHorde x,y,z = 203,153,0
+reason = LuaManager.spawnHorde x,y,z = 207,155,0
+reason = LuaManager.spawnHorde x,y,z = 204,144,0
+reason = LuaManager.spawnHorde x,y,z = 202,163,0
+reason = LuaManager.spawnHorde x,y,z = 205,160,0
+reason = LuaManager.spawnHorde x,y,z = 206,153,0
+reason = LuaManager.spawnHorde x,y,z = 205,155,0
+reason = LuaManager.spawnHorde x,y,z = 201,154,0.
+[13-02-23 23:56:08.191] reason = LuaManager.spawnHorde x,y,z = 201,153,0
+reason = LuaManager.spawnHorde x,y,z = 207,141,0
+reason = LuaManager.spawnHorde x,y,z = 196,191,0
+reason = LuaManager.spawnHorde x,y,z = 184,194,0
+reason = LuaManager.spawnHorde x,y,z = 183,201,0
+reason = LuaManager.spawnHorde x,y,z = 190,192,0
+reason = LuaManager.spawnHorde x,y,z = 199,201,0
+reason = LuaManager.spawnHorde x,y,z = 196,195,0 room = hall
+reason = LuaManager.spawnHorde x,y,z = 190,197,0 room = hall
+reason = LuaManager.spawnHorde x,y,z = 195,195,0 room = hall
+reason = LuaManager.spawnHorde x,y,z = 176,195,0
+reason = LuaManager.spawnHorde x,y,z = 178,195,0
+reason = LuaManager.spawnHorde x,y,z = 182,191,0
+reason = LuaManager.spawnHorde x,y,z = 195,196,0 room = hall
+reason = LuaManager.spawnHorde x,y,z = 187,199,0
+reason = LuaManager.spawnHorde x,y,z = 196,201,0 room = hall
+reason = LuaManager.spawnHorde x,y,z = 191,193,0
+reason = LuaManager.spawnHorde x,y,z = 201,193,0
+reason = LuaManager.spawnHorde x,y,z = 194,197,0 room = hall
+reason = LuaManager.spawnHorde x,y,z = 194,200,0 room = hall.
+[13-02-23 23:56:08.200] reason = LuaManager.spawnHorde x,y,z = 199,199,0
+reason = LuaManager.spawnHorde x,y,z = 185,198,0
+reason = LuaManager.spawnHorde x,y,z = 184,191,0
+reason = LuaManager.spawnHorde x,y,z = 178,199,0
+reason = LuaManager.spawnHorde x,y,z = 176,199,0
+reason = LuaManager.spawnHorde x,y,z = 182,193,0
+reason = LuaManager.spawnHorde x,y,z = 189,190,0
+reason = LuaManager.spawnHorde x,y,z = 186,191,0
+reason = LuaManager.spawnHorde x,y,z = 195,190,0
+reason = LuaManager.spawnHorde x,y,z = 179,197,0
+reason = LuaManager.spawnHorde x,y,z = 188,199,0 room = empty
+reason = LuaManager.spawnHorde x,y,z = 200,196,0
+reason = LuaManager.spawnHorde x,y,z = 197,193,0
+reason = LuaManager.spawnHorde x,y,z = 189,200,0 room = empty
+reason = LuaManager.spawnHorde x,y,z = 194,199,0 room = hall
+reason = LuaManager.spawnHorde x,y,z = 197,201,0
+reason = LuaManager.spawnHorde x,y,z = 186,192,0
+reason = LuaManager.spawnHorde x,y,z = 199,199,0
+reason = LuaManager.spawnHorde x,y,z = 187,190,0
+reason = LuaManager.spawnHorde x,y,z = 185,192,0.
+[13-02-23 23:56:08.209] reason = LuaManager.spawnHorde x,y,z = 176,198,0
+reason = LuaManager.spawnHorde x,y,z = 188,199,0 room = empty
+reason = LuaManager.spawnHorde x,y,z = 176,199,0
+reason = LuaManager.spawnHorde x,y,z = 194,201,0 room = hall
+reason = LuaManager.spawnHorde x,y,z = 176,191,0
+reason = LuaManager.spawnHorde x,y,z = 184,194,0
+reason = LuaManager.spawnHorde x,y,z = 178,191,0
+reason = LuaManager.spawnHorde x,y,z = 176,201,0
+reason = LuaManager.spawnHorde x,y,z = 195,199,0 room = hall
+reason = LuaManager.spawnHorde x,y,z = 187,192,0
+reason = LuaManager.spawnHorde x,y,z = 194,192,0
+reason = LuaManager.spawnHorde x,y,z = 181,191,0
+reason = LuaManager.spawnHorde x,y,z = 200,201,0
+reason = LuaManager.spawnHorde x,y,z = 186,194,0
+reason = LuaManager.spawnHorde x,y,z = 199,200,0
+reason = LuaManager.spawnHorde x,y,z = 199,199,0
+reason = LuaManager.spawnHorde x,y,z = 198,190,0
+reason = LuaManager.spawnHorde x,y,z = 200,198,0
+reason = LuaManager.spawnHorde x,y,z = 198,198,0
+reason = LuaManager.spawnHorde x,y,z = 189,197,0 room = empty.
+[13-02-23 23:56:08.227] reason = LuaManager.spawnHorde x,y,z = 185,196,0
+reason = LuaManager.spawnHorde x,y,z = 194,193,0
+reason = LuaManager.spawnHorde x,y,z = 176,195,0
+reason = LuaManager.spawnHorde x,y,z = 194,200,0 room = hall
+reason = LuaManager.spawnHorde x,y,z = 176,195,0
+reason = LuaManager.spawnHorde x,y,z = 191,196,0 room = hall
+reason = LuaManager.spawnHorde x,y,z = 185,199,0
+reason = LuaManager.spawnHorde x,y,z = 185,192,0
+reason = LuaManager.spawnHorde x,y,z = 195,196,0 room = hall
+reason = LuaManager.spawnHorde x,y,z = 180,199,0
+reason = LuaManager.spawnHorde x,y,z = 187,198,0
+reason = LuaManager.spawnHorde x,y,z = 176,198,0
+reason = LuaManager.spawnHorde x,y,z = 178,193,0
+reason = LuaManager.spawnHorde x,y,z = 182,195,0
+reason = LuaManager.spawnHorde x,y,z = 188,190,0
+reason = LuaManager.spawnHorde x,y,z = 196,195,0 room = hall
+reason = LuaManager.spawnHorde x,y,z = 185,199,0
+reason = LuaManager.spawnHorde x,y,z = 199,198,0
+reason = LuaManager.spawnHorde x,y,z = 190,201,0 room = hall
+reason = LuaManager.spawnHorde x,y,z = 186,199,0.
+[13-02-23 23:56:08.235] reason = LuaManager.spawnHorde x,y,z = 201,190,0
+reason = LuaManager.spawnHorde x,y,z = 185,192,0
+reason = LuaManager.spawnHorde x,y,z = 193,201,0 room = hall
+reason = LuaManager.spawnHorde x,y,z = 199,199,0
+reason = LuaManager.spawnHorde x,y,z = 200,192,0
+reason = LuaManager.spawnHorde x,y,z = 181,194,0
+reason = LuaManager.spawnHorde x,y,z = 180,200,0
+reason = LuaManager.spawnHorde x,y,z = 192,198,0 room = hall
+reason = LuaManager.spawnHorde x,y,z = 186,198,0
+reason = LuaManager.spawnHorde x,y,z = 178,199,0
+reason = LuaManager.spawnHorde x,y,z = 199,195,0
+reason = LuaManager.spawnHorde x,y,z = 200,198,0
+reason = LuaManager.spawnHorde x,y,z = 188,193,0
+reason = LuaManager.spawnHorde x,y,z = 182,194,0
+reason = LuaManager.spawnHorde x,y,z = 199,195,0
+reason = LuaManager.spawnHorde x,y,z = 197,194,0
+reason = LuaManager.spawnHorde x,y,z = 198,193,0
+reason = LuaManager.spawnHorde x,y,z = 181,199,0
+reason = LuaManager.spawnHorde x,y,z = 185,194,0
+reason = LuaManager.spawnHorde x,y,z = 196,200,0 room = hall.
+[13-02-23 23:56:08.245] reason = LuaManager.spawnHorde x,y,z = 181,197,0
+reason = LuaManager.spawnHorde x,y,z = 176,196,0
+reason = LuaManager.spawnHorde x,y,z = 192,120,0
+reason = LuaManager.spawnHorde x,y,z = 177,129,0
+reason = LuaManager.spawnHorde x,y,z = 171,120,0
+reason = LuaManager.spawnHorde x,y,z = 189,124,0
+reason = LuaManager.spawnHorde x,y,z = 174,119,0
+reason = LuaManager.spawnHorde x,y,z = 189,119,0
+reason = LuaManager.spawnHorde x,y,z = 192,125,0
+reason = LuaManager.spawnHorde x,y,z = 188,117,0
+reason = LuaManager.spawnHorde x,y,z = 170,120,0
+reason = LuaManager.spawnHorde x,y,z = 172,125,0
+reason = LuaManager.spawnHorde x,y,z = 180,125,0
+reason = LuaManager.spawnHorde x,y,z = 182,119,0
+reason = LuaManager.spawnHorde x,y,z = 192,127,0
+reason = LuaManager.spawnHorde x,y,z = 186,125,0
+reason = LuaManager.spawnHorde x,y,z = 183,117,0
+reason = LuaManager.spawnHorde x,y,z = 181,122,0
+reason = LuaManager.spawnHorde x,y,z = 180,124,0
+reason = LuaManager.spawnHorde x,y,z = 188,118,0
+reason = LuaManager.spawnHorde x,y,z = 193,118,0.
+[13-02-23 23:56:08.253] reason = LuaManager.spawnHorde x,y,z = 182,122,0
+reason = LuaManager.spawnHorde x,y,z = 186,120,0
+reason = LuaManager.spawnHorde x,y,z = 194,129,0
+reason = LuaManager.spawnHorde x,y,z = 174,122,0
+reason = LuaManager.spawnHorde x,y,z = 169,128,0
+reason = LuaManager.spawnHorde x,y,z = 180,116,0
+reason = LuaManager.spawnHorde x,y,z = 190,119,0
+reason = LuaManager.spawnHorde x,y,z = 182,125,0
+reason = LuaManager.spawnHorde x,y,z = 177,127,0
+reason = LuaManager.spawnHorde x,y,z = 173,121,0
+reason = LuaManager.spawnHorde x,y,z = 180,128,0
+reason = LuaManager.spawnHorde x,y,z = 169,124,0
+reason = LuaManager.spawnHorde x,y,z = 192,119,0
+reason = LuaManager.spawnHorde x,y,z = 190,129,0
+reason = LuaManager.spawnHorde x,y,z = 172,122,0
+reason = LuaManager.spawnHorde x,y,z = 173,126,0
+reason = LuaManager.spawnHorde x,y,z = 190,117,0
+reason = LuaManager.spawnHorde x,y,z = 180,117,0
+reason = LuaManager.spawnHorde x,y,z = 169,127,0
+reason = LuaManager.spawnHorde x,y,z = 181,122,0
+reason = LuaManager.spawnHorde x,y,z = 178,123,0.
+[13-02-23 23:56:08.261] reason = LuaManager.spawnHorde x,y,z = 181,122,0
+reason = LuaManager.spawnHorde x,y,z = 175,127,0
+reason = LuaManager.spawnHorde x,y,z = 171,122,0
+reason = LuaManager.spawnHorde x,y,z = 171,119,0
+reason = LuaManager.spawnHorde x,y,z = 184,122,0
+reason = LuaManager.spawnHorde x,y,z = 178,126,0
+reason = LuaManager.spawnHorde x,y,z = 184,126,0
+reason = LuaManager.spawnHorde x,y,z = 179,120,0
+reason = LuaManager.spawnHorde x,y,z = 184,126,0
+reason = LuaManager.spawnHorde x,y,z = 193,119,0
+reason = LuaManager.spawnHorde x,y,z = 173,127,0
+reason = LuaManager.spawnHorde x,y,z = 172,129,0
+reason = LuaManager.spawnHorde x,y,z = 177,120,0
+reason = LuaManager.spawnHorde x,y,z = 188,117,0
+reason = LuaManager.spawnHorde x,y,z = 191,125,0
+reason = LuaManager.spawnHorde x,y,z = 188,120,0
+reason = LuaManager.spawnHorde x,y,z = 170,116,0
+reason = LuaManager.spawnHorde x,y,z = 176,122,0
+reason = LuaManager.spawnHorde x,y,z = 192,129,0
+reason = LuaManager.spawnHorde x,y,z = 188,121,0
+reason = LuaManager.spawnHorde x,y,z = 169,126,0.
+[13-02-23 23:56:08.268] reason = LuaManager.spawnHorde x,y,z = 175,125,0
+reason = LuaManager.spawnHorde x,y,z = 170,122,0
+reason = LuaManager.spawnHorde x,y,z = 175,115,0
+reason = LuaManager.spawnHorde x,y,z = 169,116,0
+reason = LuaManager.spawnHorde x,y,z = 178,125,0
+reason = LuaManager.spawnHorde x,y,z = 187,119,0
+reason = LuaManager.spawnHorde x,y,z = 179,121,0
+reason = LuaManager.spawnHorde x,y,z = 192,117,0
+reason = LuaManager.spawnHorde x,y,z = 187,116,0
+reason = LuaManager.spawnHorde x,y,z = 178,118,0
+reason = LuaManager.spawnHorde x,y,z = 176,121,0
+reason = LuaManager.spawnHorde x,y,z = 188,115,0
+reason = LuaManager.spawnHorde x,y,z = 184,119,0
+reason = LuaManager.spawnHorde x,y,z = 176,127,0
+reason = LuaManager.spawnHorde x,y,z = 177,120,0
+reason = LuaManager.spawnHorde x,y,z = 179,116,0
+reason = LuaManager.spawnHorde x,y,z = 190,117,0
+reason = LuaManager.spawnHorde x,y,z = 186,125,0
+reason = LuaManager.spawnHorde x,y,z = 172,115,0
+reason = LuaManager.spawnHorde x,y,z = 189,122,0
+reason = LuaManager.spawnHorde x,y,z = 180,117,0.
+[13-02-23 23:56:08.275] reason = LuaManager.spawnHorde x,y,z = 185,120,0
+reason = LuaManager.spawnHorde x,y,z = 193,124,0
+reason = LuaManager.spawnHorde x,y,z = 187,118,0
+reason = LuaManager.spawnHorde x,y,z = 190,119,0
+reason = LuaManager.spawnHorde x,y,z = 191,123,0
+reason = LuaManager.spawnHorde x,y,z = 185,116,0
+reason = LuaManager.spawnHorde x,y,z = 190,127,0
+reason = LuaManager.spawnHorde x,y,z = 188,117,0
+reason = LuaManager.spawnHorde x,y,z = 184,121,0
+reason = LuaManager.spawnHorde x,y,z = 180,117,0
+reason = LuaManager.spawnHorde x,y,z = 192,117,0
+reason = LuaManager.spawnHorde x,y,z = 171,118,0
+reason = LuaManager.spawnHorde x,y,z = 187,119,0
+reason = LuaManager.spawnHorde x,y,z = 182,123,0
+reason = LuaManager.spawnHorde x,y,z = 176,128,0
+reason = LuaManager.spawnHorde x,y,z = 192,121,0
+reason = LuaManager.spawnHorde x,y,z = 186,125,0
+reason = LuaManager.spawnHorde x,y,z = 169,123,0
+reason = LuaManager.spawnHorde x,y,z = 158,179,0
+reason = LuaManager.spawnHorde x,y,z = 159,169,0
+reason = LuaManager.spawnHorde x,y,z = 154,167,0.
+[13-02-23 23:56:08.283] reason = LuaManager.spawnHorde x,y,z = 161,173,0
+reason = LuaManager.spawnHorde x,y,z = 159,176,0
+reason = LuaManager.spawnHorde x,y,z = 161,165,0
+reason = LuaManager.spawnHorde x,y,z = 161,169,0
+reason = LuaManager.spawnHorde x,y,z = 158,171,0
+reason = LuaManager.spawnHorde x,y,z = 161,176,0
+reason = LuaManager.spawnHorde x,y,z = 157,169,0
+reason = LuaManager.spawnHorde x,y,z = 160,183,0
+reason = LuaManager.spawnHorde x,y,z = 161,183,0
+reason = LuaManager.spawnHorde x,y,z = 154,184,0
+reason = LuaManager.spawnHorde x,y,z = 158,169,0
+reason = LuaManager.spawnHorde x,y,z = 157,171,0
+reason = LuaManager.spawnHorde x,y,z = 160,175,0
+reason = LuaManager.spawnHorde x,y,z = 154,172,0
+reason = LuaManager.spawnHorde x,y,z = 157,165,0
+reason = LuaManager.spawnHorde x,y,z = 158,177,0
+reason = LuaManager.spawnHorde x,y,z = 158,183,0
+reason = LuaManager.spawnHorde x,y,z = 159,167,0
+reason = LuaManager.spawnHorde x,y,z = 160,178,0
+reason = LuaManager.spawnHorde x,y,z = 155,181,0
+reason = LuaManager.spawnHorde x,y,z = 161,180,0.
+[13-02-23 23:56:08.291] reason = LuaManager.spawnHorde x,y,z = 156,164,0
+reason = LuaManager.spawnHorde x,y,z = 161,185,0
+reason = LuaManager.spawnHorde x,y,z = 156,175,0
+reason = LuaManager.spawnHorde x,y,z = 158,181,0
+reason = LuaManager.spawnHorde x,y,z = 161,185,0
+reason = LuaManager.spawnHorde x,y,z = 160,180,0
+reason = LuaManager.spawnHorde x,y,z = 154,172,0
+reason = LuaManager.spawnHorde x,y,z = 160,185,0
+reason = LuaManager.spawnHorde x,y,z = 156,175,0
+reason = LuaManager.spawnHorde x,y,z = 157,170,0
+reason = LuaManager.spawnHorde x,y,z = 158,172,0
+reason = LuaManager.spawnHorde x,y,z = 155,183,0
+reason = LuaManager.spawnHorde x,y,z = 160,180,0
+reason = LuaManager.spawnHorde x,y,z = 158,183,0
+reason = LuaManager.spawnHorde x,y,z = 160,181,0
+reason = LuaManager.spawnHorde x,y,z = 156,171,0
+reason = LuaManager.spawnHorde x,y,z = 160,164,0
+reason = LuaManager.spawnHorde x,y,z = 154,168,0
+reason = LuaManager.spawnHorde x,y,z = 157,176,0
+reason = LuaManager.spawnHorde x,y,z = 154,175,0
+reason = LuaManager.spawnHorde x,y,z = 158,167,0.
+[13-02-23 23:56:08.300] reason = LuaManager.spawnHorde x,y,z = 158,165,0
+reason = LuaManager.spawnHorde x,y,z = 154,185,0
+reason = LuaManager.spawnHorde x,y,z = 156,184,0
+reason = LuaManager.spawnHorde x,y,z = 160,176,0
+reason = LuaManager.spawnHorde x,y,z = 154,184,0
+reason = LuaManager.spawnHorde x,y,z = 154,166,0
+reason = LuaManager.spawnHorde x,y,z = 160,185,0
+reason = LuaManager.spawnHorde x,y,z = 157,184,0
+reason = LuaManager.spawnHorde x,y,z = 159,165,0
+reason = LuaManager.spawnHorde x,y,z = 159,168,0
+reason = LuaManager.spawnHorde x,y,z = 159,175,0
+reason = LuaManager.spawnHorde x,y,z = 159,165,0
+reason = LuaManager.spawnHorde x,y,z = 155,179,0
+reason = LuaManager.spawnHorde x,y,z = 160,178,0
+reason = LuaManager.spawnHorde x,y,z = 155,184,0
+reason = LuaManager.spawnHorde x,y,z = 160,182,0
+reason = LuaManager.spawnHorde x,y,z = 160,170,0
+reason = LuaManager.spawnHorde x,y,z = 158,172,0
+reason = LuaManager.spawnHorde x,y,z = 161,165,0
+reason = LuaManager.spawnHorde x,y,z = 160,164,0
+reason = LuaManager.spawnHorde x,y,z = 160,177,0.
+[13-02-23 23:56:08.308] reason = LuaManager.spawnHorde x,y,z = 160,173,0
+reason = LuaManager.spawnHorde x,y,z = 156,168,0
+reason = LuaManager.spawnHorde x,y,z = 159,180,0
+reason = LuaManager.spawnHorde x,y,z = 160,171,0
+reason = LuaManager.spawnHorde x,y,z = 161,172,0
+reason = LuaManager.spawnHorde x,y,z = 161,166,0
+reason = LuaManager.spawnHorde x,y,z = 161,167,0
+reason = LuaManager.spawnHorde x,y,z = 156,166,0
+reason = LuaManager.spawnHorde x,y,z = 159,169,0
+reason = LuaManager.spawnHorde x,y,z = 158,172,0
+reason = LuaManager.spawnHorde x,y,z = 158,173,0
+reason = LuaManager.spawnHorde x,y,z = 160,164,0
+reason = LuaManager.spawnHorde x,y,z = 157,171,0
+reason = LuaManager.spawnHorde x,y,z = 154,166,0
+reason = LuaManager.spawnHorde x,y,z = 156,174,0
+reason = LuaManager.spawnHorde x,y,z = 160,184,0
+reason = LuaManager.spawnHorde x,y,z = 159,167,0
+reason = LuaManager.spawnHorde x,y,z = 161,183,0
+reason = LuaManager.spawnHorde x,y,z = 155,177,0
+reason = LuaManager.spawnHorde x,y,z = 158,175,0
+reason = LuaManager.spawnHorde x,y,z = 157,168,0.
+[13-02-23 23:56:58.558] reason = LuaManager.spawnHorde x,y,z = 156,172,0
+reason = LuaManager.spawnHorde x,y,z = 155,164,0
+reason = LuaManager.spawnHorde x,y,z = 159,169,0
+reason = LuaManager.spawnHorde x,y,z = 154,175,0
+reason = LuaManager.spawnHorde x,y,z = 160,164,0
+reason = LuaManager.spawnHorde x,y,z = 158,176,0
+reason = LuaManager.spawnHorde x,y,z = 159,179,0
+reason = LuaManager.spawnHorde x,y,z = 157,166,0
+reason = LuaManager.spawnHorde x,y,z = 161,176,0
+reason = LuaManager.spawnHorde x,y,z = 158,183,0
+reason = LuaManager.spawnHorde x,y,z = 160,169,0
+reason = LuaManager.spawnHorde x,y,z = 158,174,0
+reason = LuaManager.spawnHorde x,y,z = 157,164,0
+reason = GlobalObject x,y,z = 104,120,0 room = hall
+reason = GlobalObject x,y,z = 104,121,0 room = hall
+reason = GlobalObject x,y,z = 103,121,0 room = hall
+reason = GlobalObject x,y,z = 193,198,0 room = hall
+reason = GlobalObject x,y,z = 194,197,0 room = hall.
+[14-02-23 01:18:56.581] ================================================================================.

@@ -1,0 +1,8 @@
+[15-02-23 14:38:54.571] [76561198080689461][EL-Mao'][10669,10622,0][Login][Hours Survived: 77].
+[15-02-23 14:38:54.571] [76561198080689461][EL-Mao'][10669,10622,0][Cooking=0, Fitness=3, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=4, Nimble=2, Sneak=4, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=1, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 77].
+[15-02-23 14:49:30.240] [76561198145393066][Gym Burger][10670,10621,0][Cooking=2, Fitness=5, Strength=7, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=1, SmallBlade=1, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 55].
+[15-02-23 14:49:30.241] [76561198145393066][Gym Burger][10670,10621,0][Login][Hours Survived: 55].
+[15-02-23 14:50:20.677] [76561198145393066][Gym Burger][10670,10626,0][Level Changed][Maintenance][2][Hours Survived: 55].
+[15-02-23 14:55:35.674] [76561198145393066][Gym Burger][10588,10787,0][Died][Hours Survived: 58].
+[15-02-23 14:56:23.111] [76561198145393066][Gym Burger][10698,10449,0][Created Player 1][Hours Survived: 0].
+[15-02-23 14:56:23.112] [76561198145393066][Gym Burger][10698,10449,0][Cooking=2, Fitness=4, Strength=9, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=1, SmallBlade=1, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].

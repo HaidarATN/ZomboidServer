@@ -1,0 +1,15 @@
+[14-02-23 04:29:38.637] 76561198080689461 "EL-Mao'" removed American Holly (e_americanholly_1_3) at 6310,5198,0.
+[14-02-23 04:31:24.076] 76561198080689461 "EL-Mao'" removed Grass (e_newgrass_1_34) at 6308,5196,0.
+[14-02-23 04:31:24.079] 76561198080689461 "EL-Mao'" added EmptyGraves (location_community_cemetary_01_33) at 6308.0,5196.0,0.0.
+[14-02-23 04:31:24.079] 76561198080689461 "EL-Mao'" removed Grass (e_newgrass_1_33) at 6307,5196,0.
+[14-02-23 04:31:24.080] 76561198080689461 "EL-Mao'" added EmptyGraves (location_community_cemetary_01_32) at 6307.0,5196.0,0.0.
+[14-02-23 04:31:45.765] 76561198080689461 "EL-Mao'" removed Grass (e_newgrass_1_34) at 6306,5196,0.
+[14-02-23 04:31:45.766] 76561198080689461 "EL-Mao'" added EmptyGraves (location_community_cemetary_01_33) at 6306.0,5196.0,0.0.
+[14-02-23 04:31:45.767] 76561198080689461 "EL-Mao'" removed Grass (e_newgrass_1_29) at 6305,5196,0.
+[14-02-23 04:31:45.768] 76561198080689461 "EL-Mao'" added EmptyGraves (location_community_cemetary_01_32) at 6305.0,5196.0,0.0.
+[14-02-23 04:33:01.627] 76561198100576317 "Muezza" removed Grass (e_newgrass_1_48) at 6306,5197,0.
+[14-02-23 04:33:01.628] 76561198100576317 "Muezza" added EmptyGraves (location_community_cemetary_01_33) at 6306.0,5197.0,0.0.
+[14-02-23 04:33:01.628] 76561198100576317 "Muezza" removed Grass (e_newgrass_1_31) at 6305,5197,0.
+[14-02-23 04:33:01.629] 76561198100576317 "Muezza" added EmptyGraves (location_community_cemetary_01_32) at 6305.0,5197.0,0.0.
+[14-02-23 04:34:35.627] 76561198145393066 "Unto Gayungan S.E.I." added FishingNet (constructedobjects_01_15) at 6306.0,5184.0,0.0.
+[14-02-23 04:34:43.834] 76561198145393066 "Unto Gayungan S.E.I." added FishingNet (constructedobjects_01_15) at 6304.0,5183.0,0.0.

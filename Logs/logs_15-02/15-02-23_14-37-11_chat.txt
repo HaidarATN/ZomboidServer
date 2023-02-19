@@ -1,0 +1,32 @@
+[15-02-23 14:37:11.052][info] Start chat server initialization....
+[15-02-23 14:37:11.059][info] General chat has id = 0.
+[15-02-23 14:37:11.060][info] Say chat has id = 1.
+[15-02-23 14:37:11.060][info] Shout chat has id = 2.
+[15-02-23 14:37:11.060][info] Radio chat has id = 3.
+[15-02-23 14:37:11.060][info] Admin chat has id = 4.
+[15-02-23 14:37:11.060][info] Server chat has id = 5.
+[15-02-23 14:37:11.060][info] Chat server successfully initialized.
+[15-02-23 14:38:51.701][info] Player with id = '0' tries to connect.
+[15-02-23 14:38:51.701][info] Adding player '0' to chat server.
+[15-02-23 14:38:51.715][info] Player joined to default chats.
+[15-02-23 14:38:51.715][info] Player EL-Mao'(0) joined to chat server successfully.
+[15-02-23 14:49:28.614][info] Player with id = '4' tries to connect.
+[15-02-23 14:49:28.614][info] Adding player '4' to chat server.
+[15-02-23 14:49:28.614][info] Player joined to default chats.
+[15-02-23 14:49:28.614][info] Player Gym Burger(4) joined to chat server successfully.
+[15-02-23 14:55:35.682][info] Player 4 disconnecting....
+[15-02-23 14:55:35.682][info] Disconnecting player 4 finished.
+[15-02-23 14:56:17.842][info] Player 4 disconnecting....
+[15-02-23 14:56:17.842][info] Disconnecting player 4 finished.
+[15-02-23 14:56:17.842][info] Player with id = '4' tries to connect.
+[15-02-23 14:56:17.842][info] Adding player '4' to chat server.
+[15-02-23 14:56:17.843][error] Player or connection is not found on server!.
+[15-02-23 14:56:17.843][error] player = null.
+[15-02-23 14:56:22.806][info] Player with id = '4' tries to connect.
+[15-02-23 14:56:22.806][info] Adding player '4' to chat server.
+[15-02-23 14:56:22.806][info] Player joined to default chats.
+[15-02-23 14:56:22.806][info] Player Gym Burger(4) joined to chat server successfully.
+[15-02-23 15:05:02.349][info] Player 0 disconnecting....
+[15-02-23 15:05:02.349][info] Disconnecting player 0 finished.
+[15-02-23 15:05:02.350][info] Player 0 disconnecting....
+[15-02-23 15:05:02.350][info] Disconnecting player 0 finished.

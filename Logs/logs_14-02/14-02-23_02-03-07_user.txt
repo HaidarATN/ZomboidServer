@@ -1,0 +1,5 @@
+[14-02-23 02:03:07.410] added connection index=0 127.0.0.1.
+[14-02-23 02:03:08.283] 76561198080689461 "EL-Mao'" attempting to join.
+[14-02-23 02:03:08.283] 76561198080689461 "EL-Mao'" allowed to join.
+[14-02-23 02:03:24.207] 76561198080689461 "EL-Mao'" attempting to join used queue.
+[14-02-23 02:03:38.259] 76561198080689461 "EL-Mao'" removed connection index=0.

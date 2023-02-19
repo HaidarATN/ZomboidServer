@@ -1,0 +1,18 @@
+[16-02-23 13:17:37.808] added connection index=0 127.0.0.1.
+[16-02-23 13:17:38.671] 76561198080689461 "EL-Mao'" attempting to join.
+[16-02-23 13:17:38.672] 76561198080689461 "EL-Mao'" allowed to join.
+[16-02-23 13:17:46.318] 76561198080689461 "EL-Mao'" attempting to join used queue.
+[16-02-23 13:18:09.166] player EL-Mao' loading time was: 22479 ms.
+[16-02-23 13:19:40.765] 76561198080689461 "EL-Mao'" fully connected (10670,10622,0).
+[16-02-23 13:44:39.196] added connection index=1 190.133.117.215.
+[16-02-23 13:44:39.989] 76561198145393066 "Gym Burger (Double Cheese)" attempting to join.
+[16-02-23 13:44:39.990] 76561198145393066 "Gym Burger (Double Cheese)" allowed to join.
+[16-02-23 13:44:48.895] 76561198145393066 "Gym Burger (Double Cheese)" attempting to join used queue.
+[16-02-23 13:45:28.194] player Gym Burger (Double Cheese) loading time was: 36212 ms.
+[16-02-23 13:45:31.642] 76561198145393066 "Gym Burger (Double Cheese)" fully connected (10670,10621,0).
+[16-02-23 13:48:10.900] user Gym Burger (Double Cheese) died at (10626,10458,0) (non pvp).
+[16-02-23 13:50:07.272] 76561198145393066 "Gym Burger (Double Cheese)" disconnected player (10626,10458,0).
+[16-02-23 13:50:10.031] 76561198145393066 "Gym Burger (Double Cheese)" fully connected (10698,10449,0).
+[16-02-23 14:54:59.109] user Gym Burger (Double Cheese) died at (10674,10564,0) (non pvp).
+[16-02-23 15:13:15.829] 76561198080689461 "EL-Mao'" removed connection index=0.
+[16-02-23 15:13:15.845] 76561198080689461 "EL-Mao'" disconnected player (10675,10626,0).

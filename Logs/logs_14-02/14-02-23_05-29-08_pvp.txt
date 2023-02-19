@@ -1,0 +1,2 @@
+[14-02-23 05:29:08.775][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 05:34:04.297][INFO] user "EL-Mao'" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

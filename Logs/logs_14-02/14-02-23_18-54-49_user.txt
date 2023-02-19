@@ -1,0 +1,30 @@
+[14-02-23 18:54:49.665] added connection index=0 127.0.0.1.
+[14-02-23 18:54:50.356] 76561198080689461 "EL-Mao'" attempting to join.
+[14-02-23 18:54:50.357] 76561198080689461 "EL-Mao'" allowed to join.
+[14-02-23 18:59:50.411] 76561198080689461 "EL-Mao'" attempting to join used queue.
+[14-02-23 18:59:59.048] player EL-Mao' loading time was: 8334 ms.
+[14-02-23 19:00:00.681] 76561198080689461 "EL-Mao'" fully connected (6361,5325,0).
+[14-02-23 19:01:15.218] added connection index=1 186.98.20.7.
+[14-02-23 19:01:16.000] 76561198100576317 "Muezza" attempting to join.
+[14-02-23 19:01:16.000] 76561198100576317 "Muezza" allowed to join.
+[14-02-23 19:01:33.295] 76561198100576317 "Muezza" attempting to join used queue.
+[14-02-23 19:02:08.116] player Muezza loading time was: 34490 ms.
+[14-02-23 19:02:12.692] 76561198100576317 "Muezza" fully connected (6361,5325,0).
+[14-02-23 19:09:36.913] user Muezza died at (6368,5206,1) (non pvp).
+[14-02-23 19:09:59.886] 76561198100576317 "Muezza" disconnected player (6368,5206,1).
+[14-02-23 19:10:02.219] 76561198100576317 "Muezza" fully connected (6361,5325,0).
+[14-02-23 19:18:52.483] added connection index=2 138.240.244.69.
+[14-02-23 19:18:53.324] 76561198213478008 "Trisudar" attempting to join.
+[14-02-23 19:18:53.324] 76561198213478008 "Trisudar" allowed to join.
+[14-02-23 19:24:45.822] user Muezza died at (6374,5263,0) (non pvp).
+[14-02-23 19:26:02.936] 76561198100576317 "Muezza" disconnected player (6374,5263,0).
+[14-02-23 19:26:05.480] 76561198100576317 "Muezza" fully connected (6361,5325,0).
+[14-02-23 19:31:32.429] 76561198213478008 "Trisudar" attempting to join used queue.
+[14-02-23 19:33:53.497] player Trisudar loading time was: 139378 ms.
+[14-02-23 19:34:03.107] 76561198213478008 "Trisudar" fully connected (6361,5325,0).
+[14-02-23 19:36:06.417] user Muezza died at (6369,5259,0) (non pvp).
+[14-02-23 19:36:27.037] 76561198100576317 "Muezza" disconnected player (6369,5259,0).
+[14-02-23 19:36:29.084] 76561198100576317 "Muezza" fully connected (6361,5325,0).
+[14-02-23 19:37:50.539] user EL-Mao' died at (6363,5262,0) (non pvp).
+[14-02-23 19:39:04.794] 76561198080689461 "EL-Mao'" removed connection index=0.
+[14-02-23 19:39:04.808] 76561198080689461 "EL-Mao'" disconnected player (6363,5262,0).

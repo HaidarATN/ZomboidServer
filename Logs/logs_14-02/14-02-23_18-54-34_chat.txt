@@ -1,0 +1,64 @@
+[14-02-23 18:54:34.375][info] Start chat server initialization....
+[14-02-23 18:54:34.378][info] General chat has id = 0.
+[14-02-23 18:54:34.378][info] Say chat has id = 1.
+[14-02-23 18:54:34.378][info] Shout chat has id = 2.
+[14-02-23 18:54:34.378][info] Radio chat has id = 3.
+[14-02-23 18:54:34.378][info] Admin chat has id = 4.
+[14-02-23 18:54:34.379][info] Server chat has id = 5.
+[14-02-23 18:54:34.379][info] Chat server successfully initialized.
+[14-02-23 19:00:00.195][info] Player with id = '0' tries to connect.
+[14-02-23 19:00:00.195][info] Adding player '0' to chat server.
+[14-02-23 19:00:00.675][info] Player joined to default chats.
+[14-02-23 19:00:00.676][info] Player EL-Mao'(0) joined to chat server successfully.
+[14-02-23 19:02:12.690][info] Player with id = '4' tries to connect.
+[14-02-23 19:02:12.690][info] Adding player '4' to chat server.
+[14-02-23 19:02:12.690][info] Player joined to default chats.
+[14-02-23 19:02:12.690][info] Player Muezza(4) joined to chat server successfully.
+[14-02-23 19:09:36.911][info] Player 4 disconnecting....
+[14-02-23 19:09:36.912][info] Disconnecting player 4 finished.
+[14-02-23 19:09:59.886][info] Player 4 disconnecting....
+[14-02-23 19:09:59.886][info] Disconnecting player 4 finished.
+[14-02-23 19:09:59.886][info] Player with id = '4' tries to connect.
+[14-02-23 19:09:59.886][info] Adding player '4' to chat server.
+[14-02-23 19:09:59.887][error] Player or connection is not found on server!.
+[14-02-23 19:09:59.887][error] player = null.
+[14-02-23 19:10:02.218][info] Player with id = '4' tries to connect.
+[14-02-23 19:10:02.218][info] Adding player '4' to chat server.
+[14-02-23 19:10:02.218][info] Player joined to default chats.
+[14-02-23 19:10:02.218][info] Player Muezza(4) joined to chat server successfully.
+[14-02-23 19:24:45.821][info] Player 4 disconnecting....
+[14-02-23 19:24:45.821][info] Disconnecting player 4 finished.
+[14-02-23 19:26:02.936][info] Player 4 disconnecting....
+[14-02-23 19:26:02.936][info] Disconnecting player 4 finished.
+[14-02-23 19:26:02.936][info] Player with id = '4' tries to connect.
+[14-02-23 19:26:02.937][info] Adding player '4' to chat server.
+[14-02-23 19:26:02.937][error] Player or connection is not found on server!.
+[14-02-23 19:26:02.937][error] player = null.
+[14-02-23 19:26:05.478][info] Player with id = '4' tries to connect.
+[14-02-23 19:26:05.478][info] Adding player '4' to chat server.
+[14-02-23 19:26:05.478][info] Player joined to default chats.
+[14-02-23 19:26:05.478][info] Player Muezza(4) joined to chat server successfully.
+[14-02-23 19:34:03.106][info] Player with id = '8' tries to connect.
+[14-02-23 19:34:03.106][info] Adding player '8' to chat server.
+[14-02-23 19:34:03.106][info] Player joined to default chats.
+[14-02-23 19:34:03.106][info] Player Trisudar(8) joined to chat server successfully.
+[14-02-23 19:36:06.416][info] Player 4 disconnecting....
+[14-02-23 19:36:06.416][info] Disconnecting player 4 finished.
+[14-02-23 19:36:27.036][info] Player 4 disconnecting....
+[14-02-23 19:36:27.036][info] Disconnecting player 4 finished.
+[14-02-23 19:36:27.037][info] Player with id = '4' tries to connect.
+[14-02-23 19:36:27.037][info] Adding player '4' to chat server.
+[14-02-23 19:36:27.037][error] Player or connection is not found on server!.
+[14-02-23 19:36:27.037][error] player = null.
+[14-02-23 19:36:29.082][info] Player with id = '4' tries to connect.
+[14-02-23 19:36:29.083][info] Adding player '4' to chat server.
+[14-02-23 19:36:29.083][info] Player joined to default chats.
+[14-02-23 19:36:29.083][info] Player Muezza(4) joined to chat server successfully.
+[14-02-23 19:37:50.538][info] Player 0 disconnecting....
+[14-02-23 19:37:50.538][info] Disconnecting player 0 finished.
+[14-02-23 19:38:31.745][info] Got message:ChatMessage{chat=Local, author='Trisudar', text='HEY!'}.
+[14-02-23 19:38:31.746][info] Message ChatMessage{chat=Local, author='Trisudar', text='HEY!'} sent to chat (id = 2) members.
+[14-02-23 19:39:04.807][info] Player 0 disconnecting....
+[14-02-23 19:39:04.807][info] Disconnecting player 0 finished.
+[14-02-23 19:39:04.807][info] Player 0 disconnecting....
+[14-02-23 19:39:04.808][info] Disconnecting player 0 finished.

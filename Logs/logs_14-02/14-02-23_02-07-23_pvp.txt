@@ -1,0 +1,7 @@
+[14-02-23 02:07:23.952][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 02:09:38.279][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 02:09:42.595][INFO] user "Unto Gayungan S.E.I." restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 02:41:04.911][INFO] user "EL-Mao'" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 02:47:18.310][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 03:20:53.290][INFO] user "Unto Gayungan S.E.I." clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 03:22:00.536][INFO] user "EL-Mao'" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.

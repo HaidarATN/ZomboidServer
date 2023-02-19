@@ -1,0 +1,59 @@
+[14-02-23 20:29:49.707] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_4) at 7303,8198,1.
+[14-02-23 21:14:23.679] 76561198213478008 "Trisudar" added EmptyGraves (location_community_cemetary_01_33) at 7301.0,8216.0,0.0.
+[14-02-23 21:14:23.693] 76561198213478008 "Trisudar" added EmptyGraves (location_community_cemetary_01_32) at 7300.0,8216.0,0.0.
+[14-02-23 21:14:57.082] 76561198145393066 "Jim Burger" added EmptyGraves (location_community_cemetary_01_33) at 7300.0,8212.0,0.0.
+[14-02-23 21:14:57.083] 76561198145393066 "Jim Burger" added EmptyGraves (location_community_cemetary_01_32) at 7299.0,8212.0,0.0.
+[14-02-23 21:15:36.088] 76561198145393066 "Jim Burger" added EmptyGraves (location_community_cemetary_01_33) at 7302.0,8212.0,0.0.
+[14-02-23 21:15:36.089] 76561198145393066 "Jim Burger" added EmptyGraves (location_community_cemetary_01_32) at 7301.0,8212.0,0.0.
+[14-02-23 21:16:47.967] 76561198145393066 "Jim Burger" added EmptyGraves (location_community_cemetary_01_33) at 7302.0,8213.0,0.0.
+[14-02-23 21:16:47.969] 76561198145393066 "Jim Burger" added EmptyGraves (location_community_cemetary_01_32) at 7301.0,8213.0,0.0.
+[14-02-23 21:38:36.175] 76561198080689461 "EL-Mao'" removed IsoBrokenGlass (brokenglass_1_1) at 7292,8257,0.
+[14-02-23 21:47:31.422] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_40) at 7282.0,8181.0,0.0.
+[14-02-23 21:48:39.579] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_40) at 7282.0,8182.0,0.0.
+[14-02-23 21:48:45.497] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_40) at 7282.0,8183.0,0.0.
+[14-02-23 21:48:51.178] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_40) at 7282.0,8184.0,0.0.
+[14-02-23 21:50:07.969] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_40) at 7282.0,8185.0,0.0.
+[14-02-23 21:50:13.317] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_40) at 7282.0,8186.0,0.0.
+[14-02-23 21:50:18.986] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_40) at 7282.0,8187.0,0.0.
+[14-02-23 21:58:26.741] 76561198080689461 "EL-Mao'" added IsoBrokenGlass (brokenglass_1_1) at 7250.0,8329.0,0.0.
+[14-02-23 22:15:58.285] 76561198145393066 "Jim Burger" removed Door (fixtures_doors_01_45) at 7193,8336,0.
+[14-02-23 22:16:20.550] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_44) at 7258,8382,0.
+[14-02-23 22:19:05.937] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7300.0,8328.0,2.0.
+[14-02-23 22:19:05.941] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7300.0,8329.0,2.0.
+[14-02-23 22:19:05.941] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7293.0,8336.0,2.0.
+[14-02-23 22:19:05.943] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7294.0,8336.0,2.0.
+[14-02-23 22:19:05.944] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7293.0,8337.0,2.0.
+[14-02-23 22:19:05.945] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7294.0,8337.0,2.0.
+[14-02-23 22:19:05.945] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7298.0,8339.0,2.0.
+[14-02-23 22:19:05.946] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7299.0,8339.0,2.0.
+[14-02-23 22:19:05.948] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7303.0,8336.0,2.0.
+[14-02-23 22:19:05.949] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7304.0,8336.0,2.0.
+[14-02-23 22:19:05.950] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7303.0,8337.0,2.0.
+[14-02-23 22:19:05.951] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7304.0,8337.0,2.0.
+[14-02-23 22:19:05.952] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7303.0,8338.0,2.0.
+[14-02-23 22:19:05.953] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7304.0,8338.0,2.0.
+[14-02-23 22:19:05.954] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7300.0,8339.0,2.0.
+[14-02-23 22:19:05.955] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7301.0,8339.0,2.0.
+[14-02-23 22:19:05.956] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7302.0,8339.0,2.0.
+[14-02-23 22:19:05.957] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7303.0,8339.0,2.0.
+[14-02-23 22:19:05.958] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7304.0,8339.0,2.0.
+[14-02-23 22:19:05.959] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7300.0,8340.0,2.0.
+[14-02-23 22:19:05.960] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7301.0,8340.0,2.0.
+[14-02-23 22:19:05.961] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7302.0,8340.0,2.0.
+[14-02-23 22:19:05.962] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7303.0,8340.0,2.0.
+[14-02-23 22:19:05.963] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7304.0,8340.0,2.0.
+[14-02-23 22:19:05.964] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7298.0,8340.0,2.0.
+[14-02-23 22:19:05.965] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7299.0,8340.0,2.0.
+[14-02-23 22:19:05.966] 76561198080689461 "EL-Mao'" added IsoObject (roofs_02_22) at 7294.0,8341.0,2.0.
+[14-02-23 22:19:06.549] 76561198145393066 "Jim Burger" added IsoObject (roofs_02_22) at 7294.0,8342.0,2.0.
+[14-02-23 22:45:27.337] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_02_5) at 7298,8264,0.
+[14-02-23 23:12:58.403] 76561198080689461 "EL-Mao'" removed Door (location_community_church_small_01_68) at 7396,8354,0.
+[14-02-23 23:28:41.976] 76561198100576317 "Muezza" removed Door (location_restaurant_pileocrepe_01_49) at 7236,8199,0.
+[14-02-23 23:36:32.180] 76561198100576317 "Muezza" removed Door (fixtures_doors_01_4) at 7301,8202,0.
+[14-02-23 23:47:41.409] 76561198145393066 "Jim Burger" removed Tent (camping_01_1) at 7294,8207,0.
+[14-02-23 23:47:41.428] 76561198145393066 "Jim Burger" removed Tent (camping_01_0) at 7294,8208,0.
+[15-02-23 00:40:07.891] 76561198145393066 "Jim Burger" removed IsoObject (vegetation_ornamental_01_49) at 6826,7721,0.
+[15-02-23 00:40:20.490] 76561198145393066 "Jim Burger" added IsoObject (vegetation_ornamental_01_49) at 6823.0,7717.0,0.0.
+[15-02-23 01:06:37.535] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_44) at 7305,8387,0.
+[15-02-23 01:07:12.440] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_02_5) at 7257,8335,0.
+[15-02-23 01:09:50.934] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_56) at 7247,8330,0.

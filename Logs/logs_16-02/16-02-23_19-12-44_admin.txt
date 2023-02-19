@@ -1,0 +1,12 @@
+[16-02-23 19:12:44.357] EL-Mao' enabled godmode on Gym Burger (Maximum Cheese).
+[16-02-23 19:12:46.746] EL-Mao' enabled godmode on EL-Mao'.
+[16-02-23 19:13:19.167] EL-Mao' enabled invisibility on Gym Burger (Maximum Cheese).
+[16-02-23 19:13:22.550] EL-Mao' enabled invisibility on EL-Mao'.
+[16-02-23 19:29:09.911] EL-Mao' enabled godmode on Gym Burger (Maximum Cheese).
+[16-02-23 19:29:11.750] EL-Mao' disabled godmode on EL-Mao'.
+[16-02-23 19:29:12.314] EL-Mao' disabled invisibility on EL-Mao'.
+[16-02-23 19:29:13.848] EL-Mao' enabled invisibility on Gym Burger (Maximum Cheese).
+[16-02-23 19:29:37.731] EL-Mao' disabled invisibility on Gym Burger (Maximum Cheese).
+[16-02-23 19:29:38.269] EL-Mao' disabled godmode on Gym Burger (Maximum Cheese).
+[16-02-23 20:02:28.760] EL-Mao' enabled invisibility on Gym Burger (Maximum Cheese).
+[16-02-23 20:04:38.279] EL-Mao' disabled invisibility on Gym Burger (Maximum Cheese).

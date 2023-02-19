@@ -1,0 +1,5 @@
+[14-02-23 03:34:33.135] [76561198080689461][EL-Mao'][11875,6949,0][Login][Hours Survived: 0].
+[14-02-23 03:34:33.135] [76561198080689461][EL-Mao'][11875,6949,0][Cooking=0, Fitness=5, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[14-02-23 03:34:40.995] [76561198080689461][EL-Mao'][11875,6948,0][Died][Hours Survived: 0].
+[14-02-23 03:34:59.334] [76561198080689461][EL-Mao'][11831,6911,0][Created Player 1][Hours Survived: 0].
+[14-02-23 03:34:59.335] [76561198080689461][EL-Mao'][11831,6911,0][Cooking=0, Fitness=3, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].

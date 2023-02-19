@@ -1,0 +1,27 @@
+[14-02-23 18:00:39.368] 76561198080689461 "EL-Mao'" floor +1 6361,5325,0 [Base.Trousers_DefaultTEXTURE_TINT].
+[14-02-23 18:00:47.685] 76561198080689461 "EL-Mao'" container -1 6362,5324,0 [Base.Shovel2].
+[14-02-23 18:00:50.682] 76561198080689461 "EL-Mao'" container -1 6361,5324,0 [Base.Trousers_Denim].
+[14-02-23 18:00:59.691] 76561198080689461 "EL-Mao'" container -1 6357,5324,0 [Base.GardenSaw].
+[14-02-23 18:01:02.684] 76561198080689461 "EL-Mao'" container -1 6357,5324,0 [farming.RedRadishBagSeed].
+[14-02-23 18:01:05.688] 76561198080689461 "EL-Mao'" container -1 6357,5324,0 [farming.CarrotBagSeed].
+[14-02-23 18:01:14.682] 76561198080689461 "EL-Mao'" container -2 6357,5327,0 [farming.RedRadishBagSeed, farming.CarrotBagSeed].
+[14-02-23 18:01:44.681] 76561198080689461 "EL-Mao'" container -1 6359,5327,0 [Base.Hammer].
+[14-02-23 18:01:47.685] 76561198080689461 "EL-Mao'" container -1 6359,5327,0 [Base.PickAxe].
+[14-02-23 18:02:08.686] 76561198080689461 "EL-Mao'" container -1 6362,5327,0 [Base.Screwdriver].
+[14-02-23 18:02:44.682] 76561198080689461 "EL-Mao'" container -1 6359,5328,0 [Base.NailsBox].
+[14-02-23 18:03:35.682] 76561198080689461 "EL-Mao'" container -1 6365,5329,0 [Base.NailsBox].
+[14-02-23 18:03:41.681] 76561198080689461 "EL-Mao'" container -1 6365,5329,0 [Base.HandTorch].
+[14-02-23 18:05:27.189] 76561198100576317 "Muezza" container -2 6357,5324,0 [farming.HandShovel].
+[14-02-23 18:05:30.263] 76561198100576317 "Muezza" container -1 6357,5324,0 [Base.Rake].
+[14-02-23 18:05:41.557] 76561198100576317 "Muezza" container -1 6362,5327,0 [Base.BallPeenHammer].
+[14-02-23 18:05:41.682] 76561198080689461 "EL-Mao'" container -1 6357,5329,0 [Base.WristWatch_Left_DigitalBlack].
+[14-02-23 18:05:48.199] 76561198100576317 "Muezza" container -2 6359,5327,0 [Base.BallPeenHammer, Base.Shovel].
+[14-02-23 18:06:19.152] 76561198080689461 "EL-Mao'" floor +1 6368,5331,0 [Base.Glasses_Normal].
+[14-02-23 18:06:34.886] 76561198145393066 "Unto Gayungan S.E.I." container -1 6360,5328,0 [Base.Hammer].
+[14-02-23 18:06:44.140] 76561198145393066 "Unto Gayungan S.E.I." container -1 6359,5328,0 [Base.Hammer].
+[14-02-23 18:07:06.185] 76561198100576317 "Muezza" container -1 6361,5328,0 [Base.NailsBox].
+[14-02-23 18:07:12.193] 76561198100576317 "Muezza" container -2 6360,5328,0 [Base.Screwdriver, Base.Crowbar].
+[14-02-23 18:07:18.195] 76561198100576317 "Muezza" container -1 6359,5328,0 [Base.Plank].
+[14-02-23 18:07:21.187] 76561198100576317 "Muezza" container -1 6359,5328,0 [Base.ScrewsBox].
+[14-02-23 18:07:33.192] 76561198100576317 "Muezza" container -1 6357,5331,0 [Base.GardenSaw].
+[14-02-23 18:07:44.149] 76561198145393066 "Unto Gayungan S.E.I." container -1 6357,5327,0 [Base.Rake].

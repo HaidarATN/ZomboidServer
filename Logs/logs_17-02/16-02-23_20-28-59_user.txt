@@ -1,0 +1,60 @@
+[16-02-23 20:28:59.170] added connection index=0 127.0.0.1.
+[16-02-23 20:28:59.868] 76561198080689461 "EL-Mao'" attempting to join.
+[16-02-23 20:28:59.868] 76561198080689461 "EL-Mao'" allowed to join.
+[16-02-23 20:29:07.423] 76561198080689461 "EL-Mao'" attempting to join used queue.
+[16-02-23 20:29:14.075] player EL-Mao' loading time was: 6318 ms.
+[16-02-23 20:30:08.764] 76561198080689461 "EL-Mao'" fully connected (5683,5765,0).
+[16-02-23 20:31:39.694] added connection index=1 232.126.5.135.
+[16-02-23 20:31:40.394] 76561198145393066 "Gym Burger (Maximum Cheese)" attempting to join.
+[16-02-23 20:31:40.394] 76561198145393066 "Gym Burger (Maximum Cheese)" allowed to join.
+[16-02-23 20:31:42.807] added connection index=2 231.174.46.135.
+[16-02-23 20:31:43.854] 76561198100576317 "Muezza" attempting to join.
+[16-02-23 20:31:43.854] 76561198100576317 "Muezza" allowed to join.
+[16-02-23 20:31:48.105] 76561198145393066 "Gym Burger (Maximum Cheese)" attempting to join used queue.
+[16-02-23 20:31:52.000] 76561198100576317 "Muezza" attempting to join used queue.
+[16-02-23 20:31:56.757] player Gym Burger (Maximum Cheese) loading time was: 8333 ms.
+[16-02-23 20:31:59.712] 76561198145393066 "Gym Burger (Maximum Cheese)" fully connected (5705,5777,0).
+[16-02-23 20:32:28.729] added connection index=3 23.13.232.137.
+[16-02-23 20:32:29.543] 76561198213478008 "Trisudar" attempting to join.
+[16-02-23 20:32:29.543] 76561198213478008 "Trisudar" allowed to join.
+[16-02-23 20:32:47.248] 76561198213478008 "Trisudar" attempting to join used queue.
+[16-02-23 20:32:52.160] player Muezza loading time was: 59809 ms.
+[16-02-23 20:33:42.005] 76561198100576317 "Muezza" fully connected (5683,5766,0).
+[16-02-23 20:34:17.695] player Trisudar loading time was: 89798 ms.
+[16-02-23 20:34:41.548] 76561198213478008 "Trisudar" fully connected (5581,5907,0).
+[16-02-23 20:58:44.718] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:44.916] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:45.091] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:45.267] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:45.466] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:45.678] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:45.974] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:46.192] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:47.708] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:47.883] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:48.083] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:48.258] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:50.710] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:50.908] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:51.105] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:56.714] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:56.897] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:59.710] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:58:59.899] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[16-02-23 20:59:02.050] Error: Dupe item ID for EL-Mao' (5680,5769,1).
+[16-02-23 21:00:02.945] Error: Dupe item ID for Muezza (5680,5766,1).
+[16-02-23 21:36:58.619] user Gym Burger (Maximum Cheese) died at (5727,5733,0) (non pvp).
+[16-02-23 21:39:46.340] 76561198145393066 "Gym Burger (Maximum Cheese)" disconnected player (5727,5733,0).
+[16-02-23 21:39:48.746] 76561198145393066 "Gym Burger (Maximum Cheese)" fully connected (5574,5903,0).
+[16-02-23 21:55:20.950] user Trisudar died at (5685,5766,0) (non pvp).
+[16-02-23 21:56:03.186] 76561198213478008 "Trisudar" removed connection index=3.
+[16-02-23 21:56:03.199] 76561198213478008 "Trisudar" disconnected player (5685,5766,0).
+[16-02-23 22:51:36.294] user Muezza died at (5695,5769,0) (non pvp).
+[16-02-23 22:55:40.157] 76561198100576317 "Muezza" disconnected player (5695,5769,0).
+[16-02-23 22:55:48.292] 76561198100576317 "Muezza" fully connected (5574,5903,0).
+[17-02-23 00:32:47.500] user Gym Burger (Maximum Cheese) died at (5612,5444,0) (non pvp).
+[17-02-23 00:34:24.440] 76561198145393066 "Gym Burger (Maximum Cheese)" disconnected player (5612,5444,0).
+[17-02-23 00:34:26.878] 76561198145393066 "Gym Burger (Maximum Cheese)" fully connected (5686,5763,0).
+[17-02-23 01:17:11.716] Error: Dupe item ID for EL-Mao' (5684,5764,1).
+[17-02-23 01:55:29.768] 76561198080689461 "EL-Mao'" removed connection index=0.
+[17-02-23 01:55:29.780] 76561198080689461 "EL-Mao'" disconnected player (5683,5766,0).

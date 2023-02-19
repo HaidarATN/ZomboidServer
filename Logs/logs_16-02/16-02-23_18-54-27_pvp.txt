@@ -1,0 +1,15 @@
+[16-02-23 18:54:27.199][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-02-23 18:56:24.528][INFO] user "Gym Burger (Maximum Cheese)" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-02-23 18:59:12.935][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-02-23 19:13:46.423][INFO] user "Trisudar" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-02-23 19:20:15.217][INFO] user "Muezza" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-02-23 19:21:17.067][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-02-23 19:22:57.462][INFO] user "Gym Burger (Maximum Cheese)" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-02-23 19:24:17.285][INFO] user "Gym Burger (Maximum Cheese)" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-02-23 19:35:45.777][INFO] user "Muezza" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-02-23 19:36:20.733][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-02-23 20:14:10.625][INFO] user "Trisudar" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-02-23 20:20:00.258][INFO] user "Trisudar" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-02-23 20:26:30.859][INFO] user "Trisudar" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-02-23 20:27:12.452][INFO] user "Trisudar" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-02-23 20:27:31.812][INFO] user "EL-Mao'" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

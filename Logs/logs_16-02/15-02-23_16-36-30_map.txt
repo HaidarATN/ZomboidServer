@@ -1,0 +1,156 @@
+[15-02-23 16:36:30.122] 76561198145393066 "Gym Burger" removed Door (fixtures_doors_01_0) at 10614,10309,0.
+[15-02-23 17:48:14.362] 76561198100576317 "Muezza" removed Door (fixtures_doors_01_48) at 10607,10325,0.
+[15-02-23 17:50:33.532] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_0) at 10615,10318,0.
+[15-02-23 17:51:50.850] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_48) at 10607,10328,0.
+[15-02-23 18:32:21.678] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10671.0,10615.0,0.0.
+[15-02-23 18:33:09.259] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10670.0,10615.0,0.0.
+[15-02-23 18:41:47.627] 76561198080689461 "EL-Mao'" removed IsoObject (appliances_cooking_01_69) at 10618,10557,0.
+[15-02-23 18:42:01.844] 76561198080689461 "EL-Mao'" added IsoObject (appliances_cooking_01_69) at 10617.0,10557.0,0.0.
+[15-02-23 18:42:31.314] 76561198080689461 "EL-Mao'" removed IsoObject (appliances_cooking_01_69) at 10617,10557,0.
+[15-02-23 18:42:48.617] 76561198080689461 "EL-Mao'" added IsoObject (appliances_cooking_01_69) at 10620.0,10557.0,0.0.
+[15-02-23 18:43:39.209] 76561198080689461 "EL-Mao'" removed IsoObject (appliances_refrigeration_01_40) at 10616,10557,0.
+[15-02-23 18:45:19.829] 76561198080689461 "EL-Mao'" added Thumpable (appliances_refrigeration_01_40) at 10676.0,10632.0,0.0.
+[15-02-23 18:48:01.913] 76561198100576317 "Muezza" added Wooden Crate (carpentry_01_19) at 10669.0,10623.0,0.0.
+[15-02-23 18:49:29.565] 76561198100576317 "Muezza" removed Wooden Crate (carpentry_01_19) at 10669,10623,0.
+[15-02-23 18:49:45.826] 76561198100576317 "Muezza" added Wooden Crate (carpentry_01_19) at 10676.0,10617.0,0.0.
+[15-02-23 18:51:05.987] 76561198100576317 "Muezza" added Wooden Crate (carpentry_01_19) at 10676.0,10618.0,0.0.
+[15-02-23 18:51:38.126] 76561198100576317 "Muezza" added Wooden Crate (carpentry_01_19) at 10675.0,10618.0,0.0.
+[15-02-23 18:52:15.580] 76561198100576317 "Muezza" added Wooden Crate (carpentry_01_19) at 10673.0,10618.0,0.0.
+[15-02-23 18:59:49.765] 76561198100576317 "Muezza" removed Door (fixtures_doors_01_1) at 10770,10313,0.
+[15-02-23 19:01:10.404] 76561198100576317 "Muezza" removed Door (fixtures_doors_01_52) at 10671,10313,0.
+[15-02-23 19:04:01.952] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_fences_01_67) at 10706,10151,0.
+[15-02-23 19:04:01.955] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_fences_01_66) at 10705,10151,0.
+[15-02-23 19:04:07.486] 76561198100576317 "Muezza" removed Door (fixtures_doors_01_32) at 10745,10348,0.
+[15-02-23 19:04:25.024] 76561198100576317 "Muezza" removed Door (fixtures_doors_01_52) at 10677,10313,0.
+[15-02-23 19:05:31.165] 76561198145393066 "Gym Burger" removed Door (fixtures_doors_01_53) at 10630,10163,0.
+[15-02-23 19:05:40.607] 76561198100576317 "Muezza" removed Door (fixtures_doors_01_20) at 10697,10365,0.
+[15-02-23 19:05:47.280] 76561198145393066 "Gym Burger" removed Door (fixtures_doors_fences_01_73) at 10729,10103,0.
+[15-02-23 19:05:47.282] 76561198145393066 "Gym Burger" removed Door (fixtures_doors_fences_01_72) at 10729,10104,0.
+[15-02-23 19:05:50.539] 76561198145393066 "Gym Burger" removed Door (fixtures_doors_01_1) at 10629,10140,0.
+[15-02-23 19:06:09.174] 76561198100576317 "Muezza" removed Door (fixtures_doors_01_32) at 10763,10362,0.
+[15-02-23 19:06:10.985] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_fences_01_74) at 10707,10151,0.
+[15-02-23 19:06:10.987] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_fences_01_75) at 10708,10151,0.
+[15-02-23 19:06:16.202] 76561198100576317 "Muezza" removed Door (fixtures_doors_01_33) at 10750,10331,0.
+[15-02-23 19:06:22.236] 76561198145393066 "Gym Burger" removed Door (fixtures_doors_fences_01_64) at 10729,10102,0.
+[15-02-23 19:06:22.239] 76561198145393066 "Gym Burger" removed Door (fixtures_doors_fences_01_65) at 10729,10101,0.
+[15-02-23 19:06:39.824] 76561198145393066 "Gym Burger" removed Door (fixtures_doors_01_12) at 10675,10100,0.
+[15-02-23 19:06:57.385] 76561198100576317 "Muezza" removed Door (fixtures_doors_01_53) at 10675,10365,0.
+[15-02-23 19:07:11.438] 76561198080689461 "EL-Mao'" removed Door (walls_garage_01_17) at 10701,10101,0.
+[15-02-23 19:07:11.439] 76561198080689461 "EL-Mao'" removed Door (walls_garage_01_18) at 10701,10100,0.
+[15-02-23 19:07:11.439] 76561198080689461 "EL-Mao'" removed Door (walls_garage_01_16) at 10701,10102,0.
+[15-02-23 19:07:13.988] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_45) at 10659,10144,0.
+[15-02-23 19:07:20.251] 76561198100576317 "Muezza" removed Door (fixtures_doors_02_45) at 10678,10346,0.
+[15-02-23 19:07:24.788] 76561198145393066 "Gym Burger" removed Barricade (carpentry_01_0) at 10779,10088,0.
+[15-02-23 19:07:32.075] 76561198100576317 "Muezza" removed Door (fixtures_doors_01_20) at 10677,10338,0.
+[15-02-23 19:07:33.666] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_12) at 10662,10106,0.
+[15-02-23 19:07:59.273] 76561198145393066 "Gym Burger" removed Door (fixtures_doors_01_0) at 10631,10135,0.
+[15-02-23 19:07:59.547] 76561198100576317 "Muezza" removed Door (fixtures_doors_02_45) at 10695,10355,0.
+[15-02-23 19:08:44.624] 76561198145393066 "Gym Burger" removed Door (fixtures_doors_01_48) at 10624,10144,0.
+[15-02-23 19:09:48.691] 76561198100576317 "Muezza" removed Door (walls_garage_02_2) at 10752,10346,0.
+[15-02-23 19:09:48.692] 76561198100576317 "Muezza" removed Door (walls_garage_02_0) at 10752,10347,0.
+[15-02-23 19:34:56.364] 76561198080689461 "EL-Mao'" removed IsoGenerator (appliances_misc_01_0) at 10748,10341,0.
+[15-02-23 19:35:34.672] 76561198080689461 "EL-Mao'" added IsoGenerator (appliances_misc_01_0) at 10737.0,10362.0,0.0.
+[15-02-23 19:36:41.617] 76561198100576317 "Muezza" removed IsoGenerator (appliances_misc_01_0) at 10748,10333,0.
+[15-02-23 19:36:43.910] 76561198145393066 "Gym Burger" removed IsoGenerator (appliances_misc_01_0) at 10748,10336,0.
+[15-02-23 19:36:48.578] 76561198100576317 "Muezza" removed Door (walls_garage_01_16) at 10763,10339,0.
+[15-02-23 19:36:48.578] 76561198100576317 "Muezza" removed Door (walls_garage_01_18) at 10763,10337,0.
+[15-02-23 19:36:48.578] 76561198100576317 "Muezza" removed Door (walls_garage_01_17) at 10763,10338,0.
+[15-02-23 19:36:59.045] 76561198100576317 "Muezza" added IsoGenerator (appliances_misc_01_0) at 10750.0,10348.0,0.0.
+[15-02-23 19:37:03.363] 76561198145393066 "Gym Burger" added IsoGenerator (appliances_misc_01_0) at 10748.0,10348.0,0.0.
+[15-02-23 19:37:35.576] 76561198080689461 "EL-Mao'" removed IsoGenerator (appliances_misc_01_0) at 10747,10359,0.
+[15-02-23 19:37:52.703] 76561198080689461 "EL-Mao'" added IsoGenerator (appliances_misc_01_0) at 10747.0,10347.0,0.0.
+[15-02-23 19:40:25.303] 76561198080689461 "EL-Mao'" added Radio () at 10747.0,10348.0,0.0.
+[15-02-23 19:41:14.700] 76561198145393066 "Gym Burger" removed Radio () at 10747,10348,0.
+[15-02-23 19:41:21.106] 76561198145393066 "Gym Burger" removed IsoGenerator (appliances_misc_01_0) at 10747,10347,0.
+[15-02-23 19:41:53.271] 76561198145393066 "Gym Burger" added IsoGenerator (appliances_misc_01_0) at 10737.0,10361.0,0.0.
+[15-02-23 19:42:00.966] 76561198080689461 "EL-Mao'" removed IsoGenerator (appliances_misc_01_0) at 10748,10348,0.
+[15-02-23 19:42:22.953] 76561198080689461 "EL-Mao'" added IsoGenerator (appliances_misc_01_0) at 10738.0,10361.0,0.0.
+[15-02-23 19:42:23.687] 76561198100576317 "Muezza" removed IsoGenerator (appliances_misc_01_0) at 10750,10348,0.
+[15-02-23 19:42:50.050] 76561198100576317 "Muezza" added IsoGenerator (appliances_misc_01_0) at 10738.0,10362.0,0.0.
+[15-02-23 19:46:12.551] 76561198100576317 "Muezza" added Fireplace (appliances_cooking_01_16) at 10749.0,10346.0,0.0.
+[15-02-23 19:52:44.546] 76561198080689461 "EL-Mao'" removed IsoGenerator (appliances_misc_01_0) at 10738,10361,0.
+[15-02-23 19:52:53.616] 76561198145393066 "Gym Burger" removed IsoGenerator (appliances_misc_01_0) at 10737,10362,0.
+[15-02-23 19:52:57.649] 76561198145393066 "Gym Burger" added IsoGenerator (appliances_misc_01_0) at 10738.0,10362.0,0.0.
+[15-02-23 19:53:00.840] 76561198145393066 "Gym Burger" removed IsoGenerator (appliances_misc_01_0) at 10738,10362,0.
+[15-02-23 19:53:06.830] 76561198100576317 "Muezza" removed IsoGenerator (appliances_misc_01_0) at 10737,10361,0.
+[15-02-23 19:53:09.709] 76561198100576317 "Muezza" added IsoGenerator (appliances_misc_01_0) at 10737.0,10361.0,0.0.
+[15-02-23 19:53:12.432] 76561198100576317 "Muezza" removed IsoGenerator (appliances_misc_01_0) at 10738,10362,0.
+[15-02-23 19:56:16.889] 76561198080689461 "EL-Mao'" added IsoGenerator (appliances_misc_01_0) at 10666.0,10623.0,0.0.
+[15-02-23 19:56:24.817] 76561198100576317 "Muezza" added IsoGenerator (appliances_misc_01_0) at 10665.0,10621.0,0.0.
+[15-02-23 19:56:25.748] 76561198145393066 "Gym Burger" added IsoGenerator (appliances_misc_01_0) at 10665.0,10624.0,0.0.
+[15-02-23 20:00:40.549] 76561198100576317 "Muezza" added Radio () at 10666.0,10626.0,0.0.
+[15-02-23 20:02:27.382] 76561198100576317 "Muezza" removed Radio () at 10666,10626,0.
+[15-02-23 20:13:15.361] 76561198080689461 "EL-Mao'" removed Barbecue (appliances_cooking_01_36) at 10874,10286,0.
+[15-02-23 20:20:32.731] 76561198100576317 "Muezza" removed Tent (camping_01_1) at 10892,10332,0.
+[15-02-23 20:20:32.743] 76561198100576317 "Muezza" removed Tent (camping_01_0) at 10892,10333,0.
+[15-02-23 20:53:36.210] 76561198100576317 "Muezza" added Radio () at 10675.0,10621.0,0.0.
+[15-02-23 20:55:17.900] 76561198100576317 "Muezza" removed Radio () at 10675,10621,0.
+[15-02-23 20:55:31.871] 76561198100576317 "Muezza" added Television (appliances_television_01_4) at 10674.0,10617.0,0.0.
+[15-02-23 20:56:40.466] 76561198100576317 "Muezza" removed Television (appliances_television_01_4) at 10674,10617,0.
+[15-02-23 20:56:52.986] 76561198100576317 "Muezza" added Television (appliances_television_01_4) at 10675.0,10618.0,0.0.
+[15-02-23 21:17:05.021] 76561198100576317 "Muezza" removed Door (fixtures_doors_01_52) at 10634,10145,0.
+[15-02-23 21:30:39.311] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10871.0,10190.0,2.0.
+[15-02-23 21:30:39.315] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10872.0,10190.0,2.0.
+[15-02-23 21:30:39.315] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10873.0,10190.0,2.0.
+[15-02-23 21:30:39.316] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10874.0,10190.0,2.0.
+[15-02-23 21:30:39.323] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10880.0,10183.0,2.0.
+[15-02-23 21:30:39.325] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10880.0,10184.0,2.0.
+[15-02-23 21:30:39.326] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10880.0,10185.0,2.0.
+[15-02-23 21:30:39.326] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10880.0,10186.0,2.0.
+[15-02-23 21:30:39.327] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10880.0,10187.0,2.0.
+[15-02-23 21:30:39.328] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10877.0,10183.0,2.0.
+[15-02-23 21:30:39.329] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10878.0,10183.0,2.0.
+[15-02-23 21:30:39.330] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10879.0,10183.0,2.0.
+[15-02-23 21:30:39.331] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10877.0,10184.0,2.0.
+[15-02-23 21:30:39.332] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10878.0,10184.0,2.0.
+[15-02-23 21:30:39.332] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10879.0,10184.0,2.0.
+[15-02-23 21:30:39.333] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10877.0,10185.0,2.0.
+[15-02-23 21:30:39.334] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10878.0,10185.0,2.0.
+[15-02-23 21:30:39.335] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10879.0,10185.0,2.0.
+[15-02-23 21:30:39.335] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10871.0,10186.0,2.0.
+[15-02-23 21:30:39.336] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10877.0,10186.0,2.0.
+[15-02-23 21:30:39.337] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10878.0,10186.0,2.0.
+[15-02-23 21:30:39.337] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10879.0,10186.0,2.0.
+[15-02-23 21:30:39.338] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10871.0,10187.0,2.0.
+[15-02-23 21:30:39.339] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10872.0,10187.0,2.0.
+[15-02-23 21:30:39.339] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10873.0,10187.0,2.0.
+[15-02-23 21:30:39.340] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10874.0,10187.0,2.0.
+[15-02-23 21:30:39.341] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10875.0,10187.0,2.0.
+[15-02-23 21:30:39.342] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10876.0,10187.0,2.0.
+[15-02-23 21:30:39.342] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10877.0,10187.0,2.0.
+[15-02-23 21:30:39.343] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10878.0,10187.0,2.0.
+[15-02-23 21:30:39.344] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10879.0,10187.0,2.0.
+[15-02-23 21:30:39.345] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10872.0,10188.0,2.0.
+[15-02-23 21:30:39.346] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10873.0,10188.0,2.0.
+[15-02-23 21:30:39.346] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10874.0,10188.0,2.0.
+[15-02-23 21:30:39.347] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10871.0,10189.0,2.0.
+[15-02-23 21:30:39.348] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10872.0,10189.0,2.0.
+[15-02-23 21:30:39.349] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10873.0,10189.0,2.0.
+[15-02-23 21:30:39.349] 76561198145393066 "Gym Burger" added IsoObject (roofs_02_22) at 10874.0,10189.0,2.0.
+[15-02-23 22:25:31.634] 76561198080689461 "EL-Mao'" added IsoObject (fencing_damaged_01_124) at 10646.0,10151.0,0.0.
+[15-02-23 22:27:36.119] 76561198145393066 "Gym Burger" added Barbecue (appliances_cooking_01_44) at 10665.0,10629.0,0.0.
+[15-02-23 22:28:03.354] 76561198145393066 "Gym Burger" removed Barbecue (appliances_cooking_01_44) at 10665,10629,0.
+[15-02-23 22:28:34.237] 76561198145393066 "Gym Burger" added Barbecue (appliances_cooking_01_44) at 10665.0,10628.0,0.0.
+[15-02-23 23:34:16.278] 76561198080689461 "EL-Mao'" added Radio () at 10676.0,10630.0,0.0.
+[15-02-23 23:37:29.282] 76561198080689461 "EL-Mao'" removed Canadian Hemlock (e_canadianhemlock_1_2) at 10641,10662,0.
+[15-02-23 23:37:45.030] 76561198080689461 "EL-Mao'" removed Canadian Hemlock (e_canadianhemlock_1_2) at 10640,10662,0.
+[15-02-23 23:38:38.783] 76561198145393066 "Gym Burger" removed Canadian Hemlock (e_canadianhemlock_1_2) at 10641,10663,0.
+[15-02-23 23:38:54.180] 76561198145393066 "Gym Burger" removed American Holly (e_americanholly_1_2) at 10642,10664,0.
+[15-02-23 23:39:51.149] 76561198100576317 "Muezza" removed Yellowwood (e_yellowwood_1_2) at 10640,10663,0.
+[15-02-23 23:40:05.982] 76561198100576317 "Muezza" removed Yellowwood (e_yellowwood_1_3) at 10640,10664,0.
+[15-02-23 23:40:35.389] 76561198100576317 "Muezza" removed Virginia Pine (e_virginiapine_1_2) at 10639,10661,0.
+[15-02-23 23:43:06.011] 76561198100576317 "Muezza" removed Dogwood (e_dogwood_1_2) at 10639,10663,0.
+[15-02-23 23:44:48.056] 76561198145393066 "Gym Burger" removed Canadian Hemlock (e_canadianhemlock_1_2) at 10641,10664,0.
+[15-02-23 23:46:56.659] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 10677.0,10633.0,0.0.
+[15-02-23 23:48:17.850] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 10677.0,10634.0,0.0.
+[15-02-23 23:49:12.945] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 10677.0,10635.0,0.0.
+[15-02-23 23:51:07.965] 76561198080689461 "EL-Mao'" removed American Holly (e_americanholly_1_3) at 10643,10667,0.
+[15-02-23 23:51:23.547] 76561198080689461 "EL-Mao'" removed American Holly (e_americanholly_1_3) at 10642,10667,0.
+[15-02-23 23:51:38.195] 76561198080689461 "EL-Mao'" removed Canadian Hemlock (e_canadianhemlock_1_3) at 10642,10666,0.
+[15-02-23 23:54:38.121] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 10677.0,10636.0,0.0.
+[15-02-23 23:55:58.058] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 10677.0,10637.0,0.0.
+[15-02-23 23:57:56.892] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 10677.0,10614.0,0.0.
+[16-02-23 00:00:49.710] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 10677.0,10638.0,0.0.
+[16-02-23 00:33:41.233] 76561198080689461 "EL-Mao'" removed Door (industry_trucks_01_33) at 10627,9309,0.
+[16-02-23 00:33:41.233] 76561198080689461 "EL-Mao'" removed Door (industry_trucks_01_32) at 10627,9310,0.
+[16-02-23 00:33:41.234] 76561198080689461 "EL-Mao'" removed Door (industry_trucks_01_34) at 10627,9308,0.

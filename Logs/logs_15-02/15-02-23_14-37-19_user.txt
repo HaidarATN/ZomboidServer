@@ -1,0 +1,17 @@
+[15-02-23 14:37:19.152] added connection index=0 127.0.0.1.
+[15-02-23 14:37:19.898] 76561198080689461 "EL-Mao'" attempting to join.
+[15-02-23 14:37:19.898] 76561198080689461 "EL-Mao'" allowed to join.
+[15-02-23 14:37:26.749] 76561198080689461 "EL-Mao'" attempting to join used queue.
+[15-02-23 14:37:52.417] player EL-Mao' loading time was: 25378 ms.
+[15-02-23 14:38:51.738] 76561198080689461 "EL-Mao'" fully connected (10669,10622,0).
+[15-02-23 14:46:13.648] added connection index=1 210.208.123.149.
+[15-02-23 14:46:14.775] 76561198145393066 "Gym Burger" attempting to join.
+[15-02-23 14:46:14.776] 76561198145393066 "Gym Burger" allowed to join.
+[15-02-23 14:46:57.393] 76561198145393066 "Gym Burger" attempting to join used queue.
+[15-02-23 14:49:25.383] player Gym Burger loading time was: 145915 ms.
+[15-02-23 14:49:28.616] 76561198145393066 "Gym Burger" fully connected (10670,10621,0).
+[15-02-23 14:55:35.683] user Gym Burger died at (10588,10787,0) (non pvp).
+[15-02-23 14:56:17.842] 76561198145393066 "Gym Burger" disconnected player (10588,10787,0).
+[15-02-23 14:56:22.807] 76561198145393066 "Gym Burger" fully connected (10698,10449,0).
+[15-02-23 15:05:02.335] 76561198080689461 "EL-Mao'" removed connection index=0.
+[15-02-23 15:05:02.350] 76561198080689461 "EL-Mao'" disconnected player (9982,10955,0).

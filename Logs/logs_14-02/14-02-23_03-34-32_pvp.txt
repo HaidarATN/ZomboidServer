@@ -1,0 +1,8 @@
+[14-02-23 03:34:32.305][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 03:34:41.017][INFO] user "EL-Mao'" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 03:34:59.083][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 03:35:15.998] user "EL-Mao'" (11831,6911,0) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 03:35:15.998] user "EL-Mao'" (11831,6911,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[14-02-23 03:35:18.696] user "EL-Mao'" (11831,6911,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[14-02-23 03:35:18.696] user "EL-Mao'" (11831,6911,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[14-02-23 03:38:29.995][INFO] user "EL-Mao'" store safety enabled=true last=false cooldown=0.0 toggle=0.0.

@@ -1,0 +1,16 @@
+[16-02-23 19:28:35.071] 76561198145393066 "Gym Burger (Maximum Cheese)" removed IsoObject (industry_01_23) at 5582,5902,0.
+[16-02-23 19:28:46.315] 76561198145393066 "Gym Burger (Maximum Cheese)" added Thumpable (industry_01_23) at 5582.0,5906.0,0.0.
+[16-02-23 19:29:47.314] 76561198080689461 "EL-Mao'" removed Door (walls_garage_01_49) at 5580,5927,0.
+[16-02-23 19:29:47.314] 76561198080689461 "EL-Mao'" removed Door (walls_garage_01_48) at 5580,5928,0.
+[16-02-23 19:29:47.314] 76561198080689461 "EL-Mao'" removed Door (walls_garage_01_50) at 5580,5926,0.
+[16-02-23 19:32:18.148] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Door (fixtures_doors_01_53) at 5580,5925,0.
+[16-02-23 20:03:09.889] 76561198100576317 "Muezza" removed Door (fixtures_doors_01_53) at 5420,5915,0.
+[16-02-23 20:03:09.892] 76561198080689461 "EL-Mao'" removed LightSwitch (lighting_indoor_01_25) at 5420,5915,0.
+[16-02-23 20:04:02.300] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_17) at 5369,6027,0.
+[16-02-23 20:04:37.011] 76561198100576317 "Muezza" removed Door (fixtures_doors_01_65) at 5419,5917,0.
+[16-02-23 20:14:39.619] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_56) at 5767,5739,0.
+[16-02-23 20:16:40.732] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Door (walls_garage_01_17) at 5767,5734,0.
+[16-02-23 20:16:40.733] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Door (walls_garage_01_18) at 5767,5733,0.
+[16-02-23 20:16:40.733] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Door (walls_garage_01_16) at 5767,5735,0.
+[16-02-23 20:17:09.316] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_0) at 5717,5728,1.
+[16-02-23 20:18:10.551] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_57) at 5763,5737,0.

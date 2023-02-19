@@ -1,0 +1,86 @@
+[16-02-23 21:15:31.302] [76561198080689461][ISEnterVehicle][EL-Mao'][5657,5751,0][ModernCar].
+[16-02-23 21:15:59.193] [76561198213478008][ISEnterVehicle][Trisudar][5667,5758,0][ModernCar].
+[16-02-23 21:16:08.954] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][5664,5758,0][ModernCar].
+[16-02-23 21:18:30.148] [76561198213478008][ISExitVehicle][Trisudar][5836,5834,0][ModernCar].
+[16-02-23 21:18:34.151] [76561198213478008][ISEnterVehicle][Trisudar][5836,5833,0][ModernCar].
+[16-02-23 21:18:37.527] [76561198213478008][ISExitVehicle][Trisudar][5836,5834,0][ModernCar].
+[16-02-23 21:19:38.157] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][5942,5419,0][ModernCar].
+[16-02-23 21:19:38.511] [76561198080689461][ISExitVehicle][EL-Mao'][5941,5418,0][ModernCar].
+[16-02-23 21:24:36.131] [76561198080689461][ISEnterVehicle][EL-Mao'][5943,5418,0][ModernCar].
+[16-02-23 21:24:38.269] [76561198080689461][ISExitVehicle][EL-Mao'][5943,5418,0][ModernCar].
+[16-02-23 21:24:53.493] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][5942,5418,0][ModernCar].
+[16-02-23 21:25:17.165] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][5941,5418,0][ModernCar].
+[16-02-23 21:31:28.185] [76561198080689461][ISEnterVehicle][EL-Mao'][5943,5418,0][ModernCar].
+[16-02-23 21:31:38.796] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][5943,5418,0][ModernCar].
+[16-02-23 21:32:48.343] [76561198080689461][ISExitVehicle][EL-Mao'][5778,5781,0][ModernCar].
+[16-02-23 21:32:49.008] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][5780,5782,0][ModernCar].
+[16-02-23 21:33:19.245] [76561198080689461][ISEnterVehicle][EL-Mao'][5779,5782,0][ModernCar].
+[16-02-23 21:34:22.889] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][5763,5744,0][ModernCar].
+[16-02-23 21:34:34.036] [76561198080689461][ISExitVehicle][EL-Mao'][5693,5768,0][ModernCar].
+[16-02-23 21:34:34.545] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][5691,5768,0][ModernCar].
+[16-02-23 21:36:13.765] [76561198080689461][ISEnterVehicle][EL-Mao'][5692,5767,0][ModernCar].
+[16-02-23 21:36:47.662] [76561198080689461][ISExitVehicle][EL-Mao'][5691,5768,0][ModernCar].
+[16-02-23 22:09:32.980] [76561198080689461][ISEnterVehicle][EL-Mao'][5692,5767,0][ModernCar].
+[16-02-23 22:09:34.231] [76561198080689461][ISExitVehicle][EL-Mao'][5691,5767,0][ModernCar].
+[16-02-23 22:09:51.802] [76561198080689461][ISEnterVehicle][EL-Mao'][5692,5768,0][ModernCar].
+[16-02-23 22:09:53.838] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][5692,5768,0][ModernCar].
+[16-02-23 22:12:36.598] [76561198080689461][ISExitVehicle][EL-Mao'][6311,5277,0][ModernCar].
+[16-02-23 22:12:37.494] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][6312,5279,0][ModernCar].
+[16-02-23 22:12:37.931] [76561198080689461][ISEnterVehicle][EL-Mao'][6311,5278,0][ModernCar].
+[16-02-23 22:12:40.085] [76561198080689461][ISExitVehicle][EL-Mao'][6311,5277,0][ModernCar].
+[16-02-23 22:32:47.081] [76561198080689461][ISEnterVehicle][EL-Mao'][6310,5279,0][ModernCar].
+[16-02-23 22:33:06.287] [76561198080689461][ISExitVehicle][EL-Mao'][6310,5278,0][ModernCar].
+[16-02-23 22:38:31.719] [76561198080689461][ISEnterVehicle][EL-Mao'][6311,5278,0][ModernCar].
+[16-02-23 22:38:45.023] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][6312,5278,0][ModernCar].
+[16-02-23 22:40:45.724] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][5692,5764,0][ModernCar].
+[16-02-23 22:40:47.010] [76561198080689461][ISExitVehicle][EL-Mao'][5694,5765,0][ModernCar].
+[16-02-23 22:42:38.765] [76561198080689461][ISEnterVehicle][EL-Mao'][5692,5765,0][ModernCar].
+[16-02-23 22:42:52.463] [76561198080689461][ISExitVehicle][EL-Mao'][5692,5765,0][ModernCar].
+[16-02-23 23:21:47.862] [76561198080689461][ISEnterVehicle][EL-Mao'][5692,5765,0][ModernCar].
+[16-02-23 23:22:05.651] [76561198080689461][ISExitVehicle][EL-Mao'][5695,5789,0][ModernCar].
+[16-02-23 23:22:08.295] [76561198080689461][ISEnterVehicle][EL-Mao'][5694,5789,0][ModernCar].
+[16-02-23 23:22:10.744] [76561198080689461][ISExitVehicle][EL-Mao'][5695,5789,0][ModernCar].
+[16-02-23 23:37:55.236] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][5694,5789,0][ModernCar].
+[16-02-23 23:38:20.516] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][5693,5805,0][ModernCar].
+[16-02-23 23:38:28.691] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][5694,5805,0][ModernCar].
+[16-02-23 23:38:34.350] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][5693,5805,0][ModernCar].
+[16-02-23 23:39:17.411] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][5693,5805,0][ModernCar].
+[16-02-23 23:39:43.071] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][5693,5805,0][ModernCar].
+[16-02-23 23:40:11.390] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][5693,5805,0][ModernCar].
+[16-02-23 23:40:28.184] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][5694,5776,0][ModernCar].
+[16-02-23 23:40:40.269] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][5694,5775,0][ModernCar].
+[16-02-23 23:41:09.957] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][5694,5776,0][ModernCar].
+[16-02-23 23:41:11.718] [76561198080689461][ISEnterVehicle][EL-Mao'][5694,5774,0][ModernCar].
+[16-02-23 23:41:34.431] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][5694,5775,0][ModernCar].
+[16-02-23 23:41:38.263] [76561198080689461][ISExitVehicle][EL-Mao'][5694,5774,0][ModernCar].
+[16-02-23 23:41:49.229] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][5694,5776,0][ModernCar].
+[16-02-23 23:44:08.427] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][5694,5775,0][ModernCar].
+[16-02-23 23:44:12.720] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][5694,5776,0][ModernCar].
+[17-02-23 00:05:42.230] [76561198080689461][ISEnterVehicle][EL-Mao'][5694,5775,0][ModernCar].
+[17-02-23 00:06:01.071] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][5695,5775,0][ModernCar].
+[17-02-23 00:07:35.202] [76561198080689461][ISExitVehicle][EL-Mao'][5956,5273,0][ModernCar].
+[17-02-23 00:07:35.767] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][5957,5273,0][ModernCar].
+[17-02-23 00:10:29.600] [76561198080689461][ISEnterVehicle][EL-Mao'][5956,5272,0][ModernCar].
+[17-02-23 00:10:33.712] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][5957,5271,0][ModernCar].
+[17-02-23 00:11:04.577] [76561198080689461][ISExitVehicle][EL-Mao'][6065,5253,0][ModernCar].
+[17-02-23 00:11:06.512] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][6066,5253,0][ModernCar].
+[17-02-23 00:18:01.375] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][6065,5254,0][ModernCar].
+[17-02-23 00:18:02.287] [76561198080689461][ISEnterVehicle][EL-Mao'][6066,5253,0][ModernCar].
+[17-02-23 00:18:47.328] [76561198080689461][ISExitVehicle][EL-Mao'][6081,5308,0][ModernCar].
+[17-02-23 00:19:06.125] [76561198080689461][ISEnterVehicle][EL-Mao'][6081,5307,0][ModernCar].
+[17-02-23 00:19:27.143] [76561198080689461][ISExitVehicle][EL-Mao'][6079,5304,0][ModernCar].
+[17-02-23 00:19:28.080] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][6080,5304,0][ModernCar].
+[17-02-23 00:22:25.831] [76561198080689461][ISEnterVehicle][EL-Mao'][6080,5303,0][ModernCar].
+[17-02-23 00:22:41.973] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][6061,5284,0][ModernCar].
+[17-02-23 00:24:04.477] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][5690,5761,0][ModernCar].
+[17-02-23 00:24:12.295] [76561198080689461][ISExitVehicle][EL-Mao'][5692,5761,0][ModernCar].
+[17-02-23 01:23:16.035] [76561198080689461][ISEnterVehicle][EL-Mao'][5690,5761,0][ModernCar].
+[17-02-23 01:23:19.269] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][5690,5760,0][ModernCar].
+[17-02-23 01:25:22.245] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][5502,6085,0][ModernCar].
+[17-02-23 01:25:22.326] [76561198080689461][ISExitVehicle][EL-Mao'][5503,6083,0][ModernCar].
+[17-02-23 01:44:03.702] [76561198080689461][ISEnterVehicle][EL-Mao'][5503,6084,0][ModernCar].
+[17-02-23 01:44:06.985] [76561198145393066][ISEnterVehicle][Gym Burger (Maximum Cheese)][5502,6084,0][ModernCar].
+[17-02-23 01:45:34.295] [76561198080689461][ISExitVehicle][EL-Mao'][5770,5739,0][ModernCar].
+[17-02-23 01:46:15.650] [76561198080689461][ISEnterVehicle][EL-Mao'][5771,5738,0][ModernCar].
+[17-02-23 01:46:33.777] [76561198080689461][ISExitVehicle][EL-Mao'][5694,5762,0][ModernCar].
+[17-02-23 01:46:34.168] [76561198145393066][ISExitVehicle][Gym Burger (Maximum Cheese)][5692,5761,0][ModernCar].

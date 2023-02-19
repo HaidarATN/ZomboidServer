@@ -1,0 +1,198 @@
+[14-02-23 01:25:46.576] 76561198145393066 "Unto Gayungan S.E.I." floor +1 6363,5268,0 [Base.Hat_ChefHat].
+[14-02-23 01:25:51.605] 76561198080689461 "EL-Mao'" container -1 6348,5418,0 [Base.Grapes].
+[14-02-23 01:25:51.724] 76561198145393066 "Unto Gayungan S.E.I." floor +1 6363,5268,0 [Base.Glasses_Normal].
+[14-02-23 01:26:09.608] 76561198080689461 "EL-Mao'" container -20 6348,5422,0 [Base.Cigarettes].
+[14-02-23 01:26:30.603] 76561198080689461 "EL-Mao'" container -1 6348,5419,0 [Base.BakingPan].
+[14-02-23 01:26:39.607] 76561198080689461 "EL-Mao'" container -1 6348,5419,0 [Base.RollingPin].
+[14-02-23 01:27:18.604] 76561198080689461 "EL-Mao'" container -1 6348,5421,0 [Base.CannedCarrots2].
+[14-02-23 01:27:21.604] 76561198080689461 "EL-Mao'" container -1 6348,5421,0 [Base.CannedFruitCocktail].
+[14-02-23 01:27:24.601] 76561198080689461 "EL-Mao'" container -1 6348,5421,0 [Base.CannedPeas].
+[14-02-23 01:27:30.405] 76561198080689461 "EL-Mao'" container -1 6348,5421,0 [Base.CannedBolognese].
+[14-02-23 01:27:54.599] 76561198080689461 "EL-Mao'" container -1 6353,5420,0 [Base.ComicBook].
+[14-02-23 01:27:55.803] 76561198145393066 "Unto Gayungan S.E.I." container -2 6757,5483,0 [Base.CarvingFork, Base.Teacup].
+[14-02-23 01:27:58.798] 76561198145393066 "Unto Gayungan S.E.I." container -2 6757,5483,0 [Base.KitchenKnife, Base.Fork].
+[14-02-23 01:28:01.803] 76561198145393066 "Unto Gayungan S.E.I." container -1 6757,5483,0 [Base.Bowl].
+[14-02-23 01:28:03.600] 76561198080689461 "EL-Mao'" container -1 6353,5420,0 [Base.Book].
+[14-02-23 01:28:04.801] 76561198145393066 "Unto Gayungan S.E.I." container -1 6757,5483,0 [Base.MeatCleaver].
+[14-02-23 01:28:06.604] 76561198080689461 "EL-Mao'" container -1 6353,5420,0 [Base.BookCooking2].
+[14-02-23 01:29:16.797] 76561198145393066 "Unto Gayungan S.E.I." container -2 6760,5481,0 [Base.JuiceBox, Base.PlasticCup].
+[14-02-23 01:29:19.826] 76561198145393066 "Unto Gayungan S.E.I." container -1 6760,5481,0 [Base.WaterBottleFull].
+[14-02-23 01:29:22.805] 76561198145393066 "Unto Gayungan S.E.I." container -3 6761,5481,0 [Base.PepperJalapeno, Base.Grapefruit, Base.Salami].
+[14-02-23 01:29:34.804] 76561198145393066 "Unto Gayungan S.E.I." container -1 6760,5481,0 [Base.PopBottle].
+[14-02-23 01:29:36.608] 76561198080689461 "EL-Mao'" container -1 6367,5420,0 [Base.Bread].
+[14-02-23 01:29:37.807] 76561198145393066 "Unto Gayungan S.E.I." container -2 6759,5481,0 [Base.Marinara, Base.Cereal].
+[14-02-23 01:29:40.793] 76561198145393066 "Unto Gayungan S.E.I." container -1 6759,5481,0 [Base.TVDinner].
+[14-02-23 01:29:46.800] 76561198145393066 "Unto Gayungan S.E.I." container -1 6759,5481,0 [Base.Rice].
+[14-02-23 01:29:55.803] 76561198145393066 "Unto Gayungan S.E.I." container -1 6757,5482,0 [Base.BakingPan].
+[14-02-23 01:29:58.806] 76561198145393066 "Unto Gayungan S.E.I." container -1 6757,5482,0 [Base.GridlePan].
+[14-02-23 01:30:15.601] 76561198080689461 "EL-Mao'" container -1 6368,5418,0 [Base.Bowl].
+[14-02-23 01:30:18.600] 76561198080689461 "EL-Mao'" container -1 6367,5418,0 [Base.CannedCornedBeef].
+[14-02-23 01:30:21.602] 76561198080689461 "EL-Mao'" container -1 6367,5418,0 [Base.TunaTin].
+[14-02-23 01:30:29.633] 76561198080689461 "EL-Mao'" container -1 6367,5419,0 [Base.Pan].
+[14-02-23 01:30:42.604] 76561198080689461 "EL-Mao'" container -1 6367,5421,0 [Base.DishCloth].
+[14-02-23 01:30:45.601] 76561198080689461 "EL-Mao'" container -1 6367,5421,0 [Base.Cereal].
+[14-02-23 01:30:48.600] 76561198080689461 "EL-Mao'" container -3 6367,5421,0 [Base.Crackers, Base.Crisps, Base.Crisps3].
+[14-02-23 01:31:01.813] 76561198145393066 "Unto Gayungan S.E.I." container -3 6766,5489,0 [Base.EngineerMagazine2, Base.Eraser, Base.Pencil].
+[14-02-23 01:31:04.796] 76561198145393066 "Unto Gayungan S.E.I." container -1 6766,5489,0 [Base.MagazineCrossword3].
+[14-02-23 01:31:07.803] 76561198145393066 "Unto Gayungan S.E.I." container -1 6766,5489,0 [Base.BookCarpentry2].
+[14-02-23 01:31:15.598] 76561198080689461 "EL-Mao'" container -1 6367,5422,0 [Base.Zucchini].
+[14-02-23 01:31:22.798] 76561198145393066 "Unto Gayungan S.E.I." container -4 6768,5489,0 [Base.Magazine, Base.Pencil, Base.VHS_Retail, Base.MagazineCrossword1].
+[14-02-23 01:31:25.801] 76561198145393066 "Unto Gayungan S.E.I." container -1 6768,5489,0 [Base.Notebook].
+[14-02-23 01:31:31.795] 76561198145393066 "Unto Gayungan S.E.I." container -1 6768,5489,0 [Radio.RadioBlack].
+[14-02-23 01:31:37.802] 76561198145393066 "Unto Gayungan S.E.I." container -1 6768,5489,0 [Radio.RadioRed].
+[14-02-23 01:32:15.596] 76561198080689461 "EL-Mao'" container -1 6374,5419,0 [Base.HandTorch].
+[14-02-23 01:32:21.606] 76561198080689461 "EL-Mao'" container -2 6374,5419,0 [Radio.CDplayer, Radio.ElectricWire].
+[14-02-23 01:32:23.642] 76561198100576317 "Muezza" floor +1 5815,5324,0 [Base.Glasses_Normal].
+[14-02-23 01:32:25.609] 76561198100576317 "Muezza" floor +1 5815,5324,0 [Base.Hat_BucketHat].
+[14-02-23 01:32:27.601] 76561198080689461 "EL-Mao'" container -1 6374,5419,0 [Base.VHS_Retail].
+[14-02-23 01:32:30.605] 76561198080689461 "EL-Mao'" container -1 6374,5419,0 [Base.VHS_Retail].
+[14-02-23 01:34:00.597] 76561198080689461 "EL-Mao'" container -1 6378,5422,0 [Base.Jacket_WhiteTINT].
+[14-02-23 01:34:09.605] 76561198080689461 "EL-Mao'" container -1 6378,5422,0 [Base.Jumper_RoundNeck].
+[14-02-23 01:35:34.701] 76561198100576317 "Muezza" container -1 5812,5316,0 [Base.HandTorch].
+[14-02-23 01:36:30.597] 76561198080689461 "EL-Mao'" container -1 6337,5425,0 [Base.ButterKnife].
+[14-02-23 01:37:05.298] 76561198145393066 "Unto Gayungan S.E.I." floor +1 6766,5490,0 [Radio.RadioBlack].
+[14-02-23 01:37:06.602] 76561198080689461 "EL-Mao'" container -1 6331,5425,0 [Base.MugWhite].
+[14-02-23 01:37:49.793] 76561198145393066 "Unto Gayungan S.E.I." container +0 6768,5489,0 [Base.VHS_Retail].
+[14-02-23 01:37:57.961] 76561198080689461 "EL-Mao'" floor +1 6332,5424,0 [Base.MugWhite].
+[14-02-23 01:37:58.793] 76561198145393066 "Unto Gayungan S.E.I." container +0 6768,5489,0 [Base.Pencil].
+[14-02-23 01:38:03.945] 76561198080689461 "EL-Mao'" floor +1 6332,5424,0 [Base.Bowl].
+[14-02-23 01:38:13.793] 76561198145393066 "Unto Gayungan S.E.I." container +0 6768,5489,0 [Base.Eraser].
+[14-02-23 01:38:19.808] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.809] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.809] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.810] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.811] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.811] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.812] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.813] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.813] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.814] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.815] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.815] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.816] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.817] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.817] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.818] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.819] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.820] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.820] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.821] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:19.847] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.BakingPan].
+[14-02-23 01:38:19.903] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.ComicBook].
+[14-02-23 01:38:19.948] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Crackers].
+[14-02-23 01:38:19.997] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Radio.ElectricWire].
+[14-02-23 01:38:20.049] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.VHS_Retail].
+[14-02-23 01:38:20.050] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.VHS_Retail].
+[14-02-23 01:38:20.114] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Zucchini].
+[14-02-23 01:38:20.215] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Cereal].
+[14-02-23 01:38:20.319] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Grapes].
+[14-02-23 01:38:20.418] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Crisps3].
+[14-02-23 01:38:20.548] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.TunaTin].
+[14-02-23 01:38:20.686] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.DishCloth].
+[14-02-23 01:38:20.817] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Radio.CDplayer].
+[14-02-23 01:38:20.947] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Bread].
+[14-02-23 01:38:21.167] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Book].
+[14-02-23 01:38:21.384] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.HandTorch].
+[14-02-23 01:38:21.718] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.CannedCarrots2].
+[14-02-23 01:38:22.048] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.CannedFruitCocktail].
+[14-02-23 01:38:22.400] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.CannedPeas].
+[14-02-23 01:38:22.748] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.CannedBolognese].
+[14-02-23 01:38:23.103] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.BookCooking2].
+[14-02-23 01:38:23.431] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.CannedCornedBeef].
+[14-02-23 01:38:23.852] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.Pan].
+[14-02-23 01:38:24.494] 76561198080689461 "EL-Mao'" floor +1 6328,5422,0 [Base.RollingPin].
+[14-02-23 01:38:29.256] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.256] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.256] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.256] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.257] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.257] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.257] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.257] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.257] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.257] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.258] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.258] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.258] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.258] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.258] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.259] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.259] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.259] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.259] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.259] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cigarettes].
+[14-02-23 01:38:29.667] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.BakingPan].
+[14-02-23 01:38:30.097] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.ComicBook].
+[14-02-23 01:38:30.532] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Crackers].
+[14-02-23 01:38:30.951] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Radio.ElectricWire].
+[14-02-23 01:38:31.386] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.VHS_Retail].
+[14-02-23 01:38:31.386] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.VHS_Retail].
+[14-02-23 01:38:32.012] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Zucchini].
+[14-02-23 01:38:32.866] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Cereal].
+[14-02-23 01:38:33.699] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Grapes].
+[14-02-23 01:38:34.546] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Crisps3].
+[14-02-23 01:38:35.818] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.TunaTin].
+[14-02-23 01:38:37.084] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.DishCloth].
+[14-02-23 01:38:38.353] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Radio.CDplayer].
+[14-02-23 01:38:50.949] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Bread].
+[14-02-23 01:38:53.049] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Book].
+[14-02-23 01:38:55.132] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.HandTorch].
+[14-02-23 01:38:58.465] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.CannedCarrots2].
+[14-02-23 01:39:01.800] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.CannedFruitCocktail].
+[14-02-23 01:39:05.133] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.CannedPeas].
+[14-02-23 01:39:08.468] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.CannedBolognese].
+[14-02-23 01:39:11.801] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.BookCooking2].
+[14-02-23 01:39:15.148] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.CannedCornedBeef].
+[14-02-23 01:39:19.315] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.Pan].
+[14-02-23 01:39:25.586] 76561198080689461 "EL-Mao'" floor -1 6328,5422,0 [Base.RollingPin].
+[14-02-23 01:40:21.601] 76561198080689461 "EL-Mao'" container -1 6324,5418,0 [Base.Jacket_Black].
+[14-02-23 01:40:30.597] 76561198080689461 "EL-Mao'" container -1 6324,5418,0 [Base.Hammer].
+[14-02-23 01:40:33.602] 76561198080689461 "EL-Mao'" container -1 6324,5418,0 [Base.Hammer].
+[14-02-23 01:40:37.780] 76561198080689461 "EL-Mao'" floor +1 6326,5420,0 [Base.ButterKnife].
+[14-02-23 01:40:57.130] 76561198145393066 "Unto Gayungan S.E.I." floor +1 6770,5482,0 [Base.Glasses_Normal].
+[14-02-23 01:41:38.307] 76561198080689461 "EL-Mao'" floor +1 6338,5386,0 [Base.Tshirt_WhiteLongSleeveTINT].
+[14-02-23 01:41:41.007] 76561198145393066 "Unto Gayungan S.E.I." floor +1 6735,5466,0 [Base.Hat_ChefHat].
+[14-02-23 01:41:47.876] 76561198080689461 "EL-Mao'" floor +1 6338,5386,0 [Base.Vest_DefaultTEXTURE_TINT].
+[14-02-23 01:42:03.499] 76561198100576317 "Muezza" floor +1 5778,5287,0 [Base.Hat_BucketHat].
+[14-02-23 01:42:03.500] 76561198100576317 "Muezza" floor +1 5778,5286,0 [Base.Glasses_Normal].
+[14-02-23 01:43:24.514] 76561198100576317 "Muezza" floor +1 5781,5288,0 [Base.UnusableWood].
+[14-02-23 01:43:24.515] 76561198100576317 "Muezza" floor +1 5781,5288,0 [Base.Doorknob].
+[14-02-23 01:43:24.516] 76561198100576317 "Muezza" floor +1 5781,5288,0 [Base.Hinge].
+[14-02-23 01:43:24.516] 76561198100576317 "Muezza" floor +1 5781,5288,0 [Base.Hinge].
+[14-02-23 01:46:06.223] 76561198145393066 "Unto Gayungan S.E.I." floor -1 6175,6373,0 [Base.Cigarettes].
+[14-02-23 01:46:10.557] 76561198080689461 "EL-Mao'" floor +1 6325,5479,0 [Base.Hammer].
+[14-02-23 01:46:22.059] 76561198145393066 "Unto Gayungan S.E.I." floor -1 6178,6380,0 [Base.Cigarettes].
+[14-02-23 01:46:40.780] 76561198145393066 "Unto Gayungan S.E.I." container -41 6184,6375,0 [Base.Pickles, Base.Cigarettes].
+[14-02-23 01:46:43.789] 76561198145393066 "Unto Gayungan S.E.I." container -2 6184,6375,0 [Base.Pop, Base.DishCloth].
+[14-02-23 01:46:52.784] 76561198145393066 "Unto Gayungan S.E.I." container -3 6185,6373,0 [Base.GlassTumbler, Base.DishCloth].
+[14-02-23 01:46:57.036] 76561198080689461 "EL-Mao'" floor -1 6325,5479,0 [Base.Hammer].
+[14-02-23 01:46:58.700] 76561198100576317 "Muezza" container -2 6260,5332,0 [Base.Salmon, Base.Peach].
+[14-02-23 01:46:58.781] 76561198145393066 "Unto Gayungan S.E.I." container -2 6184,6376,0 [Base.GlassTumbler, Base.GlassWine].
+[14-02-23 01:47:28.698] 76561198100576317 "Muezza" container -1 6262,5332,0 [Base.DishCloth].
+[14-02-23 01:47:28.780] 76561198145393066 "Unto Gayungan S.E.I." container -1 6183,6377,0 [Base.BeerCan].
+[14-02-23 01:47:31.780] 76561198145393066 "Unto Gayungan S.E.I." container -1 6183,6377,0 [Base.BeerBottle].
+[14-02-23 01:47:43.699] 76561198100576317 "Muezza" container -2 6266,5325,0 [Base.Antibiotics, Base.Pills].
+[14-02-23 01:47:52.781] 76561198145393066 "Unto Gayungan S.E.I." container -21 6188,6379,0 [Base.Crisps, Base.Cigarettes].
+[14-02-23 01:48:01.770] 76561198145393066 "Unto Gayungan S.E.I." container -40 6187,6377,0 [Base.Cigarettes].
+[14-02-23 01:48:04.783] 76561198145393066 "Unto Gayungan S.E.I." container -3 6187,6377,0 [Base.Crisps, Base.Dice, Base.Peanuts].
+[14-02-23 01:49:07.692] 76561198100576317 "Muezza" container -1 6274,5312,0 [Base.HandTorch].
+[14-02-23 01:49:10.695] 76561198100576317 "Muezza" container -1 6274,5312,0 [Base.Battery].
+[14-02-23 01:49:50.668] 76561198145393066 "Unto Gayungan S.E.I." floor -1 6172,6379,1 [Base.Lighter].
+[14-02-23 01:49:52.428] 76561198145393066 "Unto Gayungan S.E.I." floor -1 6172,6379,1 [Base.Cigarettes].
+[14-02-23 01:50:11.478] 76561198100576317 "Muezza" floor +1 6265,5327,0 [Base.UnusableWood].
+[14-02-23 01:50:11.479] 76561198100576317 "Muezza" floor +1 6265,5327,0 [Base.Doorknob].
+[14-02-23 01:50:11.480] 76561198100576317 "Muezza" floor +1 6265,5327,0 [Base.Hinge].
+[14-02-23 01:50:16.698] 76561198100576317 "Muezza" container -1 6273,5305,0 [Base.BreadKnife].
+[14-02-23 01:50:18.603] 76561198080689461 "EL-Mao'" container -1 6334,5483,0 [Base.Crowbar].
+[14-02-23 01:50:18.847] 76561198145393066 "Unto Gayungan S.E.I." floor -1 6171,6374,1 [Base.Cigarettes].
+[14-02-23 01:50:19.693] 76561198100576317 "Muezza" container -1 6273,5305,0 [Base.MeatCleaver].
+[14-02-23 01:50:21.598] 76561198080689461 "EL-Mao'" container -1 6334,5483,0 [Base.Gloves_LeatherGloves].
+[14-02-23 01:50:22.691] 76561198100576317 "Muezza" container -1 6273,5305,0 [Base.MeatCleaver].
+[14-02-23 01:50:37.701] 76561198100576317 "Muezza" container -1 6273,5306,0 [Base.BakingPan].
+[14-02-23 01:50:49.698] 76561198100576317 "Muezza" container -1 6273,5304,0 [Base.DishCloth].
+[14-02-23 01:51:07.697] 76561198100576317 "Muezza" container -1 6273,5303,0 [Base.Onion].
+[14-02-23 01:51:13.690] 76561198100576317 "Muezza" container -1 6273,5303,0 [Base.Pear].
+[14-02-23 01:51:42.843] 76561198080689461 "EL-Mao'" floor +1 6317,5465,0 [Base.Jumper_RoundNeck].
+[14-02-23 01:53:04.771] 76561198145393066 "Unto Gayungan S.E.I." container -2 6184,6374,0 [Base.BeerBottle].
+[14-02-23 01:53:10.773] 76561198145393066 "Unto Gayungan S.E.I." container -1 6184,6374,0 [Base.Wine2].
+[14-02-23 01:53:13.772] 76561198145393066 "Unto Gayungan S.E.I." container -1 6184,6374,0 [Base.Wine].

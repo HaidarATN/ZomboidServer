@@ -1,0 +1,5 @@
+MyChar_SneakyBurglar:burglar;Very Underweight;Thinskinned;Asthmatic;Hemophobic;Smoker;WeakStomach;SpeedDemon;NightVision;Dextrous;FastReader;Outdoorsman;Graceful;Inconspicuous;FastHealer;FastLearner;
+Carpenter_Explorer:carpenter;HighThirst;Claustophobic;NightVision;Graceful;Stout;
+StrengthTest:lumberjack;HighThirst;Disorganized;Smoker;WeakStomach;SundayDriver;NightVision;Dextrous;Graceful;Inconspicuous;FastHealer;
+Burglar_ELMao:burglar;Thinskinned;HighThirst;Hemophobic;Disorganized;ProneToIllness;WeakStomach;ShortSighted;SpeedDemon;NightVision;Dextrous;FastReader;Outdoorsman;Mechanics;FastLearner;Fit;
+Burglar_ELMaoo:burglar;Thinskinned;HighThirst;Hemophobic;Disorganized;ProneToIllness;WeakStomach;ShortSighted;SpeedDemon;NightVision;Dextrous;FastReader;Outdoorsman;Mechanics;FastLearner;Fit;

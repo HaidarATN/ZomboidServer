@@ -1,0 +1,55 @@
+[14-02-23 19:52:04.219][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 19:53:33.220][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 19:54:20.385][INFO] user "EL-Mao'" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 19:54:36.909][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 19:56:26.692][INFO] user "Muezza" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 19:56:40.313][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 19:56:42.937][INFO] user "Trisudar" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 19:57:31.770][INFO] user "Jim Burger" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 19:58:41.646][INFO] user "Trisudar" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 20:06:40.153][INFO] user "Trisudar" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 20:10:27.551][INFO] user "EL-Mao'" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 20:10:45.823][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 20:16:17.765][INFO] user "Jim Burger" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 20:16:41.034][INFO] user "Muezza" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 20:17:00.653][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 20:18:07.455][INFO] user "EL-Mao'" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 20:18:53.088][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 20:20:00.936][INFO] user "Jim Burger" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 20:29:42.785][INFO] user "Jim Burger" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 20:30:52.576][INFO] user "Muezza" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 20:31:13.759][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 20:31:41.786][INFO] user "EL-Mao'" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 20:31:58.083][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 20:32:26.612][INFO] user "Jim Burger" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 20:59:40.747][INFO] user "Jim Burger" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 21:01:37.690][INFO] user "Jim Burger" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 21:37:13.153] user "Trisudar" (7299,8206,0) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 21:37:13.154] user "Trisudar" (7299,8206,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[14-02-23 21:37:16.849] user "Trisudar" (7299,8207,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[14-02-23 21:37:16.849] user "Trisudar" (7299,8207,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[14-02-23 22:05:31.279] user "Jim Burger" (7304,8199,0) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 22:05:31.279] user "Jim Burger" (7304,8199,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[14-02-23 22:05:35.051] user "Jim Burger" (7303,8198,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[14-02-23 22:05:35.051] user "Jim Burger" (7303,8198,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[14-02-23 22:33:56.747][INFO] user "Jim Burger" store safety enabled=true last=false cooldown=0.0 toggle=0.0.
+[14-02-23 22:37:49.719][INFO] user "Jim Burger" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 23:20:59.980][INFO] user "Trisudar" clear safety enabled=true last=false cooldown=0.0 toggle=0.0.
+[14-02-23 23:24:23.254][INFO] user "Trisudar" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 23:26:29.134][INFO] user "Muezza" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 23:26:46.311][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 23:32:41.955][INFO] user "Muezza" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 23:32:59.306][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 23:37:22.771][INFO] user "Jim Burger" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 23:39:21.214][INFO] user "Jim Burger" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 23:58:56.228] user "Trisudar" (7277,8160,0) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[14-02-23 23:58:56.228] user "Trisudar" (7277,8160,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[14-02-23 23:59:04.781] user "Trisudar" (7195,8153,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[14-02-23 23:59:04.782] user "Trisudar" (7195,8153,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[14-02-23 23:59:05.161] user "Trisudar" (7188,8153,0) disabled safety enabled=false last=false cooldown=0.0 toggle=1.6012696.
+[14-02-23 23:59:15.339] user "Trisudar" (7043,8152,0) enabled safety enabled=true last=false cooldown=0.0 toggle=0.0.
+[14-02-23 23:59:15.339] user "Trisudar" (7043,8152,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[14-02-23 23:59:32.719] user "Trisudar" (7003,8026,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[14-02-23 23:59:32.719] user "Trisudar" (7003,8026,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[15-02-23 00:11:27.491][INFO] user "Trisudar" clear safety enabled=true last=false cooldown=0.0 toggle=0.0.
+[15-02-23 01:12:34.682][INFO] user "EL-Mao'" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.

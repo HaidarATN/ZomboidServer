@@ -1,0 +1,112 @@
+[15-02-23 15:36:01.139] added connection index=0 127.0.0.1.
+[15-02-23 15:36:01.900] 76561198080689461 "EL-Mao'" attempting to join.
+[15-02-23 15:36:01.900] 76561198080689461 "EL-Mao'" allowed to join.
+[15-02-23 15:36:09.888] 76561198080689461 "EL-Mao'" attempting to join used queue.
+[15-02-23 15:36:17.760] player EL-Mao' loading time was: 7332 ms.
+[15-02-23 15:36:23.320] 76561198080689461 "EL-Mao'" fully connected (9982,10955,0).
+[15-02-23 15:41:00.768] added connection index=1 13.49.132.89.
+[15-02-23 15:41:01.641] 76561198145393066 "Gym Burger" attempting to join.
+[15-02-23 15:41:01.642] 76561198145393066 "Gym Burger" allowed to join.
+[15-02-23 15:41:09.499] 76561198145393066 "Gym Burger" attempting to join used queue.
+[15-02-23 15:41:18.471] player Gym Burger loading time was: 8620 ms.
+[15-02-23 15:41:23.147] 76561198145393066 "Gym Burger" fully connected (10670,10624,0).
+[15-02-23 16:25:43.949] added connection index=2 43.248.106.249.
+[15-02-23 16:25:45.058] 76561198100576317 "Muezza" attempting to join.
+[15-02-23 16:25:45.058] 76561198100576317 "Muezza" allowed to join.
+[15-02-23 16:25:52.523] 76561198100576317 "Muezza" attempting to join used queue.
+[15-02-23 16:26:59.492] player Muezza loading time was: 65111 ms.
+[15-02-23 16:27:01.764] 76561198100576317 "Muezza" fully connected (10670,10621,0).
+[15-02-23 16:36:26.065] user Gym Burger died at (10608,10255,0) (non pvp).
+[15-02-23 16:37:07.408] 76561198145393066 "Gym Burger" disconnected player (10608,10255,0).
+[15-02-23 16:37:09.663] 76561198145393066 "Gym Burger" fully connected (10698,10449,0).
+[15-02-23 16:37:34.283] user Muezza died at (10612,10262,0) (non pvp).
+[15-02-23 16:38:21.832] 76561198100576317 "Muezza" disconnected player (10612,10262,0).
+[15-02-23 16:38:33.887] 76561198100576317 "Muezza" fully connected (10698,10449,0).
+[15-02-23 16:47:15.732] user EL-Mao' died at (10674,10627,0) (non pvp).
+[15-02-23 16:48:03.301] 76561198080689461 "EL-Mao'" disconnected player (10674,10627,0).
+[15-02-23 16:48:05.507] 76561198080689461 "EL-Mao'" fully connected (10698,10449,0).
+[15-02-23 17:16:01.001] user Muezza died at (10627,10252,0) (non pvp).
+[15-02-23 17:16:35.858] 76561198100576317 "Muezza" disconnected player (10627,10252,0).
+[15-02-23 17:16:48.498] 76561198100576317 "Muezza" fully connected (10698,10449,0).
+[15-02-23 17:18:05.222] user Gym Burger died at (10611,10220,0) (non pvp).
+[15-02-23 17:18:38.467] 76561198145393066 "Gym Burger" disconnected player (10611,10220,0).
+[15-02-23 17:18:40.827] 76561198145393066 "Gym Burger" fully connected (10698,10449,0).
+[15-02-23 17:22:30.843] 76561198145393066 "Gym Burger" removed connection index=1.
+[15-02-23 17:22:30.936] 76561198145393066 "Gym Burger" disconnected player (10700,10448,0).
+[15-02-23 17:22:47.499] user EL-Mao' died at (10684,10621,0) (non pvp).
+[15-02-23 17:23:13.285] 76561198080689461 "EL-Mao'" disconnected player (10684,10621,0).
+[15-02-23 17:23:15.698] 76561198080689461 "EL-Mao'" fully connected (10698,10449,0).
+[15-02-23 17:23:42.650] added connection index=1 62.34.30.198.
+[15-02-23 17:23:43.878] 76561198145393066 "Gym Burger" attempting to join.
+[15-02-23 17:23:43.878] 76561198145393066 "Gym Burger" allowed to join.
+[15-02-23 17:23:52.643] 76561198145393066 "Gym Burger" attempting to join used queue.
+[15-02-23 17:24:02.248] player Gym Burger loading time was: 9275 ms.
+[15-02-23 17:25:01.902] 76561198145393066 "Gym Burger" fully connected (10700,10446,0).
+[15-02-23 17:44:48.798] user Gym Burger died at (10587,10165,0) (non pvp).
+[15-02-23 17:45:26.663] 76561198145393066 "Gym Burger" disconnected player (10587,10165,0).
+[15-02-23 17:45:29.068] 76561198145393066 "Gym Burger" fully connected (10698,10449,0).
+[15-02-23 17:48:32.072] user Muezza died at (10703,10341,0) (non pvp).
+[15-02-23 17:48:47.283] 76561198100576317 "Muezza" disconnected player (10703,10341,0).
+[15-02-23 17:48:55.443] 76561198100576317 "Muezza" fully connected (10698,10449,0).
+[15-02-23 17:51:48.215] user Muezza died at (10635,10334,0) (non pvp).
+[15-02-23 17:52:05.707] user Gym Burger died at (10586,10029,0) (non pvp).
+[15-02-23 17:52:12.026] 76561198100576317 "Muezza" disconnected player (10635,10334,0).
+[15-02-23 17:52:17.491] 76561198145393066 "Gym Burger" disconnected player (10586,10029,0).
+[15-02-23 17:52:19.815] 76561198145393066 "Gym Burger" fully connected (10698,10449,0).
+[15-02-23 17:52:20.093] 76561198100576317 "Muezza" fully connected (10698,10449,0).
+[15-02-23 19:17:03.207] user Muezza died at (10663,10501,0) (non pvp).
+[15-02-23 19:21:46.770] 76561198100576317 "Muezza" disconnected player (10663,10501,0).
+[15-02-23 19:21:58.095] 76561198100576317 "Muezza" fully connected (10698,10449,0).
+[15-02-23 19:45:34.392] 76561198145393066 "Gym Burger" removed connection index=1.
+[15-02-23 19:45:34.407] 76561198145393066 "Gym Burger" disconnected player (10747,10344,0).
+[15-02-23 19:45:34.407] 76561198145393066 "Gym Burger" removed connection index=1.
+[15-02-23 19:49:24.379] added connection index=1 252.95.138.197.
+[15-02-23 19:49:25.318] 76561198145393066 "Gym Burger" attempting to join.
+[15-02-23 19:49:25.318] 76561198145393066 "Gym Burger" allowed to join.
+[15-02-23 19:49:34.175] 76561198145393066 "Gym Burger" attempting to join used queue.
+[15-02-23 19:51:15.252] player Gym Burger loading time was: 100049 ms.
+[15-02-23 19:51:43.451] 76561198145393066 "Gym Burger" fully connected (10746,10348,0).
+[15-02-23 19:53:28.367] 76561198145393066 "Gym Burger" removed connection index=1.
+[15-02-23 19:53:28.379] 76561198145393066 "Gym Burger" disconnected player (10736,10359,0).
+[15-02-23 19:54:53.461] added connection index=1 216.194.18.226.
+[15-02-23 19:54:56.698] 76561198145393066 "Gym Burger" attempting to join.
+[15-02-23 19:54:56.699] 76561198145393066 "Gym Burger" allowed to join.
+[15-02-23 19:55:04.791] 76561198145393066 "Gym Burger" attempting to join used queue.
+[15-02-23 19:55:13.951] player Gym Burger loading time was: 8797 ms.
+[15-02-23 19:55:16.619] 76561198145393066 "Gym Burger" fully connected (10735,10360,0).
+[15-02-23 21:18:15.009] 76561198100576317 "Muezza" removed connection index=2.
+[15-02-23 21:18:15.023] 76561198100576317 "Muezza" disconnected player (10628,10248,0).
+[15-02-23 21:23:16.662] user EL-Mao' died at (10703,10589,0) (non pvp).
+[15-02-23 21:24:31.381] 76561198080689461 "EL-Mao'" disconnected player (10703,10589,0).
+[15-02-23 21:24:33.733] 76561198080689461 "EL-Mao'" fully connected (10698,10449,0).
+[15-02-23 21:39:26.837] 76561198145393066 "Gym Burger" removed connection index=1.
+[15-02-23 21:39:26.849] 76561198145393066 "Gym Burger" disconnected player (10841,10147,0).
+[15-02-23 21:52:52.298] added connection index=1 182.98.99.139.
+[15-02-23 21:52:53.153] 76561198145393066 "Gym Burger" attempting to join.
+[15-02-23 21:52:53.153] 76561198145393066 "Gym Burger" allowed to join.
+[15-02-23 21:53:00.681] added connection index=2 197.113.76.16.
+[15-02-23 21:53:00.690] 76561198145393066 "Gym Burger" attempting to join used queue.
+[15-02-23 21:53:01.539] 76561198100576317 "Muezza" attempting to join.
+[15-02-23 21:53:01.539] 76561198100576317 "Muezza" allowed to join.
+[15-02-23 21:53:08.176] 76561198100576317 "Muezza" attempting to join used queue.
+[15-02-23 21:53:11.030] player Gym Burger loading time was: 9993 ms.
+[15-02-23 21:53:37.188] 76561198145393066 "Gym Burger" fully connected (10841,10147,0).
+[15-02-23 21:54:03.229] player Muezza loading time was: 54162 ms.
+[15-02-23 21:54:22.548] 76561198100576317 "Muezza" fully connected (10628,10248,0).
+[15-02-23 21:54:34.501] user Muezza died at (10628,10247,0) (non pvp).
+[15-02-23 21:55:24.812] 76561198100576317 "Muezza" disconnected player (10628,10247,0).
+[15-02-23 21:55:36.667] 76561198100576317 "Muezza" fully connected (10698,10449,0).
+[15-02-23 21:56:11.813] user Muezza died at (10698,10449,0) (non pvp).
+[15-02-23 21:56:28.681] 76561198100576317 "Muezza" disconnected player (10698,10449,0).
+[15-02-23 21:56:46.983] 76561198100576317 "Muezza" fully connected (10698,10449,0).
+[15-02-23 22:27:46.099] user EL-Mao' died at (10688,10227,0) (non pvp).
+[15-02-23 22:28:01.685] 76561198080689461 "EL-Mao'" disconnected player (10688,10227,0).
+[15-02-23 22:28:04.057] 76561198080689461 "EL-Mao'" fully connected (10698,10449,0).
+[16-02-23 00:01:30.652] user Gym Burger died at (10599,10403,0) (non pvp).
+[16-02-23 00:07:42.461] 76561198145393066 "Gym Burger" disconnected player (10599,10403,0).
+[16-02-23 00:07:44.987] 76561198145393066 "Gym Burger" fully connected (10698,10449,0).
+[16-02-23 00:37:28.081] user Muezza died at (10594,9533,0) (non pvp).
+[16-02-23 00:38:37.910] 76561198100576317 "Muezza" disconnected player (10594,9533,0).
+[16-02-23 00:38:45.557] 76561198100576317 "Muezza" fully connected (10698,10449,0).
+[16-02-23 01:02:59.651] 76561198080689461 "EL-Mao'" removed connection index=0.
+[16-02-23 01:02:59.664] 76561198080689461 "EL-Mao'" disconnected player (10670,10622,0).

@@ -1,0 +1,361 @@
+[16-02-23 20:30:08.977] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5683,5765,0.
+[16-02-23 20:30:08.978] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5683,5765,0.
+[16-02-23 20:31:45.196] 76561198080689461 "EL-Mao'" object.addSheet @ 5687,5769,0.
+[16-02-23 20:31:59.867] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5705,5777,0.
+[16-02-23 20:31:59.870] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5705,5777,0.
+[16-02-23 20:33:42.703] 76561198100576317 "Muezza" ISLogSystem.writeLog @ 5683,5766,0.
+[16-02-23 20:33:42.822] 76561198100576317 "Muezza" ISLogSystem.writeLog @ 5683,5766,0.
+[16-02-23 20:33:44.561] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[16-02-23 20:34:41.920] 76561198213478008 "Trisudar" ISLogSystem.writeLog @ 5581,5907,0.
+[16-02-23 20:34:41.920] 76561198213478008 "Trisudar" ISLogSystem.writeLog @ 5581,5907,0.
+[16-02-23 20:35:02.660] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5685,5761,1.
+[16-02-23 20:36:31.468] 76561198080689461 "EL-Mao'" object.takeWater @ 5685,5761,1.
+[16-02-23 20:36:56.622] 76561198213478008 "Trisudar" object.takeWater @ 5684,5762,1.
+[16-02-23 20:45:37.622] 76561198213478008 "Trisudar" object.takeWater @ 5682,5762,0.
+[16-02-23 20:46:43.490] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 20:46:45.144] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 20:46:46.788] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 20:47:31.866] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[16-02-23 20:48:30.742] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.
+[16-02-23 20:49:47.160] 76561198213478008 "Trisudar" object.takeWater @ 5683,5760,0.
+[16-02-23 20:54:00.443] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5684,5760,0.
+[16-02-23 20:54:02.051] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5684,5760,0.
+[16-02-23 20:54:05.900] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5684,5760,0.
+[16-02-23 20:54:08.621] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5684,5760,0.
+[16-02-23 20:54:11.331] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5684,5760,0.
+[16-02-23 20:54:14.026] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5684,5760,0.
+[16-02-23 20:54:16.760] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5684,5760,0.
+[16-02-23 20:54:19.871] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5684,5760,0.
+[16-02-23 20:54:53.849] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.
+[16-02-23 20:55:28.220] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[16-02-23 20:55:44.637] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5684,5760,0.
+[16-02-23 20:55:47.514] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5684,5760,0.
+[16-02-23 20:56:04.983] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5684,5760,0.
+[16-02-23 20:56:33.846] 76561198145393066 "Gym Burger (Maximum Cheese)" clothingWasher.toggle @ 5680,5761,0.
+[16-02-23 20:57:03.645] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 20:57:36.962] 76561198145393066 "Gym Burger (Maximum Cheese)" clothingWasher.toggle @ 5681,5760,0.
+[16-02-23 21:00:05.915] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 21:00:09.248] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 21:00:10.181] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[16-02-23 21:00:12.601] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 21:00:47.574] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 21:00:49.171] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 21:00:58.381] 76561198100576317 "Muezza" object.takeWater @ 5684,5762,1.
+[16-02-23 21:01:09.098] 76561198080689461 "EL-Mao'" clothingDryer.toggle @ 5681,5760,0.
+[16-02-23 21:02:20.561] 76561198080689461 "EL-Mao'" object.takeWater @ 5682,5762,0.
+[16-02-23 21:03:45.347] 76561198100576317 "Muezza" clothingWasher.toggle @ 5681,5761,0.
+[16-02-23 21:05:24.720] 76561198213478008 "Trisudar" object.takeWater @ 5681,5762,0.
+[16-02-23 21:06:38.298] 76561198145393066 "Gym Burger (Maximum Cheese)" erosion.disableForSquare @ 5699,5778,0.
+[16-02-23 21:06:38.300] 76561198145393066 "Gym Burger (Maximum Cheese)" erosion.disableForSquare @ 5699,5778,0.
+[16-02-23 21:07:29.957] 76561198100576317 "Muezza" object.takeWater @ 5682,5763,0.
+[16-02-23 21:10:48.475] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[16-02-23 21:12:26.799] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.
+[16-02-23 21:12:41.028] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 21:12:42.494] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 21:12:43.969] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 21:12:45.427] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 21:12:46.892] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 21:12:48.374] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 21:12:49.823] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 21:12:51.307] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 21:12:51.600] 76561198100576317 "Muezza" object.takeWater @ 5682,5763,0.
+[16-02-23 21:12:52.753] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 21:12:54.239] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 21:12:55.066] 76561198100576317 "Muezza" object.takeWater @ 5682,5763,0.
+[16-02-23 21:12:55.688] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 21:13:48.220] 76561198100576317 "Muezza" ISLogSystem.writeLog @ 5681,5768,0.
+[16-02-23 21:13:54.490] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5681,5768,0.
+[16-02-23 21:13:54.531] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5681,5769,0.
+[16-02-23 21:15:31.301] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5657,5751,0.
+[16-02-23 21:15:59.193] 76561198213478008 "Trisudar" ISLogSystem.writeLog @ 5667,5758,0.
+[16-02-23 21:16:08.954] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5664,5758,0.
+[16-02-23 21:18:30.147] 76561198213478008 "Trisudar" ISLogSystem.writeLog @ 5836,5833,0.
+[16-02-23 21:18:34.150] 76561198213478008 "Trisudar" ISLogSystem.writeLog @ 5836,5833,0.
+[16-02-23 21:18:37.527] 76561198213478008 "Trisudar" ISLogSystem.writeLog @ 5836,5833,0.
+[16-02-23 21:19:38.157] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5942,5419,0.
+[16-02-23 21:19:38.510] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5942,5418,0.
+[16-02-23 21:23:26.169] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.
+[16-02-23 21:24:36.131] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5943,5418,0.
+[16-02-23 21:24:38.269] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5943,5418,0.
+[16-02-23 21:24:53.493] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5942,5418,0.
+[16-02-23 21:25:17.164] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5942,5418,0.
+[16-02-23 21:25:20.151] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5946,5420,0.
+[16-02-23 21:31:28.185] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5943,5418,0.
+[16-02-23 21:31:38.796] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5943,5418,0.
+[16-02-23 21:32:48.343] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5779,5781,0.
+[16-02-23 21:32:49.008] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5779,5782,0.
+[16-02-23 21:33:19.245] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5779,5782,0.
+[16-02-23 21:33:32.831] 76561198080689461 "EL-Mao'" vehicle.damageWindow @ 5779,5778,0.
+[16-02-23 21:33:34.082] 76561198080689461 "EL-Mao'" vehicle.damageWindow @ 5779,5778,0.
+[16-02-23 21:34:22.889] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5763,5744,0.
+[16-02-23 21:34:34.036] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5692,5768,0.
+[16-02-23 21:34:34.545] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5692,5768,0.
+[16-02-23 21:35:31.995] 76561198100576317 "Muezza" object.takeWater @ 5682,5763,0.
+[16-02-23 21:36:13.765] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5692,5767,0.
+[16-02-23 21:36:47.662] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5692,5768,0.
+[16-02-23 21:36:58.558] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5727,5733,0.
+[16-02-23 21:39:20.973] 76561198213478008 "Trisudar" object.takeWater @ 5541,5903,0.
+[16-02-23 21:39:49.076] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5574,5903,0.
+[16-02-23 21:39:49.076] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5574,5903,0.
+[16-02-23 21:42:25.156] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.
+[16-02-23 21:44:40.058] 76561198080689461 "EL-Mao'" clothingWasher.toggle @ 5681,5761,0.
+[16-02-23 21:45:17.309] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 21:45:23.859] 76561198080689461 "EL-Mao'" object.takeWater @ 5682,5762,0.
+[16-02-23 21:45:41.983] 76561198080689461 "EL-Mao'" object.takeWater @ 5682,5763,0.
+[16-02-23 21:46:11.711] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[16-02-23 21:47:41.419] 76561198100576317 "Muezza" object.takeWater @ 5682,5763,0.
+[16-02-23 21:47:54.548] 76561198145393066 "Gym Burger (Maximum Cheese)" erosion.disableForSquare @ 5689,5766,0.
+[16-02-23 21:47:54.549] 76561198145393066 "Gym Burger (Maximum Cheese)" erosion.disableForSquare @ 5689,5766,0.
+[16-02-23 21:48:22.976] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[16-02-23 21:48:25.666] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[16-02-23 21:49:00.403] 76561198145393066 "Gym Burger (Maximum Cheese)" erosion.disableForSquare @ 5690,5765,0.
+[16-02-23 21:49:00.404] 76561198145393066 "Gym Burger (Maximum Cheese)" erosion.disableForSquare @ 5690,5765,0.
+[16-02-23 21:49:01.123] 76561198080689461 "EL-Mao'" clothingDryer.toggle @ 5681,5760,0.
+[16-02-23 21:50:57.190] 76561198145393066 "Gym Burger (Maximum Cheese)" erosion.disableForSquare @ 5688,5768,0.
+[16-02-23 21:50:57.191] 76561198145393066 "Gym Burger (Maximum Cheese)" erosion.disableForSquare @ 5688,5768,0.
+[16-02-23 21:55:20.862] 76561198213478008 "Trisudar" ISLogSystem.writeLog @ 5685,5766,0.
+[16-02-23 21:57:56.218] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.
+[16-02-23 22:04:51.400] 76561198100576317 "Muezza" object.takeWater @ 5683,5760,0.
+[16-02-23 22:05:59.615] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[16-02-23 22:06:01.809] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[16-02-23 22:06:29.972] 76561198100576317 "Muezza" object.takeWater @ 5682,5763,0.
+[16-02-23 22:07:19.951] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.
+[16-02-23 22:09:32.980] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5692,5767,0.
+[16-02-23 22:09:34.231] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5692,5767,0.
+[16-02-23 22:09:43.512] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[16-02-23 22:09:51.802] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5692,5768,0.
+[16-02-23 22:09:53.838] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5692,5768,0.
+[16-02-23 22:12:36.597] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 6311,5278,0.
+[16-02-23 22:12:37.494] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 6312,5279,0.
+[16-02-23 22:12:37.931] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 6311,5278,0.
+[16-02-23 22:12:40.085] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 6311,5278,0.
+[16-02-23 22:26:15.059] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 6316,5245,0.
+[16-02-23 22:26:16.470] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 6316,5245,0.
+[16-02-23 22:26:20.288] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 6316,5245,0.
+[16-02-23 22:28:10.147] 76561198080689461 "EL-Mao'" object.takeWater @ 6315,5267,1.
+[16-02-23 22:28:14.697] 76561198080689461 "EL-Mao'" object.takeWater @ 6316,5268,1.
+[16-02-23 22:32:47.081] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 6310,5279,0.
+[16-02-23 22:33:06.286] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 6310,5279,0.
+[16-02-23 22:38:31.719] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 6311,5278,0.
+[16-02-23 22:38:45.023] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 6312,5278,0.
+[16-02-23 22:40:45.724] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5692,5764,0.
+[16-02-23 22:40:47.010] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5693,5765,0.
+[16-02-23 22:41:04.931] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5689,5768,0.
+[16-02-23 22:41:36.886] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5690,5766,0.
+[16-02-23 22:42:38.765] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5692,5765,0.
+[16-02-23 22:42:52.463] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5692,5765,0.
+[16-02-23 22:51:36.291] 76561198100576317 "Muezza" ISLogSystem.writeLog @ 5695,5769,0.
+[16-02-23 22:52:47.025] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[16-02-23 22:55:49.823] 76561198100576317 "Muezza" ISLogSystem.writeLog @ 5574,5903,0.
+[16-02-23 22:55:49.823] 76561198100576317 "Muezza" ISLogSystem.writeLog @ 5574,5903,0.
+[16-02-23 22:55:50.209] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[16-02-23 22:55:58.428] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[16-02-23 22:58:49.440] 76561198145393066 "Gym Burger (Maximum Cheese)" erosion.disableForSquare @ 5690,5770,0.
+[16-02-23 22:58:49.442] 76561198145393066 "Gym Burger (Maximum Cheese)" erosion.disableForSquare @ 5690,5770,0.
+[16-02-23 22:59:27.859] 76561198100576317 "Muezza" object.takeWater @ 5683,5760,0.
+[16-02-23 23:00:23.490] 76561198145393066 "Gym Burger (Maximum Cheese)" erosion.disableForSquare @ 5691,5770,0.
+[16-02-23 23:00:23.491] 76561198145393066 "Gym Burger (Maximum Cheese)" erosion.disableForSquare @ 5691,5770,0.
+[16-02-23 23:00:54.302] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5681,5768,0.
+[16-02-23 23:02:54.671] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5681,5769,0.
+[16-02-23 23:02:59.495] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5681,5768,0.
+[16-02-23 23:02:59.561] 76561198100576317 "Muezza" ISLogSystem.writeLog @ 5681,5768,0.
+[16-02-23 23:03:07.637] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5681,5769,0.
+[16-02-23 23:07:04.784] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:19.325] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:20.163] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:21.004] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:21.869] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:22.697] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:23.550] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:24.393] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:25.240] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:26.080] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:26.910] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:27.764] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:28.607] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:29.445] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:30.280] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:31.109] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:31.946] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:32.790] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:33.644] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:34.480] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:35.312] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:36.165] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:37.015] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:08:37.871] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:11:38.026] 76561198080689461 "EL-Mao'" object.takeWater @ 5682,5763,0.
+[16-02-23 23:11:38.880] 76561198080689461 "EL-Mao'" object.takeWater @ 5682,5763,0.
+[16-02-23 23:11:39.712] 76561198080689461 "EL-Mao'" object.takeWater @ 5682,5763,0.
+[16-02-23 23:11:40.565] 76561198080689461 "EL-Mao'" object.takeWater @ 5682,5763,0.
+[16-02-23 23:11:41.408] 76561198080689461 "EL-Mao'" object.takeWater @ 5682,5763,0.
+[16-02-23 23:12:09.523] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.
+[16-02-23 23:14:09.609] 76561198100576317 "Muezza" object.takeWater @ 5683,5760,0.
+[16-02-23 23:19:42.990] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.
+[16-02-23 23:20:17.768] 76561198080689461 "EL-Mao'" object.takeWater @ 5684,5760,0.
+[16-02-23 23:20:19.982] 76561198080689461 "EL-Mao'" object.takeWater @ 5684,5760,0.
+[16-02-23 23:20:22.594] 76561198080689461 "EL-Mao'" object.takeWater @ 5684,5760,0.
+[16-02-23 23:21:47.862] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5692,5765,0.
+[16-02-23 23:22:05.651] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5694,5789,0.
+[16-02-23 23:22:08.295] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5694,5789,0.
+[16-02-23 23:22:10.744] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5694,5789,0.
+[16-02-23 23:22:59.405] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5683,5766,0.
+[16-02-23 23:23:44.487] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.
+[16-02-23 23:26:10.312] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.
+[16-02-23 23:26:16.518] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[16-02-23 23:29:20.028] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5692,5810,0.
+[16-02-23 23:29:31.882] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.
+[16-02-23 23:34:00.470] 76561198080689461 "EL-Mao'" object.takeWater @ 5684,5760,0.
+[16-02-23 23:37:55.236] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5694,5789,0.
+[16-02-23 23:38:20.516] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5693,5805,0.
+[16-02-23 23:38:28.691] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5694,5805,0.
+[16-02-23 23:38:34.350] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5693,5805,0.
+[16-02-23 23:39:17.411] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5693,5805,0.
+[16-02-23 23:39:43.070] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5693,5805,0.
+[16-02-23 23:40:02.610] 76561198080689461 "EL-Mao'" object.takeWater @ 5684,5760,0.
+[16-02-23 23:40:04.160] 76561198080689461 "EL-Mao'" object.takeWater @ 5684,5760,0.
+[16-02-23 23:40:11.390] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5693,5805,0.
+[16-02-23 23:40:25.996] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.
+[16-02-23 23:40:28.184] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5694,5775,0.
+[16-02-23 23:40:40.269] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5694,5775,0.
+[16-02-23 23:41:09.957] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5694,5775,0.
+[16-02-23 23:41:11.718] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5694,5774,0.
+[16-02-23 23:41:34.431] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5694,5775,0.
+[16-02-23 23:41:38.263] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5694,5774,0.
+[16-02-23 23:41:49.229] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5694,5775,0.
+[16-02-23 23:43:50.333] 76561198080689461 "EL-Mao'" object.takeWater @ 5684,5760,0.
+[16-02-23 23:44:08.427] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5694,5775,0.
+[16-02-23 23:44:12.720] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5694,5775,0.
+[16-02-23 23:44:49.434] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5777,5792,0.
+[16-02-23 23:44:53.042] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5777,5792,0.
+[16-02-23 23:45:02.182] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5782,5790,0.
+[16-02-23 23:45:09.363] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5782,5790,0.
+[16-02-23 23:45:26.963] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5778,5793,0.
+[16-02-23 23:45:43.398] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5777,5790,0.
+[16-02-23 23:46:00.899] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5781,5792,0.
+[16-02-23 23:46:14.960] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5780,5789,0.
+[16-02-23 23:47:26.228] 76561198080689461 "EL-Mao'" object.takeWater @ 5684,5760,0.
+[16-02-23 23:47:27.634] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:47:31.800] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:47:34.243] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[16-02-23 23:47:35.130] 76561198100576317 "Muezza" object.takeWater @ 5684,5760,0.
+[16-02-23 23:49:10.182] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5778,5793,0.
+[16-02-23 23:49:17.913] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5778,5793,0.
+[16-02-23 23:49:25.303] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5778,5793,0.
+[16-02-23 23:49:33.662] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5778,5793,0.
+[16-02-23 23:49:41.545] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5778,5793,0.
+[16-02-23 23:49:49.368] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5778,5793,0.
+[16-02-23 23:49:58.850] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5778,5793,0.
+[16-02-23 23:50:06.784] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5778,5793,0.
+[16-02-23 23:50:14.930] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5778,5793,0.
+[16-02-23 23:50:25.504] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5777,5790,0.
+[16-02-23 23:50:32.976] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5777,5790,0.
+[16-02-23 23:50:56.217] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5781,5791,0.
+[16-02-23 23:51:07.999] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5780,5789,0.
+[16-02-23 23:51:29.532] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5778,5793,0.
+[16-02-23 23:51:42.935] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5777,5790,0.
+[16-02-23 23:51:55.296] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5781,5792,0.
+[16-02-23 23:52:07.296] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5780,5789,0.
+[16-02-23 23:52:30.849] 76561198080689461 "EL-Mao'" vehicle.uninstallPart @ 5782,5790,0.
+[16-02-23 23:52:30.883] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5782,5790,0.
+[16-02-23 23:53:10.384] 76561198080689461 "EL-Mao'" object.takeWater @ 5684,5760,0.
+[16-02-23 23:54:26.646] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.
+[16-02-23 23:54:34.752] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[17-02-23 00:01:45.453] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.
+[17-02-23 00:03:41.687] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 00:04:48.810] 76561198080689461 "EL-Mao'" object.takeWater @ 5684,5760,0.
+[17-02-23 00:04:52.377] 76561198080689461 "EL-Mao'" object.takeWater @ 5684,5760,0.
+[17-02-23 00:05:42.230] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5694,5775,0.
+[17-02-23 00:06:01.071] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5695,5775,0.
+[17-02-23 00:06:16.921] 76561198100576317 "Muezza" object.takeWater @ 5683,5760,0.
+[17-02-23 00:07:35.201] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5956,5272,0.
+[17-02-23 00:07:35.767] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5957,5272,0.
+[17-02-23 00:08:15.199] 76561198080689461 "EL-Mao'" object.takeWater @ 5954,5261,0.
+[17-02-23 00:08:44.174] 76561198100576317 "Muezza" object.takeWater @ 5684,5763,1.
+[17-02-23 00:08:46.448] 76561198100576317 "Muezza" object.takeWater @ 5684,5763,1.
+[17-02-23 00:08:47.285] 76561198100576317 "Muezza" object.takeWater @ 5684,5763,1.
+[17-02-23 00:08:48.122] 76561198100576317 "Muezza" object.takeWater @ 5684,5763,1.
+[17-02-23 00:08:48.963] 76561198100576317 "Muezza" object.takeWater @ 5684,5763,1.
+[17-02-23 00:08:49.815] 76561198100576317 "Muezza" object.takeWater @ 5684,5763,1.
+[17-02-23 00:08:50.647] 76561198100576317 "Muezza" object.takeWater @ 5684,5763,1.
+[17-02-23 00:08:51.485] 76561198100576317 "Muezza" object.takeWater @ 5684,5763,1.
+[17-02-23 00:08:52.315] 76561198100576317 "Muezza" object.takeWater @ 5684,5763,1.
+[17-02-23 00:08:53.169] 76561198100576317 "Muezza" object.takeWater @ 5684,5763,1.
+[17-02-23 00:08:54.007] 76561198100576317 "Muezza" object.takeWater @ 5684,5763,1.
+[17-02-23 00:10:27.100] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5955,5274,0.
+[17-02-23 00:10:29.600] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5956,5272,0.
+[17-02-23 00:10:33.712] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5957,5271,0.
+[17-02-23 00:11:04.577] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 6065,5253,0.
+[17-02-23 00:11:06.512] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 6066,5253,0.
+[17-02-23 00:12:52.215] 76561198080689461 "EL-Mao'" object.takeWater @ 6079,5259,0.
+[17-02-23 00:12:55.168] 76561198080689461 "EL-Mao'" object.takeWater @ 6079,5259,0.
+[17-02-23 00:17:11.726] 76561198100576317 "Muezza" object.takeWater @ 6087,5260,0.
+[17-02-23 00:18:01.375] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 6065,5254,0.
+[17-02-23 00:18:02.287] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 6066,5253,0.
+[17-02-23 00:18:47.328] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 6081,5307,0.
+[17-02-23 00:19:06.125] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 6081,5307,0.
+[17-02-23 00:19:27.143] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 6080,5303,0.
+[17-02-23 00:19:28.080] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 6080,5303,0.
+[17-02-23 00:22:25.831] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 6080,5303,0.
+[17-02-23 00:22:41.973] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 6061,5284,0.
+[17-02-23 00:24:04.477] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5690,5761,0.
+[17-02-23 00:24:12.295] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5691,5760,0.
+[17-02-23 00:24:38.604] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.
+[17-02-23 00:25:06.063] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[17-02-23 00:28:30.948] 76561198100576317 "Muezza" object.takeWater @ 5683,5760,0.
+[17-02-23 00:32:47.498] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5612,5444,0.
+[17-02-23 00:33:47.120] 76561198100576317 "Muezza" object.takeWater @ 5683,5760,0.
+[17-02-23 00:34:27.204] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5686,5763,0.
+[17-02-23 00:34:27.204] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5686,5763,0.
+[17-02-23 00:35:22.579] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[17-02-23 00:47:40.715] 76561198100576317 "Muezza" object.takeWater @ 5682,5763,0.
+[17-02-23 00:47:43.694] 76561198080689461 "EL-Mao'" object.takeWater @ 5684,5760,0.
+[17-02-23 00:52:57.602] 76561198100576317 "Muezza" object.takeWater @ 5683,5760,0.
+[17-02-23 00:55:37.016] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 00:55:37.862] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 00:55:38.722] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 00:55:39.554] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 00:55:40.402] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 00:55:41.255] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 00:55:42.104] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 00:55:42.953] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 00:55:43.778] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 00:55:44.611] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 00:55:45.462] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 00:55:46.309] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 00:55:47.128] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 00:55:47.986] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 00:55:48.823] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 01:00:13.947] 76561198080689461 "EL-Mao'" object.takeWater @ 5684,5760,0.
+[17-02-23 01:03:15.610] 76561198100576317 "Muezza" object.takeWater @ 5683,5760,0.
+[17-02-23 01:03:34.654] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 01:06:36.044] 76561198080689461 "EL-Mao'" object.takeWater @ 5684,5763,1.
+[17-02-23 01:09:41.982] 76561198100576317 "Muezza" object.takeWater @ 5683,5760,0.
+[17-02-23 01:13:26.296] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[17-02-23 01:16:30.260] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.
+[17-02-23 01:17:55.715] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5761,1.
+[17-02-23 01:18:02.154] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5761,1.
+[17-02-23 01:18:54.842] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[17-02-23 01:19:44.004] 76561198100576317 "Muezza" object.takeWater @ 5683,5760,0.
+[17-02-23 01:23:16.035] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5690,5761,0.
+[17-02-23 01:23:19.269] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5690,5760,0.
+[17-02-23 01:24:17.747] 76561198100576317 "Muezza" object.takeWater @ 5684,5763,1.
+[17-02-23 01:25:22.245] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5502,6084,0.
+[17-02-23 01:25:22.326] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5503,6084,0.
+[17-02-23 01:26:30.760] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5522,6078,0.
+[17-02-23 01:34:06.266] 76561198080689461 "EL-Mao'" object.takeWater @ 5523,6088,0.
+[17-02-23 01:44:03.702] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5503,6084,0.
+[17-02-23 01:44:06.985] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5502,6084,0.
+[17-02-23 01:45:34.295] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5771,5738,0.
+[17-02-23 01:46:15.650] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5771,5738,0.
+[17-02-23 01:46:33.777] 76561198080689461 "EL-Mao'" ISLogSystem.writeLog @ 5693,5761,0.
+[17-02-23 01:46:34.168] 76561198145393066 "Gym Burger (Maximum Cheese)" ISLogSystem.writeLog @ 5692,5761,0.
+[17-02-23 01:49:52.357] 76561198100576317 "Muezza" object.takeWater @ 5683,5760,0.
+[17-02-23 01:50:02.054] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 01:50:06.322] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 01:50:07.158] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 01:50:08.020] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 01:51:09.082] 76561198145393066 "Gym Burger (Maximum Cheese)" object.takeWater @ 5683,5760,0.
+[17-02-23 01:52:19.084] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[17-02-23 01:52:20.897] 76561198080689461 "EL-Mao'" object.takeWater @ 5683,5760,0.
+[17-02-23 01:53:25.771] 76561198100576317 "Muezza" object.takeWater @ 5682,5762,0.

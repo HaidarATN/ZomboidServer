@@ -1,0 +1,54 @@
+[17-02-23 20:01:50.957][info] Start chat server initialization....
+[17-02-23 20:01:50.970][info] General chat has id = 0.
+[17-02-23 20:01:50.970][info] Say chat has id = 1.
+[17-02-23 20:01:50.970][info] Shout chat has id = 2.
+[17-02-23 20:01:50.971][info] Radio chat has id = 3.
+[17-02-23 20:01:50.971][info] Admin chat has id = 4.
+[17-02-23 20:01:50.971][info] Server chat has id = 5.
+[17-02-23 20:01:50.971][info] Chat server successfully initialized.
+[17-02-23 20:01:54.911][info] Creating safehouse chat '5678,5757 at 1676638914908'.
+[17-02-23 20:01:54.912][info] Safehouse chat '5678,5757 at 1676638914908' created.
+[17-02-23 20:21:48.828][info] Player with id = '0' tries to connect.
+[17-02-23 20:21:48.828][info] Adding player '0' to chat server.
+[17-02-23 20:21:48.829][info] Player joined to default chats.
+[17-02-23 20:21:48.829][info] Player joined to chat of safehouse '5678,5757 at 1676638914908'.
+[17-02-23 20:21:48.830][info] Player EL-Mao'(0) joined to chat server successfully.
+[17-02-23 20:25:16.933][info] Player with id = '4' tries to connect.
+[17-02-23 20:25:16.933][info] Adding player '4' to chat server.
+[17-02-23 20:25:16.933][info] Player joined to default chats.
+[17-02-23 20:25:16.933][info] Player joined to chat of safehouse '5678,5757 at 1676638914908'.
+[17-02-23 20:25:16.933][info] Player Gym Burger (Maximum Cheese)(4) joined to chat server successfully.
+[17-02-23 20:52:07.365][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[17-02-23 20:52:07.365][info] Message ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'} sent to chat (id = 2) members.
+[17-02-23 20:52:08.276][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[17-02-23 20:52:08.276][info] Message ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[17-02-23 20:52:08.547][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[17-02-23 20:52:08.547][info] Message ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[17-02-23 20:53:07.508][info] Player 4 disconnecting....
+[17-02-23 20:53:07.508][info] Disconnecting player 4 finished.
+[17-02-23 21:00:07.825][info] Player 4 disconnecting....
+[17-02-23 21:00:07.825][info] Disconnecting player 4 finished.
+[17-02-23 21:00:07.825][info] Player with id = '4' tries to connect.
+[17-02-23 21:00:07.826][info] Adding player '4' to chat server.
+[17-02-23 21:00:07.826][error] Player or connection is not found on server!.
+[17-02-23 21:00:07.826][error] player = null.
+[17-02-23 21:00:10.305][info] Player with id = '4' tries to connect.
+[17-02-23 21:00:10.305][info] Adding player '4' to chat server.
+[17-02-23 21:00:10.305][info] Player joined to default chats.
+[17-02-23 21:00:10.305][info] Player joined to chat of safehouse '5678,5757 at 1676638914908'.
+[17-02-23 21:00:10.305][info] Player Gym Burger (Maximum Cheese)(4) joined to chat server successfully.
+[17-02-23 21:20:35.127][info] Player with id = '8' tries to connect.
+[17-02-23 21:20:35.127][info] Adding player '8' to chat server.
+[17-02-23 21:20:35.127][info] Player joined to default chats.
+[17-02-23 21:20:35.127][info] Player joined to chat of safehouse '5678,5757 at 1676638914908'.
+[17-02-23 21:20:35.127][info] Player Muezza(8) joined to chat server successfully.
+[17-02-23 21:54:32.133][info] Got message:ChatMessage{chat=Local, author='Muezza', text='carp 3-5 / cook 1,4 /'}.
+[17-02-23 21:54:32.134][info] Message ChatMessage{chat=Local, author='Muezza', text='carp 3-5 / cook 1,4 /'} sent to chat (id = 1) members.
+[18-02-23 00:49:53.724][info] Got message:ChatMessage{chat=Local, author='EL-Mao'', text='HEY YOU!'}.
+[18-02-23 00:49:53.747][info] Message ChatMessage{chat=Local, author='EL-Mao'', text='HEY YOU!'} sent to chat (id = 2) members.
+[18-02-23 02:53:08.822][info] Got message:ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[18-02-23 02:53:08.823][info] Message ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'} sent to chat (id = 2) members.
+[18-02-23 04:34:48.894][info] Player 0 disconnecting....
+[18-02-23 04:34:48.894][info] Disconnecting player 0 finished.
+[18-02-23 04:34:48.895][info] Player 0 disconnecting....
+[18-02-23 04:34:48.895][info] Disconnecting player 0 finished.

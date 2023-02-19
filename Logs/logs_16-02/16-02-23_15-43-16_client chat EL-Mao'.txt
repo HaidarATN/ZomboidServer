@@ -1,0 +1,178 @@
+[16-02-23 15:43:16.030][info] Init chat system....
+[16-02-23 15:43:16.031][info] Mode: multiplayer.
+[16-02-23 15:43:16.031][info] Chat owner: EL-Mao'.
+[16-02-23 16:14:09.123][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='hey'}.
+[16-02-23 16:14:10.772][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:14:11.939][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:14:13.090][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:14:14.673][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:14:20.923][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:14:21.906][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:14:22.090][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:14:32.074][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:14:34.540][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:14:35.624][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:14:36.624][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:14:37.241][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:14:37.791][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:14:38.458][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:14:39.091][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:14:42.075][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:14:42.508][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:14:43.708][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:14:45.309][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:14:46.225][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:14:47.875][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:14:49.709][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:14:50.443][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:14:56.593][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:14:58.093][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:15:00.609][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:15:09.176][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:15:11.460][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:15:14.243][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:15:17.894][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:22:12.460][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:22:12.594][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:22:13.194][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:22:13.310][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:22:13.460][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:22:13.644][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:22:14.230][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:22:14.345][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:22:14.561][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:22:15.678][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:22:15.829][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:22:16.062][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:22:18.312][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:22:18.479][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:23:10.029][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:23:10.213][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:23:11.846][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:23:12.429][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:23:13.262][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:23:14.595][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:23:16.395][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:23:19.045][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:23:20.595][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:23:23.462][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:23:25.595][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:23:25.795][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:23:26.795][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:23:26.979][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:23:28.195][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:23:28.345][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:23:32.145][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:23:32.312][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:23:38.862][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:23:38.995][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:23:39.162][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:23:41.028][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:23:41.178][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:23:51.746][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:23:51.912][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:23:54.395][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:23:54.578][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:23:56.778][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:23:56.945][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:24:01.229][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:25:46.579][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='psst'}.
+[16-02-23 16:25:47.829][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:25:50.179][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:25:50.328][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:25:50.545][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:25:54.595][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:25:54.829][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:25:59.895][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:26:00.079][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:26:00.245][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:26:15.712][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:26:15.862][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:26:16.028][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:26:16.195][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:26:17.578][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:26:17.745][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:02.879][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:03.295][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:29:03.562][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:03.828][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:04.045][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:29:04.262][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:29:04.828][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:04.978][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:29:05.812][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:29:05.995][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:29:06.162][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:06.329][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:29:06.529][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:06.745][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:29:06.962][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:29:07.212][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:29:10.012][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:10.178][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:29:13.312][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:13.462][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:13.645][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:16.762][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:29:16.945][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:29:21.795][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:21.946][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:29:22.112][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:29:22.231][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:29:22.511][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:22.845][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:23.012][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:29:23.195][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:23.362][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:24.279][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:29:24.479][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:24.695][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:24.962][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:29:25.195][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:33:45.779][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:33:45.929][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:33:46.195][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:33:46.379][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:33:46.546][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:33:46.728][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:33:46.946][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:33:47.112][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:33:47.312][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:33:47.479][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:33:48.362][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:33:48.562][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 16:33:48.679][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:33:49.128][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:33:49.295][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:33:51.212][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:33:51.412][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:33:54.278][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:33:54.528][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:34:00.195][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:34:00.395][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:34:01.879][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:34:02.129][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:34:02.778][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:34:03.212][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 16:34:04.446][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 16:34:04.679][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 17:51:00.930][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='lag'}.
+[16-02-23 17:52:26.962][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 17:52:27.112][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 17:52:27.312][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 17:52:27.512][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 17:52:28.463][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 17:52:28.662][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 17:52:28.862][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 17:52:29.028][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 17:52:29.211][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 17:52:29.378][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 17:52:29.562][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 17:52:29.812][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 17:52:30.448][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 17:52:30.629][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 17:52:30.845][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 17:52:31.011][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.
+[16-02-23 17:52:31.612][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[16-02-23 17:52:32.895][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY!'}.
+[16-02-23 17:52:33.095][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.

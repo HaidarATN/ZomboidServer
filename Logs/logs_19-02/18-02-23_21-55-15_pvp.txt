@@ -1,0 +1,14 @@
+[18-02-23 21:55:15.959][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[18-02-23 22:01:51.530][INFO] user "Gym Burger (Maximum Cheese)" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[18-02-23 22:16:41.859][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[18-02-23 23:07:29.094][INFO] user "Gym Burger (Maximum Cheese)" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[18-02-23 23:14:59.752][INFO] user "Gym Burger (Maximum Cheese)" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[18-02-23 23:16:08.725][INFO] user "Muezza" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[18-02-23 23:18:04.200][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[18-02-23 23:24:21.553][INFO] user "Gym Burger (Maximum Cheese)" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[18-02-23 23:35:05.023][INFO] user "Gym Burger (Maximum Cheese)" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[18-02-23 23:56:31.772][INFO] user "Gym Burger (Maximum Cheese)" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[18-02-23 23:59:04.886][INFO] user "Gym Burger (Maximum Cheese)" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 01:55:12.016][INFO] user "Muezza" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 02:03:55.236][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 04:26:01.201][INFO] user "EL-Mao'" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

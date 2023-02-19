@@ -1,0 +1,24 @@
+[14-02-23 17:07:48.358][info] Start chat server initialization....
+[14-02-23 17:07:48.362][info] General chat has id = 0.
+[14-02-23 17:07:48.362][info] Say chat has id = 1.
+[14-02-23 17:07:48.362][info] Shout chat has id = 2.
+[14-02-23 17:07:48.362][info] Radio chat has id = 3.
+[14-02-23 17:07:48.362][info] Admin chat has id = 4.
+[14-02-23 17:07:48.363][info] Server chat has id = 5.
+[14-02-23 17:07:48.363][info] Chat server successfully initialized.
+[14-02-23 17:18:41.573][info] Player with id = '0' tries to connect.
+[14-02-23 17:18:41.573][info] Adding player '0' to chat server.
+[14-02-23 17:18:41.575][info] Player joined to default chats.
+[14-02-23 17:18:41.576][info] Player EL-Mao'(0) joined to chat server successfully.
+[14-02-23 17:40:37.866][info] Player with id = '4' tries to connect.
+[14-02-23 17:40:37.866][info] Adding player '4' to chat server.
+[14-02-23 17:40:37.866][info] Player joined to default chats.
+[14-02-23 17:40:37.866][info] Player Unto Gayungan S.E.I.(4) joined to chat server successfully.
+[14-02-23 17:54:21.950][info] Player 0 disconnecting....
+[14-02-23 17:54:21.951][info] Disconnecting player 0 finished.
+[14-02-23 17:54:34.711][info] Player 4 disconnecting....
+[14-02-23 17:54:34.711][info] Disconnecting player 4 finished.
+[14-02-23 17:54:39.407][info] Player 0 disconnecting....
+[14-02-23 17:54:39.407][info] Disconnecting player 0 finished.
+[14-02-23 17:54:39.407][info] Player 0 disconnecting....
+[14-02-23 17:54:39.407][info] Disconnecting player 0 finished.

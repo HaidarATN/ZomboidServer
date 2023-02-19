@@ -1,0 +1,36 @@
+[14-02-23 00:47:15.091] added connection index=0 127.0.0.1.
+[14-02-23 00:47:15.851] 76561198080689461 "EL-Mao'" attempting to join.
+[14-02-23 00:47:15.852] 76561198080689461 "EL-Mao'" allowed to join.
+[14-02-23 01:18:44.144] 76561198080689461 "EL-Mao'" attempting to join used queue.
+[14-02-23 01:18:54.968] player EL-Mao' loading time was: 10489 ms.
+[14-02-23 01:18:57.272] 76561198080689461 "EL-Mao'" fully connected (6351,5420,0).
+[14-02-23 01:19:52.122] added connection index=1 198.181.191.51.
+[14-02-23 01:20:01.386] added connection index=2 11.22.73.52.
+[14-02-23 01:20:09.500] null "null" removed connection index=1.
+[14-02-23 01:20:09.500] null "null" removed connection index=2.
+[14-02-23 01:21:03.220] added connection index=1 233.166.252.55.
+[14-02-23 01:21:03.965] 76561198145393066 "Unto Gayungan S.E.I." attempting to join.
+[14-02-23 01:21:03.965] 76561198145393066 "Unto Gayungan S.E.I." allowed to join.
+[14-02-23 01:21:08.989] added connection index=2 238.140.80.56.
+[14-02-23 01:21:09.778] 76561198100576317 "Muezza" attempting to join.
+[14-02-23 01:21:09.778] 76561198100576317 "Muezza" allowed to join.
+[14-02-23 01:23:09.266] 76561198145393066 "Unto Gayungan S.E.I." attempting to join used queue.
+[14-02-23 01:23:12.437] 76561198100576317 "Muezza" attempting to join used queue.
+[14-02-23 01:23:43.930] player Unto Gayungan S.E.I. loading time was: 34345 ms.
+[14-02-23 01:23:46.556] 76561198145393066 "Unto Gayungan S.E.I." fully connected (6371,5268,0).
+[14-02-23 01:23:49.278] player Muezza loading time was: 36529 ms.
+[14-02-23 01:23:52.670] 76561198100576317 "Muezza" fully connected (5779,5358,0).
+[14-02-23 01:26:18.202] user Unto Gayungan S.E.I. died at (6365,5268,0) (non pvp).
+[14-02-23 01:27:00.735] 76561198145393066 "Unto Gayungan S.E.I." disconnected player (6365,5268,0).
+[14-02-23 01:27:04.843] 76561198145393066 "Unto Gayungan S.E.I." fully connected (6759,5487,0).
+[14-02-23 01:34:14.209] user Muezza died at (5800,5362,0) (non pvp).
+[14-02-23 01:35:09.913] 76561198100576317 "Muezza" disconnected player (5800,5362,0).
+[14-02-23 01:35:12.526] 76561198100576317 "Muezza" fully connected (5814,5316,0).
+[14-02-23 01:43:00.129] user Unto Gayungan S.E.I. died at (6607,5431,0) (non pvp).
+[14-02-23 01:43:36.508] user Muezza died at (5744,5274,0) (non pvp).
+[14-02-23 01:43:57.344] 76561198100576317 "Muezza" disconnected player (5744,5274,0).
+[14-02-23 01:43:59.877] 76561198100576317 "Muezza" fully connected (6266,5328,0).
+[14-02-23 01:45:50.923] 76561198145393066 "Unto Gayungan S.E.I." disconnected player (6607,5431,0).
+[14-02-23 01:45:54.038] 76561198145393066 "Unto Gayungan S.E.I." fully connected (6179,6373,0).
+[14-02-23 01:53:33.130] 76561198080689461 "EL-Mao'" removed connection index=0.
+[14-02-23 01:53:33.948] 76561198080689461 "EL-Mao'" disconnected player (6361,5497,0).

@@ -1,0 +1,66 @@
+[15-02-23 01:37:16.853] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_16) at 10754,10443,0.
+[15-02-23 01:40:57.800] 76561198145393066 "Gym Burger" removed IsoObject (carpentry_01_16) at 10698,10451,0.
+[15-02-23 01:47:34.901] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_49) at 10634,10419,0.
+[15-02-23 01:48:44.821] 76561198145393066 "Gym Burger" removed Door (fixtures_doors_01_52) at 10603,10458,0.
+[15-02-23 01:49:44.554] 76561198100576317 "Muezza" removed IsoObject (carpentry_01_16) at 10698,10452,0.
+[15-02-23 01:53:45.512] 76561198100576317 "Muezza" removed Door (fixtures_doors_01_49) at 10616,10459,0.
+[15-02-23 02:26:44.687] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_44) at 10677.0,10633.0,0.0.
+[15-02-23 02:30:10.201] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10668.0,10633.0,0.0.
+[15-02-23 02:30:51.801] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10667.0,10633.0,0.0.
+[15-02-23 02:31:44.191] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10666.0,10633.0,0.0.
+[15-02-23 02:32:26.868] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10665.0,10633.0,0.0.
+[15-02-23 02:33:59.067] 76561198080689461 "EL-Mao'" removed American Holly (e_americanholly_1_3) at 10675,10661,0.
+[15-02-23 02:37:56.550] 76561198100576317 "Muezza" removed Wooden Fence (carpentry_02_44) at 10677,10633,0.
+[15-02-23 02:37:57.035] 76561198080689461 "EL-Mao'" removed Dogwood (e_dogwood_1_2) at 10679,10661,0.
+[15-02-23 02:40:54.181] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10664.0,10633.0,0.0.
+[15-02-23 02:41:44.381] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10663.0,10633.0,0.0.
+[15-02-23 02:42:04.924] 76561198080689461 "EL-Mao'" removed Canadian Hemlock (e_canadianhemlock_1_3) at 10679,10664,0.
+[15-02-23 02:42:17.785] 76561198145393066 "Gym Burger" removed Canadian Hemlock (e_canadianhemlock_1_2) at 10678,10665,0.
+[15-02-23 02:43:15.283] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10662.0,10633.0,0.0.
+[15-02-23 02:43:20.745] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10661.0,10633.0,0.0.
+[15-02-23 02:44:03.151] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10660.0,10633.0,0.0.
+[15-02-23 02:45:15.176] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10659.0,10633.0,0.0.
+[15-02-23 02:46:06.143] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10658.0,10633.0,0.0.
+[15-02-23 02:47:35.615] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_44) at 10658.0,10632.0,0.0.
+[15-02-23 02:48:19.045] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_44) at 10658.0,10631.0,0.0.
+[15-02-23 02:48:25.665] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_44) at 10658.0,10630.0,0.0.
+[15-02-23 02:50:38.889] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_44) at 10658.0,10629.0,0.0.
+[15-02-23 02:50:48.303] 76561198145393066 "Gym Burger" removed Yellowwood (e_yellowwood_1_3) at 10644,10659,0.
+[15-02-23 02:50:48.734] 76561198080689461 "EL-Mao'" removed American Holly (e_americanhollyJUMBO_1_1) at 10683,10684,0.
+[15-02-23 02:51:25.021] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_44) at 10658.0,10628.0,0.0.
+[15-02-23 02:52:18.416] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_44) at 10658.0,10627.0,0.0.
+[15-02-23 02:53:03.696] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_44) at 10658.0,10626.0,0.0.
+[15-02-23 02:53:52.271] 76561198145393066 "Gym Burger" removed Dogwood (e_dogwood_1_2) at 10643,10659,0.
+[15-02-23 02:54:01.088] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_44) at 10658.0,10625.0,0.0.
+[15-02-23 02:54:15.963] 76561198145393066 "Gym Burger" removed Canadian Hemlock (e_canadianhemlock_1_3) at 10642,10661,0.
+[15-02-23 02:54:32.140] 76561198145393066 "Gym Burger" removed American Holly (e_americanholly_1_3) at 10642,10662,0.
+[15-02-23 02:54:51.194] 76561198145393066 "Gym Burger" removed Yellowwood (e_yellowwood_1_3) at 10643,10664,0.
+[15-02-23 02:54:59.098] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_44) at 10658.0,10624.0,0.0.
+[15-02-23 02:55:09.181] 76561198145393066 "Gym Burger" removed Canadian Hemlock (e_canadianhemlock_1_3) at 10643,10665,0.
+[15-02-23 02:55:24.821] 76561198145393066 "Gym Burger" removed Canadian Hemlock (e_canadianhemlock_1_3) at 10642,10663,0.
+[15-02-23 02:55:43.014] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_44) at 10658.0,10623.0,0.0.
+[15-02-23 02:56:53.052] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_44) at 10658.0,10621.0,0.0.
+[15-02-23 02:57:13.122] 76561198080689461 "EL-Mao'" removed Riverbirch (e_riverbirchJUMBO_1_0) at 10675,10682,0.
+[15-02-23 02:57:43.465] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_44) at 10658.0,10622.0,0.0.
+[15-02-23 02:57:48.698] 76561198080689461 "EL-Mao'" removed Riverbirch (e_riverbirchJUMBO_1_1) at 10673,10680,0.
+[15-02-23 02:59:06.939] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10665.0,10620.0,0.0.
+[15-02-23 03:00:35.242] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10664.0,10620.0,0.0.
+[15-02-23 03:00:42.524] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10663.0,10620.0,0.0.
+[15-02-23 03:00:58.130] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10662.0,10620.0,0.0.
+[15-02-23 03:01:48.355] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10661.0,10620.0,0.0.
+[15-02-23 03:02:29.288] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10660.0,10620.0,0.0.
+[15-02-23 03:04:13.653] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10659.0,10620.0,0.0.
+[15-02-23 03:04:59.406] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_45) at 10658.0,10620.0,0.0.
+[15-02-23 03:05:05.534] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_44) at 10658.0,10620.0,0.0.
+[15-02-23 03:09:03.352] 76561198100576317 "Muezza" removed Stove (appliances_cooking_01_61) at 10617,10557,0.
+[15-02-23 03:32:00.991] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_52) at 10617,10378,0.
+[15-02-23 03:32:15.734] 76561198145393066 "Gym Burger" removed Door (fixtures_doors_01_48) at 10607,10356,0.
+[15-02-23 03:32:28.962] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_48) at 10607,10314,0.
+[15-02-23 03:32:34.167] 76561198145393066 "Gym Burger" removed Door (fixtures_doors_01_52) at 10617,10353,0.
+[15-02-23 03:32:35.831] 76561198145393066 "Gym Burger" removed Door (fixtures_doors_01_48) at 10607,10345,0.
+[15-02-23 03:32:41.881] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_52) at 10617,10328,0.
+[15-02-23 03:33:06.238] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_52) at 10617,10356,0.
+[15-02-23 03:33:08.073] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_52) at 10617,10369,0.
+[15-02-23 03:33:10.824] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_48) at 10607,10372,0.
+[15-02-23 04:02:43.982] 76561198145393066 "Gym Burger" removed Door (fixtures_doors_01_48) at 10607,10369,0.
+[15-02-23 04:04:31.958] 76561198145393066 "Gym Burger" removed Door (fixtures_doors_01_48) at 10607,10353,0.

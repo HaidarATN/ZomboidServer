@@ -1,0 +1,16 @@
+[15-02-23 01:21:51.378][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 01:33:47.704][INFO] user "Gym Burger" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 01:34:09.714][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 01:53:29.581][INFO] user "Muezza" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 01:54:35.859][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 02:02:32.691][INFO] user "Muezza" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 02:08:46.120][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 02:11:11.014][INFO] user "Gym Burger" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 02:16:37.461][INFO] user "Gym Burger" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 02:18:39.514][INFO] user "Muezza" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 02:20:33.274][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 03:12:58.648][INFO] user "Muezza" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 03:13:54.996][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 04:20:22.215][INFO] user "Muezza" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 04:23:06.519][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 04:35:57.271][INFO] user "EL-Mao'" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

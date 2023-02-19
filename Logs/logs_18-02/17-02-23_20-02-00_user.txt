@@ -1,0 +1,25 @@
+[17-02-23 20:02:00.847] added connection index=0 127.0.0.1.
+[17-02-23 20:02:01.679] 76561198080689461 "EL-Mao'" attempting to join.
+[17-02-23 20:02:01.679] 76561198080689461 "EL-Mao'" allowed to join.
+[17-02-23 20:02:09.651] 76561198080689461 "EL-Mao'" attempting to join used queue.
+[17-02-23 20:02:45.430] player EL-Mao' loading time was: 35377 ms.
+[17-02-23 20:21:48.845] 76561198080689461 "EL-Mao'" fully connected (5683,5766,0).
+[17-02-23 20:22:35.583] added connection index=1 156.187.166.132.
+[17-02-23 20:22:36.811] 76561198145393066 "Gym Burger (Maximum Cheese)" attempting to join.
+[17-02-23 20:22:36.812] 76561198145393066 "Gym Burger (Maximum Cheese)" allowed to join.
+[17-02-23 20:22:48.913] 76561198145393066 "Gym Burger (Maximum Cheese)" attempting to join used queue.
+[17-02-23 20:25:01.555] player Gym Burger (Maximum Cheese) loading time was: 129659 ms.
+[17-02-23 20:25:16.935] 76561198145393066 "Gym Burger (Maximum Cheese)" fully connected (5684,5765,0).
+[17-02-23 20:53:07.509] user Gym Burger (Maximum Cheese) died at (5860,5832,0) (non pvp).
+[17-02-23 21:00:07.825] 76561198145393066 "Gym Burger (Maximum Cheese)" disconnected player (5860,5832,0).
+[17-02-23 21:00:10.307] 76561198145393066 "Gym Burger (Maximum Cheese)" fully connected (5686,5763,0).
+[17-02-23 21:15:12.778] Error: Dupe item ID for EL-Mao' (5680,5766,1).
+[17-02-23 21:17:58.788] added connection index=2 79.85.130.74.
+[17-02-23 21:17:59.686] 76561198100576317 "Muezza" attempting to join.
+[17-02-23 21:17:59.687] 76561198100576317 "Muezza" allowed to join.
+[17-02-23 21:18:08.962] 76561198100576317 "Muezza" attempting to join used queue.
+[17-02-23 21:20:28.533] player Muezza loading time was: 136823 ms.
+[17-02-23 21:20:35.128] 76561198100576317 "Muezza" fully connected (5685,5764,0).
+[18-02-23 04:16:11.091] Error: Dupe item ID for Muezza (5698,5748,0).
+[18-02-23 04:34:48.792] 76561198080689461 "EL-Mao'" removed connection index=0.
+[18-02-23 04:34:48.896] 76561198080689461 "EL-Mao'" disconnected player (5683,5766,0).

@@ -1,0 +1,3 @@
+[14-02-23 03:47:37.064][info] Init chat system....
+[14-02-23 03:47:37.064][info] Mode: single player.
+[14-02-23 03:47:37.064][info] Chat owner: EL-Mao'.

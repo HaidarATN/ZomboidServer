@@ -1,0 +1,5 @@
+[15-02-23 14:38:51.733][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 14:49:28.615][INFO] user "Gym Burger" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 14:55:35.682][INFO] user "Gym Burger" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 14:56:22.806][INFO] user "Gym Burger" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-02-23 15:05:02.349][INFO] user "EL-Mao'" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

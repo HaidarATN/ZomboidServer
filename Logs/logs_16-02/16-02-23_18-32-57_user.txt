@@ -1,0 +1,51 @@
+[16-02-23 18:32:57.108] added connection index=0 127.0.0.1.
+[16-02-23 18:32:57.837] 76561198080689461 "EL-Mao'" attempting to join.
+[16-02-23 18:32:57.837] 76561198080689461 "EL-Mao'" allowed to join.
+[16-02-23 18:49:42.037] 76561198080689461 "EL-Mao'" attempting to join used queue.
+[16-02-23 18:49:50.713] player EL-Mao' loading time was: 8359 ms.
+[16-02-23 18:54:27.202] 76561198080689461 "EL-Mao'" fully connected (5574,5903,0).
+[16-02-23 18:55:50.743] added connection index=1 159.95.93.48.
+[16-02-23 18:55:51.601] 76561198145393066 "Gym Burger (Maximum Cheese)" attempting to join.
+[16-02-23 18:55:51.601] 76561198145393066 "Gym Burger (Maximum Cheese)" allowed to join.
+[16-02-23 18:56:12.469] 76561198145393066 "Gym Burger (Maximum Cheese)" attempting to join used queue.
+[16-02-23 18:56:21.245] player Gym Burger (Maximum Cheese) loading time was: 8400 ms.
+[16-02-23 18:56:24.529] 76561198145393066 "Gym Burger (Maximum Cheese)" fully connected (5574,5903,0).
+[16-02-23 18:57:58.455] added connection index=2 38.100.248.55.
+[16-02-23 18:57:59.293] 76561198100576317 "Muezza" attempting to join.
+[16-02-23 18:57:59.293] 76561198100576317 "Muezza" allowed to join.
+[16-02-23 18:58:14.937] 76561198100576317 "Muezza" attempting to join used queue.
+[16-02-23 18:58:53.070] player Muezza loading time was: 37318 ms.
+[16-02-23 18:59:12.936] 76561198100576317 "Muezza" fully connected (5574,5903,0).
+[16-02-23 19:08:30.880] added connection index=3 51.10.170.93.
+[16-02-23 19:08:32.143] 76561198213478008 "Trisudar" attempting to join.
+[16-02-23 19:08:32.144] 76561198213478008 "Trisudar" allowed to join.
+[16-02-23 19:11:17.432] 76561198213478008 "Trisudar" attempting to join used queue.
+[16-02-23 19:13:42.880] player Trisudar loading time was: 140751 ms.
+[16-02-23 19:13:46.424] 76561198213478008 "Trisudar" fully connected (5574,5903,0).
+[16-02-23 19:20:15.203] 76561198100576317 "Muezza" removed connection index=2.
+[16-02-23 19:20:15.602] 76561198100576317 "Muezza" disconnected player (5557,5935,0).
+[16-02-23 19:20:35.027] added connection index=2 208.125.183.136.
+[16-02-23 19:20:35.794] 76561198100576317 "Muezza" attempting to join.
+[16-02-23 19:20:35.794] 76561198100576317 "Muezza" allowed to join.
+[16-02-23 19:20:41.512] 76561198100576317 "Muezza" attempting to join used queue.
+[16-02-23 19:21:15.851] player Muezza loading time was: 34055 ms.
+[16-02-23 19:21:17.068] 76561198100576317 "Muezza" fully connected (5557,5935,0).
+[16-02-23 19:22:57.450] 76561198145393066 "Gym Burger (Maximum Cheese)" removed connection index=1.
+[16-02-23 19:22:58.304] 76561198145393066 "Gym Burger (Maximum Cheese)" disconnected player (5566,5937,0).
+[16-02-23 19:23:27.126] added connection index=1 0.141.101.146.
+[16-02-23 19:23:27.891] 76561198145393066 "Gym Burger (Maximum Cheese)" attempting to join.
+[16-02-23 19:23:27.891] 76561198145393066 "Gym Burger (Maximum Cheese)" allowed to join.
+[16-02-23 19:23:35.886] 76561198145393066 "Gym Burger (Maximum Cheese)" attempting to join used queue.
+[16-02-23 19:24:06.751] player Gym Burger (Maximum Cheese) loading time was: 30534 ms.
+[16-02-23 19:24:17.286] 76561198145393066 "Gym Burger (Maximum Cheese)" fully connected (5566,5937,0).
+[16-02-23 19:35:45.777] user Muezza died at (5604,5954,0) (non pvp).
+[16-02-23 19:36:13.857] 76561198100576317 "Muezza" disconnected player (5604,5954,0).
+[16-02-23 19:36:20.734] 76561198100576317 "Muezza" fully connected (5574,5903,0).
+[16-02-23 20:14:10.626] user Trisudar died at (5459,5905,0) (non pvp).
+[16-02-23 20:19:54.695] 76561198213478008 "Trisudar" disconnected player (5459,5905,0).
+[16-02-23 20:20:00.259] 76561198213478008 "Trisudar" fully connected (5574,5903,0).
+[16-02-23 20:26:30.859] user Trisudar died at (5635,5966,0) (non pvp).
+[16-02-23 20:27:04.692] 76561198213478008 "Trisudar" disconnected player (5635,5966,0).
+[16-02-23 20:27:12.454] 76561198213478008 "Trisudar" fully connected (5574,5903,0).
+[16-02-23 20:27:31.792] 76561198080689461 "EL-Mao'" removed connection index=0.
+[16-02-23 20:27:32.366] 76561198080689461 "EL-Mao'" disconnected player (5683,5765,0).

@@ -1,0 +1,5 @@
+[18-02-23 21:55:15.969][info] Init chat system....
+[18-02-23 21:55:15.969][info] Mode: multiplayer.
+[18-02-23 21:55:15.969][info] Chat owner: EL-Mao'.
+[19-02-23 01:48:31.167][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='HEY YOU!'}.
+[19-02-23 01:48:50.182][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Maximum Cheese)', text='OVER HERE!'}.

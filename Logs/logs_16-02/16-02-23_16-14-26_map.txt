@@ -1,0 +1,23 @@
+[16-02-23 16:14:26.952] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_53) at 10103,11153,0.
+[16-02-23 16:15:15.531] 76561198100576317 "Muezza" removed IsoGenerator (appliances_misc_01_0) at 10666,10623,0.
+[16-02-23 16:15:35.521] 76561198100576317 "Muezza" added IsoGenerator (appliances_misc_01_0) at 10667.0,10622.0,0.0.
+[16-02-23 16:15:42.007] 76561198100576317 "Muezza" removed IsoGenerator (appliances_misc_01_0) at 10665,10624,0.
+[16-02-23 16:15:43.371] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_53) at 10104,11155,0.
+[16-02-23 16:15:49.392] 76561198100576317 "Muezza" added IsoGenerator (appliances_misc_01_0) at 10666.0,10622.0,0.0.
+[16-02-23 16:31:35.079] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_54) at 10669.0,10633.0,0.0.
+[16-02-23 16:56:55.431] 76561198145393066 "Gym Burger (Maximum Cheese)" added Radio () at 10672.0,10627.0,0.0.
+[16-02-23 17:07:43.563] 76561198100576317 "Muezza" removed Radio () at 10672,10627,0.
+[16-02-23 17:16:37.667] 76561198100576317 "Muezza" removed IsoGenerator (appliances_misc_01_0) at 10666,10622,0.
+[16-02-23 17:16:42.725] 76561198100576317 "Muezza" added IsoGenerator (appliances_misc_01_0) at 10666.0,10620.0,0.0.
+[16-02-23 17:16:48.533] 76561198100576317 "Muezza" removed IsoGenerator (appliances_misc_01_0) at 10667,10622,0.
+[16-02-23 17:16:53.958] 76561198100576317 "Muezza" added IsoGenerator (appliances_misc_01_0) at 10667.0,10620.0,0.0.
+[16-02-23 17:26:36.173] 76561198080689461 "EL-Mao'" removed IsoGenerator (appliances_misc_01_0) at 10668,10621,0.
+[16-02-23 17:26:44.213] 76561198080689461 "EL-Mao'" added IsoGenerator (appliances_misc_01_0) at 10666.0,10624.0,0.0.
+[16-02-23 17:58:32.696] 76561198100576317 "Muezza" removed Door (location_shop_fossoil_01_60) at 10116,11152,0.
+[16-02-23 18:00:11.698] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_16) at 8133,11735,0.
+[16-02-23 18:01:19.515] 76561198080689461 "EL-Mao'" removed Door (location_community_church_small_01_29) at 8131,11751,0.
+[16-02-23 18:02:15.401] 76561198080689461 "EL-Mao'" removed Door (location_community_church_small_01_25) at 8130,11751,0.
+[16-02-23 18:17:33.311] 76561198080689461 "EL-Mao'" removed Door (walls_garage_01_52) at 8148,11749,0.
+[16-02-23 18:17:33.312] 76561198080689461 "EL-Mao'" removed Door (walls_garage_01_52) at 8149,11749,0.
+[16-02-23 18:17:33.312] 76561198080689461 "EL-Mao'" removed Door (walls_garage_01_53) at 8150,11749,0.
+[16-02-23 18:17:33.312] 76561198080689461 "EL-Mao'" removed Door (walls_garage_01_51) at 8147,11749,0.

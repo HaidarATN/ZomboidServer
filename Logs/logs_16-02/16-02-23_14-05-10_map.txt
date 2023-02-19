@@ -1,0 +1,19 @@
+[16-02-23 14:05:10.632] 76561198145393066 "Gym Burger (Double Cheese)" removed Door (fixtures_doors_01_49) at 10610,9444,0.
+[16-02-23 14:06:09.003] 76561198145393066 "Gym Burger (Double Cheese)" removed Door (fixtures_doors_02_17) at 10612,9437,0.
+[16-02-23 14:06:48.124] 76561198145393066 "Gym Burger (Double Cheese)" added IsoObject (fencing_damaged_01_140) at 10600.0,9389.0,0.0.
+[16-02-23 14:06:59.429] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_48) at 10602,9410,0.
+[16-02-23 14:07:08.202] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_20) at 10606,9410,0.
+[16-02-23 14:07:59.132] 76561198080689461 "EL-Mao'" removed Door (walls_garage_01_17) at 10613,9410,0.
+[16-02-23 14:07:59.132] 76561198080689461 "EL-Mao'" removed Door (walls_garage_01_18) at 10613,9409,0.
+[16-02-23 14:07:59.132] 76561198080689461 "EL-Mao'" removed Door (walls_garage_01_16) at 10613,9411,0.
+[16-02-23 14:08:04.111] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_57) at 10620,9435,0.
+[16-02-23 14:17:02.851] 76561198080689461 "EL-Mao'" removed IsoGenerator (appliances_misc_01_0) at 10665,10621,0.
+[16-02-23 14:17:19.263] 76561198080689461 "EL-Mao'" added IsoGenerator (appliances_misc_01_0) at 10668.0,10621.0,0.0.
+[16-02-23 14:42:42.218] 76561198080689461 "EL-Mao'" removed Stove (appliances_cooking_01_26) at 10628,10533,0.
+[16-02-23 14:42:47.384] 76561198080689461 "EL-Mao'" removed Stove (appliances_cooking_01_58) at 10628,10534,0.
+[16-02-23 14:44:53.597] 76561198080689461 "EL-Mao'" added Stove (appliances_cooking_01_26) at 10626.0,10567.0,0.0.
+[16-02-23 14:45:08.973] 76561198145393066 "Gym Burger (Double Cheese)" removed Stove (appliances_cooking_01_26) at 10626,10567,0.
+[16-02-23 14:46:23.882] 76561198145393066 "Gym Burger (Double Cheese)" added Stove (appliances_cooking_01_25) at 10676.0,10630.0,0.0.
+[16-02-23 14:46:41.223] 76561198145393066 "Gym Burger (Double Cheese)" removed IsoObject (location_shop_accessories_01_1) at 10675,10630,0.
+[16-02-23 14:46:45.751] 76561198080689461 "EL-Mao'" added Stove (appliances_cooking_01_56) at 10675.0,10630.0,0.0.
+[16-02-23 14:48:33.511] 76561198145393066 "Gym Burger (Double Cheese)" added IsoObject (location_shop_accessories_01_1) at 10674.0,10630.0,0.0.

@@ -1,0 +1,34 @@
+[16-02-23 20:30:08.978] [76561198080689461][EL-Mao'][5683,5765,0][Login][Hours Survived: 37].
+[16-02-23 20:30:08.978] [76561198080689461][EL-Mao'][5683,5765,0][Cooking=0, Fitness=7, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=3, Nimble=2, Sneak=3, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=1, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 37].
+[16-02-23 20:31:59.867] [76561198145393066][Gym Burger (Maximum Cheese)][5705,5777,0][Login][Hours Survived: 35].
+[16-02-23 20:31:59.870] [76561198145393066][Gym Burger (Maximum Cheese)][5705,5777,0][Cooking=0, Fitness=8, Strength=9, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=1, Woodwork=0, Aiming=3, Reloading=2, Farming=0, Fishing=0, Trapping=1, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=1, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 35].
+[16-02-23 20:33:42.703] [76561198100576317][Muezza][5683,5766,0][Cooking=0, Fitness=8, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=4, Aiming=0, Reloading=0, Farming=0, Fishing=1, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=1, SmallBlade=0, LongBlade=0, SmallBlunt=1, Tailoring=0][Hours Survived: 20].
+[16-02-23 20:33:42.823] [76561198100576317][Muezza][5683,5766,0][Login][Hours Survived: 20].
+[16-02-23 20:34:41.920] [76561198213478008][Trisudar][5581,5907,0][Login][Hours Survived: 0].
+[16-02-23 20:34:41.921] [76561198213478008][Trisudar][5581,5907,0][Cooking=0, Fitness=5, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=3, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[16-02-23 21:13:48.221] [76561198100576317][Muezza][5681,5768,0][Level Changed][Fishing][2][Hours Survived: 43].
+[16-02-23 21:13:54.490] [76561198080689461][EL-Mao'][5681,5768,0][Level Changed][Fishing][1][Hours Survived: 61].
+[16-02-23 21:13:54.531] [76561198145393066][Gym Burger (Maximum Cheese)][5681,5769,0][Level Changed][Fishing][1][Hours Survived: 59].
+[16-02-23 21:25:20.151] [76561198145393066][Gym Burger (Maximum Cheese)][5946,5420,0][Level Changed][Sprinting][1][Hours Survived: 64].
+[16-02-23 21:36:58.558] [76561198145393066][Gym Burger (Maximum Cheese)][5727,5733,0][Died][Hours Survived: 68].
+[16-02-23 21:39:49.076] [76561198145393066][Gym Burger (Maximum Cheese)][5574,5903,0][Created Player 1][Hours Survived: 0].
+[16-02-23 21:39:49.076] [76561198145393066][Gym Burger (Maximum Cheese)][5574,5903,0][Cooking=0, Fitness=8, Strength=9, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=1, Woodwork=0, Aiming=3, Reloading=2, Farming=0, Fishing=0, Trapping=1, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=1, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[16-02-23 21:55:20.862] [76561198213478008][Trisudar][5685,5766,0][Died][Hours Survived: 39].
+[16-02-23 22:41:04.932] [76561198080689461][EL-Mao'][5689,5768,0][Level Changed][Lightfoot][4][Hours Survived: 106].
+[16-02-23 22:41:36.886] [76561198080689461][EL-Mao'][5690,5766,0][Level Changed][Sprinting][1][Hours Survived: 106].
+[16-02-23 22:51:36.291] [76561198100576317][Muezza][5695,5769,0][Died][Hours Survived: 92].
+[16-02-23 22:55:49.823] [76561198100576317][Muezza][5574,5903,0][Created Player 1][Hours Survived: 0].
+[16-02-23 22:55:49.823] [76561198100576317][Muezza][5574,5903,0][Cooking=0, Fitness=8, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=4, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=1, SmallBlade=0, LongBlade=0, SmallBlunt=1, Tailoring=1][Hours Survived: 0].
+[16-02-23 23:00:54.302] [76561198080689461][EL-Mao'][5681,5768,0][Level Changed][Woodwork][1][Hours Survived: 128].
+[16-02-23 23:02:54.671] [76561198145393066][Gym Burger (Maximum Cheese)][5681,5769,0][Level Changed][Trapping][2][Hours Survived: 57].
+[16-02-23 23:02:59.495] [76561198080689461][EL-Mao'][5681,5768,0][Level Changed][Trapping][1][Hours Survived: 129].
+[16-02-23 23:02:59.561] [76561198100576317][Muezza][5681,5768,0][Level Changed][Trapping][1][Hours Survived: 2].
+[16-02-23 23:03:07.637] [76561198145393066][Gym Burger (Maximum Cheese)][5681,5769,0][Level Changed][Trapping][3][Hours Survived: 57].
+[16-02-23 23:22:59.405] [76561198145393066][Gym Burger (Maximum Cheese)][5683,5766,0][Level Changed][Sprinting][1][Hours Survived: 65].
+[16-02-23 23:29:20.029] [76561198080689461][EL-Mao'][5692,5810,0][Level Changed][Maintenance][1][Hours Survived: 149].
+[16-02-23 23:52:30.883] [76561198080689461][EL-Mao'][5782,5790,0][Level Changed][Mechanics][2][Hours Survived: 158].
+[17-02-23 00:10:27.100] [76561198080689461][EL-Mao'][5955,5274,0][Level Changed][Sneak][4][Hours Survived: 179].
+[17-02-23 00:32:47.498] [76561198145393066][Gym Burger (Maximum Cheese)][5612,5444,0][Died][Hours Survived: 116].
+[17-02-23 00:34:27.204] [76561198145393066][Gym Burger (Maximum Cheese)][5686,5763,0][Created Player 1][Hours Survived: 0].
+[17-02-23 00:34:27.204] [76561198145393066][Gym Burger (Maximum Cheese)][5686,5763,0][Cooking=0, Fitness=8, Strength=9, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=2, Reloading=2, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[17-02-23 01:26:30.760] [76561198080689461][EL-Mao'][5522,6078,0][Level Changed][Spear][1][Hours Survived: 223].

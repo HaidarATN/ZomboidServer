@@ -1,0 +1,12 @@
+[14-02-23 05:29:53.809] 76561198080689461 "EL-Mao'" container -1 8126,11590,1 [Base.BookMetalWelding4].
+[14-02-23 05:29:56.809] 76561198080689461 "EL-Mao'" container -2 8126,11590,1 [Base.BookTailoring2, Base.ComicBook].
+[14-02-23 05:30:05.815] 76561198080689461 "EL-Mao'" container -1 8124,11592,1 [Base.Antibiotics].
+[14-02-23 05:30:08.816] 76561198080689461 "EL-Mao'" container -2 8124,11592,1 [Base.Bandage].
+[14-02-23 05:30:11.808] 76561198080689461 "EL-Mao'" container -1 8124,11592,1 [Base.Tweezers].
+[14-02-23 05:30:14.814] 76561198080689461 "EL-Mao'" container -1 8124,11592,1 [Base.PipeWrench].
+[14-02-23 05:30:23.814] 76561198080689461 "EL-Mao'" container -3 8124,11591,1 [Base.Bandaid, Base.Pills].
+[14-02-23 05:30:29.816] 76561198080689461 "EL-Mao'" container -1 8124,11591,1 [Base.SewingKit].
+[14-02-23 05:30:41.810] 76561198080689461 "EL-Mao'" container -1 8131,11598,1 [Base.PillsAntiDep].
+[14-02-23 05:31:41.810] 76561198080689461 "EL-Mao'" container -1 8122,11593,0 [Base.LouisvilleMap7].
+[14-02-23 05:32:26.811] 76561198080689461 "EL-Mao'" container -1 8130,11598,0 [Base.TinOpener].
+[14-02-23 05:32:29.807] 76561198080689461 "EL-Mao'" container -2 8130,11598,0 [Base.TinnedSoup, Base.TunaTin].

@@ -1,0 +1,20 @@
+[14-02-23 04:16:17.269] added connection index=0 127.0.0.1.
+[14-02-23 04:16:18.030] 76561198080689461 "EL-Mao'" attempting to join.
+[14-02-23 04:16:18.030] 76561198080689461 "EL-Mao'" allowed to join.
+[14-02-23 04:19:00.537] 76561198080689461 "EL-Mao'" attempting to join used queue.
+[14-02-23 04:19:09.361] player EL-Mao' loading time was: 8481 ms.
+[14-02-23 04:19:10.580] 76561198080689461 "EL-Mao'" fully connected (6361,5325,0).
+[14-02-23 04:19:43.560] added connection index=1 74.20.246.182.
+[14-02-23 04:19:44.415] 76561198100576317 "Muezza" attempting to join.
+[14-02-23 04:19:44.415] 76561198100576317 "Muezza" allowed to join.
+[14-02-23 04:19:53.945] added connection index=2 239.205.148.183.
+[14-02-23 04:19:54.674] 76561198145393066 "Unto Gayungan S.E.I." attempting to join.
+[14-02-23 04:19:54.674] 76561198145393066 "Unto Gayungan S.E.I." allowed to join.
+[14-02-23 04:20:17.501] 76561198145393066 "Unto Gayungan S.E.I." attempting to join used queue.
+[14-02-23 04:20:25.969] player Unto Gayungan S.E.I. loading time was: 7844 ms.
+[14-02-23 04:20:39.176] 76561198100576317 "Muezza" attempting to join used queue.
+[14-02-23 04:20:55.499] 76561198145393066 "Unto Gayungan S.E.I." fully connected (6361,5325,0).
+[14-02-23 04:21:19.267] player Muezza loading time was: 39744 ms.
+[14-02-23 04:21:43.577] 76561198100576317 "Muezza" fully connected (6361,5325,0).
+[14-02-23 04:35:34.270] 76561198080689461 "EL-Mao'" removed connection index=0.
+[14-02-23 04:35:34.283] 76561198080689461 "EL-Mao'" disconnected player (6305,5186,0).

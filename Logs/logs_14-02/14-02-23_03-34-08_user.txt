@@ -1,0 +1,11 @@
+[14-02-23 03:34:08.337] added connection index=0 127.0.0.1.
+[14-02-23 03:34:09.059] 76561198080689461 "EL-Mao'" attempting to join.
+[14-02-23 03:34:09.059] 76561198080689461 "EL-Mao'" allowed to join.
+[14-02-23 03:34:16.849] 76561198080689461 "EL-Mao'" attempting to join used queue.
+[14-02-23 03:34:30.255] player EL-Mao' loading time was: 13113 ms.
+[14-02-23 03:34:32.308] 76561198080689461 "EL-Mao'" fully connected (11875,6949,0).
+[14-02-23 03:34:41.017] user EL-Mao' died at (11875,6948,0) (non pvp).
+[14-02-23 03:34:56.620] 76561198080689461 "EL-Mao'" disconnected player (11875,6948,0).
+[14-02-23 03:34:59.084] 76561198080689461 "EL-Mao'" fully connected (11831,6911,0).
+[14-02-23 03:38:29.981] 76561198080689461 "EL-Mao'" removed connection index=0.
+[14-02-23 03:38:29.997] 76561198080689461 "EL-Mao'" disconnected player (11831,6911,0).

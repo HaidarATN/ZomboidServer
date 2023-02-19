@@ -1,0 +1,70 @@
+[14-02-23 17:19:17.718] 76561198080689461 "EL-Mao'" container -1 8130,11598,0 [Base.CarKey].
+[14-02-23 17:19:35.722] 76561198080689461 "EL-Mao'" container -3 8133,11598,0 [Base.CannedCornedBeef, Base.Dogfood, Base.TunaTin].
+[14-02-23 17:19:50.714] 76561198080689461 "EL-Mao'" container -1 8126,11590,0 [Base.BathTowel].
+[14-02-23 17:20:02.718] 76561198080689461 "EL-Mao'" container -1 8126,11590,0 [Base.MagazineWordsearch3].
+[14-02-23 17:20:32.721] 76561198080689461 "EL-Mao'" container -1 8126,11590,1 [Base.BookMetalWelding1].
+[14-02-23 17:20:35.714] 76561198080689461 "EL-Mao'" container -2 8126,11590,1 [Base.CookingMag2, Base.BookElectrician2].
+[14-02-23 17:20:38.715] 76561198080689461 "EL-Mao'" container -1 8126,11590,1 [Base.BookTrapping2].
+[14-02-23 17:20:47.721] 76561198080689461 "EL-Mao'" container -2 8126,11593,1 [Base.Magazine, Base.Pistol2].
+[14-02-23 17:20:59.812] 76561198080689461 "EL-Mao'" floor +1 8126,11592,1 [Base.Magazine].
+[14-02-23 17:21:17.724] 76561198080689461 "EL-Mao'" container -1 8124,11591,1 [Base.Bandaid].
+[14-02-23 17:21:20.718] 76561198080689461 "EL-Mao'" container -1 8124,11591,1 [Base.PipeWrench].
+[14-02-23 17:23:20.725] 76561198080689461 "EL-Mao'" container -1 8129,11592,0 [Base.WristWatch_Left_DigitalBlack].
+[14-02-23 17:25:38.715] 76561198080689461 "EL-Mao'" container -1 8116,11592,0 [Base.ButterKnife].
+[14-02-23 17:26:44.715] 76561198080689461 "EL-Mao'" container -1 8125,11638,0 [Base.BookCarpentry1].
+[14-02-23 17:28:32.451] 76561198080689461 "EL-Mao'" floor +1 8123,11642,0 [Base.UnusableWood].
+[14-02-23 17:28:32.452] 76561198080689461 "EL-Mao'" floor +1 8123,11642,0 [Base.Doorknob].
+[14-02-23 17:28:32.453] 76561198080689461 "EL-Mao'" floor +1 8123,11642,0 [Base.Hinge].
+[14-02-23 17:29:53.718] 76561198080689461 "EL-Mao'" container -2 8129,11639,0 [Base.Trousers_Denim, Base.Scissors].
+[14-02-23 17:29:56.719] 76561198080689461 "EL-Mao'" container +0 8129,11639,0 [Base.Scissors].
+[14-02-23 17:30:20.721] 76561198080689461 "EL-Mao'" container -20 8129,11639,0 [Base.Cigarettes].
+[14-02-23 17:31:14.716] 76561198080689461 "EL-Mao'" container -1 8123,11645,0 [Base.Cheese].
+[14-02-23 17:31:20.719] 76561198080689461 "EL-Mao'" container -1 8123,11645,0 [Base.Cherry].
+[14-02-23 17:31:29.714] 76561198080689461 "EL-Mao'" container -1 8123,11645,0 [farming.Tomato].
+[14-02-23 17:31:47.714] 76561198080689461 "EL-Mao'" container -1 8125,11638,0 [Base.Magazine].
+[14-02-23 17:32:14.723] 76561198080689461 "EL-Mao'" container -1 8126,11645,0 [Base.TinOpener].
+[14-02-23 17:32:20.723] 76561198080689461 "EL-Mao'" container -2 8127,11645,0 [Base.CannedPotato2, Base.TunaTin].
+[14-02-23 17:32:23.724] 76561198080689461 "EL-Mao'" container -5 8127,11645,0 [Base.CannedMushroomSoup, Base.TinnedSoup, Base.TinnedBeans, Base.CannedPeaches, Base.CannedPineapple].
+[14-02-23 17:37:02.716] 76561198080689461 "EL-Mao'" container -1 8126,11617,0 [Base.BookFarming3].
+[14-02-23 17:37:32.723] 76561198080689461 "EL-Mao'" container -1 8128,11622,0 [Base.Milk].
+[14-02-23 17:37:47.714] 76561198080689461 "EL-Mao'" container -1 8128,11623,0 [Base.MeatCleaver].
+[14-02-23 17:39:56.723] 76561198080689461 "EL-Mao'" container -1 8123,11619,1 [Base.Bullets9mmBox].
+[14-02-23 17:40:44.718] 76561198080689461 "EL-Mao'" container +0 8123,11619,1 [Base.Pistol2].
+[14-02-23 17:40:50.716] 76561198080689461 "EL-Mao'" container -1 8123,11619,1 [Base.Pistol].
+[14-02-23 17:41:23.267] 76561198145393066 "Unto Gayungan S.E.I." container -2 8129,11592,0 [Base.Socks_Long, Base.Ring_Left_RingFinger_Gold].
+[14-02-23 17:41:26.269] 76561198145393066 "Unto Gayungan S.E.I." container -3 8129,11592,0 [Base.Vest_DefaultTEXTURE_TINT, Base.Shirt_Denim, Base.Trousers_JeanBaggy].
+[14-02-23 17:41:29.263] 76561198145393066 "Unto Gayungan S.E.I." container -1 8129,11592,0 [Base.Shoes_TrainerTINT].
+[14-02-23 17:41:55.085] 76561198145393066 "Unto Gayungan S.E.I." floor +1 8127,11590,0 [Base.Trousers_JeanBaggy].
+[14-02-23 17:41:55.321] 76561198145393066 "Unto Gayungan S.E.I." floor +1 8127,11590,0 [Base.Shirt_Denim].
+[14-02-23 17:41:55.336] 76561198145393066 "Unto Gayungan S.E.I." floor +1 8127,11590,0 [Base.Socks_Long].
+[14-02-23 17:41:55.448] 76561198145393066 "Unto Gayungan S.E.I." floor +1 8127,11590,0 [Base.Shoes_TrainerTINT].
+[14-02-23 17:41:55.574] 76561198145393066 "Unto Gayungan S.E.I." floor +1 8127,11590,0 [Base.Vest_DefaultTEXTURE_TINT].
+[14-02-23 17:42:23.720] 76561198080689461 "EL-Mao'" container -1 8124,11621,1 [Base.Gloves_LeatherGlovesBlack].
+[14-02-23 17:42:26.267] 76561198145393066 "Unto Gayungan S.E.I." container -1 8129,11592,0 [Base.Socks_Ankle].
+[14-02-23 17:42:29.257] 76561198145393066 "Unto Gayungan S.E.I." container -1 8129,11592,0 [Base.Tshirt_PoloTINT].
+[14-02-23 17:43:19.086] 76561198145393066 "Unto Gayungan S.E.I." floor +1 8129,11591,0 [Base.Glasses_Normal].
+[14-02-23 17:43:20.520] 76561198145393066 "Unto Gayungan S.E.I." floor +1 8129,11591,0 [Base.Hat_ChefHat].
+[14-02-23 17:43:51.640] 76561198145393066 "Unto Gayungan S.E.I." floor +1 8128,11593,0 [Base.Hat_Cowboy].
+[14-02-23 17:43:56.578] 76561198080689461 "EL-Mao'" floor +1 8128,11593,0 [Base.Hat_Cowboy].
+[14-02-23 17:44:17.259] 76561198145393066 "Unto Gayungan S.E.I." container -1 8130,11592,0 [Base.Socks_Long].
+[14-02-23 17:44:32.283] 76561198145393066 "Unto Gayungan S.E.I." container -1 8129,11592,0 [Base.ButterKnife].
+[14-02-23 17:46:17.280] 76561198145393066 "Unto Gayungan S.E.I." container -1 8122,11593,1 [Base.Shirt_FormalWhite_ShortSleeve].
+[14-02-23 17:46:23.257] 76561198145393066 "Unto Gayungan S.E.I." container -1 8122,11593,1 [Base.Trousers_DefaultTEXTURE].
+[14-02-23 17:46:29.270] 76561198145393066 "Unto Gayungan S.E.I." container -1 8122,11593,1 [Base.Tshirt_SportDECAL].
+[14-02-23 17:49:08.262] 76561198145393066 "Unto Gayungan S.E.I." container -1 8129,11598,0 [Base.MeatPatty].
+[14-02-23 17:49:37.511] 76561198080689461 "EL-Mao'" floor +1 8130,11594,0 [Base.Gloves_LeatherGlovesBlack].
+[14-02-23 17:49:42.311] 76561198080689461 "EL-Mao'" floor +1 8130,11594,0 [Base.Socks_Long].
+[14-02-23 17:49:47.258] 76561198145393066 "Unto Gayungan S.E.I." container -1 8130,11598,0 [Base.GridlePan].
+[14-02-23 17:51:02.257] 76561198145393066 "Unto Gayungan S.E.I." container +0 8132,11598,0 [Base.RippedSheetsDirty].
+[14-02-23 17:51:20.253] 76561198145393066 "Unto Gayungan S.E.I." container +0 8130,11598,0 [Base.MeatPatty].
+[14-02-23 17:51:23.263] 76561198145393066 "Unto Gayungan S.E.I." container -1 8130,11598,0 [Base.MeatPatty].
+[14-02-23 17:51:50.254] 76561198145393066 "Unto Gayungan S.E.I." container +0 8131,11598,0 [Base.MeatPatty].
+[14-02-23 17:52:04.211] 76561198080689461 "EL-Mao'" floor +1 8125,11593,1 [Base.ButterKnife].
+[14-02-23 17:52:15.501] 76561198080689461 "EL-Mao'" floor +1 8126,11591,1 [Base.CarKey].
+[14-02-23 17:53:02.278] 76561198145393066 "Unto Gayungan S.E.I." container -1 8131,11598,0 [Base.MeatPatty].
+[14-02-23 17:53:54.270] 76561198145393066 "Unto Gayungan S.E.I." floor +1 8130,11593,0 [Base.Hat_BaseballCap].
+[14-02-23 17:54:03.924] 76561198145393066 "Unto Gayungan S.E.I." floor +1 8134,11595,0 [Base.Hat_BaseballCapKY].
+[14-02-23 17:54:09.204] 76561198080689461 "EL-Mao'" floor +1 8121,11604,0 [Base.Hat_BaseballCapKY].
+[14-02-23 17:54:21.949] 76561198080689461 "EL-Mao'" floor +1 8122,11606,0 [Base.Pistol].
+[14-02-23 17:54:30.637] 76561198145393066 "Unto Gayungan S.E.I." floor +1 8123,11605,0 [Base.Glasses_Normal].
+[14-02-23 17:54:34.519] 76561198145393066 "Unto Gayungan S.E.I." floor +1 8122,11603,0 [Base.GridlePan].

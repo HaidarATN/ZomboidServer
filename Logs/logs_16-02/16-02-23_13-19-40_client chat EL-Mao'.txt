@@ -1,0 +1,33 @@
+[16-02-23 13:19:40.768][info] Init chat system....
+[16-02-23 13:19:40.768][info] Mode: multiplayer.
+[16-02-23 13:19:40.768][info] Chat owner: EL-Mao'.
+[16-02-23 14:05:58.340][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:05:58.473][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 14:05:58.623][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:05:58.757][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:05:58.907][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:00.024][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:06:00.141][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:06:00.274][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:00.508][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:06:01.241][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:01.424][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:07.958][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:08.141][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:09.458][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 14:06:09.575][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:10.625][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:14.210][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:14.525][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 14:06:16.025][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 14:06:18.325][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:06:19.492][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:06:21.593][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 14:06:21.743][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:24.060][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:06:24.259][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:29.126][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:06:58.794][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY YOU!'}.
+[16-02-23 14:06:58.994][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='HEY!'}.
+[16-02-23 14:06:59.143][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.
+[16-02-23 14:06:59.327][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger (Double Cheese)', text='OVER HERE!'}.

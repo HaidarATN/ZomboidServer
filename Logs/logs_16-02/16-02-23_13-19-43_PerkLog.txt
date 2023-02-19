@@ -1,0 +1,9 @@
+[16-02-23 13:19:43.315] [76561198080689461][EL-Mao'][10670,10622,0][Login][Hours Survived: 61].
+[16-02-23 13:19:43.316] [76561198080689461][EL-Mao'][10670,10622,0][Cooking=0, Fitness=3, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=3, Nimble=2, Sneak=3, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 61].
+[16-02-23 13:45:36.008] [76561198145393066][Gym Burger (Double Cheese)][10670,10621,0][Login][Hours Survived: 21].
+[16-02-23 13:45:36.009] [76561198145393066][Gym Burger (Double Cheese)][10670,10621,0][Cooking=0, Fitness=10, Strength=9, Blunt=0, Axe=0, Sprinting=2, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 21].
+[16-02-23 13:48:09.522] [76561198145393066][Gym Burger (Double Cheese)][10626,10458,0][Died][Hours Survived: 22].
+[16-02-23 13:50:10.335] [76561198145393066][Gym Burger (Double Cheese)][10698,10449,0][Created Player 1][Hours Survived: 0].
+[16-02-23 13:50:10.336] [76561198145393066][Gym Burger (Double Cheese)][10698,10449,0][Cooking=0, Fitness=8, Strength=9, Blunt=0, Axe=0, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=2, Reloading=2, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[16-02-23 14:40:42.517] [76561198080689461][EL-Mao'][10638,10601,0][Level Changed][Sprinting][1][Hours Survived: 94].
+[16-02-23 14:54:59.107] [76561198145393066][Gym Burger (Double Cheese)][10674,10564,0][Died][Hours Survived: 25].

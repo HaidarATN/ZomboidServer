@@ -1,0 +1,179 @@
+[17-02-23 21:30:25.129] 76561198100576317 "Muezza" removed Radio () at 5683,5769,1.
+[17-02-23 21:30:32.236] 76561198100576317 "Muezza" added Radio () at 5680.0,5768.0,1.0.
+[17-02-23 21:30:40.108] 76561198100576317 "Muezza" removed Radio () at 5680,5768,1.
+[17-02-23 21:31:27.763] 76561198100576317 "Muezza" added Radio () at 5682.0,5769.0,1.0.
+[17-02-23 21:39:41.315] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5697.0,5761.0,0.0.
+[17-02-23 21:41:15.178] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5755.0,0.0.
+[17-02-23 21:41:32.680] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_57) at 6416,5260,0.
+[17-02-23 21:42:03.192] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_57) at 6419,5257,0.
+[17-02-23 21:42:43.530] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5679.0,5755.0,0.0.
+[17-02-23 21:43:57.686] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5756.0,0.0.
+[17-02-23 21:45:33.442] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5757.0,0.0.
+[17-02-23 21:47:24.676] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5758.0,0.0.
+[17-02-23 21:48:50.080] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5759.0,0.0.
+[17-02-23 21:50:01.265] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_57) at 6438,5257,0.
+[17-02-23 22:42:23.895] 76561198080689461 "EL-Mao'" removed American Linden (e_americanlindenJUMBO_1_0) at 5683,5802,0.
+[17-02-23 22:42:47.163] 76561198080689461 "EL-Mao'" removed Redmaple (e_redmapleJUMBO_1_0) at 5685,5800,0.
+[17-02-23 22:43:09.529] 76561198080689461 "EL-Mao'" removed American Linden (e_americanlindenJUMBO_1_0) at 5683,5798,0.
+[17-02-23 22:43:30.509] 76561198080689461 "EL-Mao'" removed Redmaple (e_redmapleJUMBO_1_0) at 5685,5797,0.
+[17-02-23 22:45:11.247] 76561198080689461 "EL-Mao'" removed Virginia Pine (e_virginiapineJUMBO_1_1) at 5677,5800,0.
+[17-02-23 22:45:36.481] 76561198080689461 "EL-Mao'" removed Virginia Pine (e_virginiapineJUMBO_1_0) at 5677,5802,0.
+[17-02-23 22:46:06.542] 76561198080689461 "EL-Mao'" removed Yellowwood (e_yellowwoodJUMBO_1_0) at 5679,5803,0.
+[17-02-23 22:46:40.945] 76561198080689461 "EL-Mao'" removed American Holly (e_americanhollyJUMBO_1_1) at 5679,5808,0.
+[17-02-23 22:46:47.576] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_54) at 5687.0,5759.0,0.0.
+[17-02-23 22:47:03.530] 76561198080689461 "EL-Mao'" removed Redmaple (e_redmapleJUMBO_1_0) at 5680,5805,0.
+[17-02-23 22:47:33.269] 76561198080689461 "EL-Mao'" removed American Holly (e_americanhollyJUMBO_1_1) at 5681,5807,0.
+[17-02-23 22:48:20.874] 76561198080689461 "EL-Mao'" removed Redmaple (e_redmapleJUMBO_1_1) at 5683,5808,0.
+[17-02-23 22:48:43.446] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_54) at 5687.0,5760.0,0.0.
+[17-02-23 22:50:27.379] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5760.0,0.0.
+[17-02-23 22:51:43.312] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5761.0,0.0.
+[17-02-23 22:52:07.541] 76561198145393066 "Gym Burger (Maximum Cheese)" added EmptyGraves (location_community_cemetary_01_34) at 5692.0,5770.0,0.0.
+[17-02-23 22:52:07.638] 76561198145393066 "Gym Burger (Maximum Cheese)" added EmptyGraves (location_community_cemetary_01_35) at 5692.0,5769.0,0.0.
+[17-02-23 22:52:40.283] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5764.0,0.0.
+[17-02-23 22:52:43.080] 76561198080689461 "EL-Mao'" removed Canadian Hemlock (e_canadianhemlockJUMBO_1_1) at 5676,5806,0.
+[17-02-23 22:53:11.841] 76561198080689461 "EL-Mao'" removed Dogwood (e_dogwoodJUMBO_1_0) at 5677,5804,0.
+[17-02-23 22:54:00.412] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5765.0,0.0.
+[17-02-23 22:54:55.421] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Yellowwood (e_yellowwoodJUMBO_1_0) at 5674,5798,0.
+[17-02-23 22:56:07.741] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5762.0,0.0.
+[17-02-23 22:58:49.814] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Redmaple (e_redmaple_1_2) at 5702,5797,0.
+[17-02-23 23:00:19.726] 76561198100576317 "Muezza" added Wooden Crate (carpentry_01_19) at 5687.0,5762.0,0.0.
+[17-02-23 23:04:03.115] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5763.0,0.0.
+[17-02-23 23:11:46.990] 76561198100576317 "Muezza" added Wooden Crate (carpentry_01_19) at 5687.0,5761.0,0.0.
+[17-02-23 23:23:30.631] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5766.0,0.0.
+[17-02-23 23:24:29.515] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Yellowwood (e_yellowwoodJUMBO_1_0) at 5671,5793,0.
+[17-02-23 23:24:36.953] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5767.0,0.0.
+[17-02-23 23:25:01.744] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Virginia Pine (e_virginiapineJUMBO_1_1) at 5666,5791,0.
+[17-02-23 23:25:02.637] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5768.0,0.0.
+[17-02-23 23:26:32.675] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5683.0,5773.0,0.0.
+[17-02-23 23:41:07.142] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5682.0,5773.0,0.0.
+[17-02-23 23:42:07.449] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5680.0,5755.0,0.0.
+[18-02-23 00:07:14.211] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_57) at 6352,5307,0.
+[18-02-23 00:20:14.528] 76561198100576317 "Muezza" removed Door (fixtures_doors_01_44) at 6369,5313,0.
+[18-02-23 00:37:44.529] 76561198080689461 "EL-Mao'" removed Redmaple (e_redmapleJUMBO_1_0) at 5699,5809,0.
+[18-02-23 00:38:08.347] 76561198080689461 "EL-Mao'" removed Redmaple (e_redmapleJUMBO_1_0) at 5695,5813,0.
+[18-02-23 00:39:34.279] 76561198080689461 "EL-Mao'" removed Virginia Pine (e_virginiapineJUMBO_1_0) at 5695,5816,0.
+[18-02-23 00:40:46.945] 76561198080689461 "EL-Mao'" removed American Holly (e_americanhollyJUMBO_1_0) at 5698,5815,0.
+[18-02-23 00:41:34.698] 76561198080689461 "EL-Mao'" removed Virginia Pine (e_virginiapineJUMBO_1_1) at 5694,5820,0.
+[18-02-23 00:41:40.316] 76561198080689461 "EL-Mao'" removed Virginia Pine (e_virginiapineJUMBO_1_0) at 5697,5818,0.
+[18-02-23 00:42:07.815] 76561198080689461 "EL-Mao'" removed Virginia Pine (e_virginiapineJUMBO_1_0) at 5699,5818,0.
+[18-02-23 00:42:34.999] 76561198080689461 "EL-Mao'" removed Virginia Pine (e_virginiapineJUMBO_1_0) at 5691,5818,0.
+[18-02-23 00:43:01.759] 76561198080689461 "EL-Mao'" removed Canadian Hemlock (e_canadianhemlockJUMBO_1_0) at 5689,5818,0.
+[18-02-23 00:43:23.955] 76561198080689461 "EL-Mao'" removed Redmaple (e_redmapleJUMBO_1_0) at 5688,5814,0.
+[18-02-23 00:43:56.881] 76561198080689461 "EL-Mao'" removed American Holly (e_americanhollyJUMBO_1_0) at 5683,5811,0.
+[18-02-23 00:44:18.469] 76561198080689461 "EL-Mao'" removed American Linden (e_americanlindenJUMBO_1_0) at 5684,5813,0.
+[18-02-23 00:49:09.090] 76561198100576317 "Muezza" added Shelves (carpentry_02_68) at 5683.0,5762.0,0.0.
+[18-02-23 00:49:17.826] 76561198100576317 "Muezza" added Shelves (carpentry_02_68) at 5683.0,5763.0,0.0.
+[18-02-23 00:52:33.602] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5681.0,5755.0,0.0.
+[18-02-23 00:53:06.758] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5682.0,5755.0,0.0.
+[18-02-23 00:54:28.739] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5769.0,0.0.
+[18-02-23 00:54:57.525] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5770.0,0.0.
+[18-02-23 00:55:16.837] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5771.0,0.0.
+[18-02-23 00:57:33.062] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5679.0,5772.0,0.0.
+[18-02-23 00:57:57.613] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5680.0,5773.0,0.0.
+[18-02-23 01:09:19.737] 76561198100576317 "Muezza" removed Virginia Pine (e_virginiapine_1_3) at 5711,5796,0.
+[18-02-23 01:09:45.042] 76561198100576317 "Muezza" removed American Holly (e_americanholly_1_3) at 5710,5798,0.
+[18-02-23 01:09:55.872] 76561198100576317 "Muezza" removed Canadian Hemlock (e_canadianhemlock_1_2) at 5713,5798,0.
+[18-02-23 01:10:06.480] 76561198100576317 "Muezza" removed Virginia Pine (e_virginiapine_1_2) at 5712,5799,0.
+[18-02-23 01:11:00.229] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5679.0,5773.0,0.0.
+[18-02-23 01:14:28.439] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5681.0,5773.0,0.0.
+[18-02-23 01:15:17.686] 76561198100576317 "Muezza" removed American Holly (e_americanholly_1_3) at 5710,5800,0.
+[18-02-23 01:15:36.313] 76561198100576317 "Muezza" removed American Linden (e_americanlinden_1_3) at 5708,5804,0.
+[18-02-23 01:15:45.531] 76561198100576317 "Muezza" removed Virginia Pine (e_virginiapine_1_3) at 5706,5801,0.
+[18-02-23 01:17:00.440] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5683.0,5755.0,0.0.
+[18-02-23 01:17:49.331] 76561198100576317 "Muezza" removed Canadian Hemlock (e_canadianhemlock_1_2) at 5705,5801,0.
+[18-02-23 01:28:52.600] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5684.0,5755.0,0.0.
+[18-02-23 01:40:53.579] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Redmaple (e_redmapleJUMBO_1_0) at 5686,5814,0.
+[18-02-23 01:42:26.540] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5685.0,5755.0,0.0.
+[18-02-23 01:42:47.553] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5686.0,5755.0,0.0.
+[18-02-23 01:43:01.062] 76561198145393066 "Gym Burger (Maximum Cheese)" removed American Holly (e_americanholly_1_3) at 5704,5802,0.
+[18-02-23 01:43:13.745] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Canadian Hemlock (e_canadianhemlock_1_3) at 5704,5803,0.
+[18-02-23 01:43:24.301] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Virginia Pine (e_virginiapine_1_2) at 5705,5806,0.
+[18-02-23 01:43:34.247] 76561198145393066 "Gym Burger (Maximum Cheese)" removed American Linden (e_americanlinden_1_3) at 5704,5807,0.
+[18-02-23 01:45:53.989] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5687.0,5755.0,0.0.
+[18-02-23 01:46:13.054] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5688.0,5755.0,0.0.
+[18-02-23 01:51:12.765] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Virginia Pine (e_virginiapine_1_2) at 5700,5805,0.
+[18-02-23 01:51:17.930] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Virginia Pine (e_virginiapine_1_2) at 5701,5804,0.
+[18-02-23 01:51:26.825] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Virginia Pine (e_virginiapine_1_2) at 5701,5805,0.
+[18-02-23 01:51:35.608] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Virginia Pine (e_virginiapine_1_2) at 5702,5806,0.
+[18-02-23 01:51:42.262] 76561198145393066 "Gym Burger (Maximum Cheese)" removed American Holly (e_americanholly_1_2) at 5701,5806,0.
+[18-02-23 01:51:51.449] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Redmaple (e_redmaple_1_2) at 5700,5806,0.
+[18-02-23 01:52:47.980] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5689.0,5755.0,0.0.
+[18-02-23 01:53:56.847] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5690.0,5755.0,0.0.
+[18-02-23 02:11:17.651] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Redmaple (e_redmaple_1_2) at 5700,5807,0.
+[18-02-23 02:11:24.721] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Canadian Hemlock (e_canadianhemlock_1_2) at 5701,5807,0.
+[18-02-23 02:11:32.613] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Canadian Hemlock (e_canadianhemlock_1_2) at 5702,5807,0.
+[18-02-23 02:11:40.351] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Virginia Pine (e_virginiapine_1_3) at 5703,5808,0.
+[18-02-23 02:11:47.738] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Redmaple (e_redmaple_1_2) at 5702,5808,0.
+[18-02-23 02:11:55.151] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Redmaple (e_redmaple_1_2) at 5701,5808,0.
+[18-02-23 02:12:03.437] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Virginia Pine (e_virginiapine_1_2) at 5700,5808,0.
+[18-02-23 02:14:00.284] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5697.0,5760.0,0.0.
+[18-02-23 02:14:11.362] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5691.0,5755.0,0.0.
+[18-02-23 02:14:38.690] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Virginia Pine (e_virginiapine_1_3) at 5703,5809,0.
+[18-02-23 02:14:49.020] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Virginia Pine (e_virginiapine_1_2) at 5708,5806,0.
+[18-02-23 02:14:59.051] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Virginia Pine (e_virginiapine_1_3) at 5709,5809,0.
+[18-02-23 02:15:39.735] 76561198145393066 "Gym Burger (Maximum Cheese)" removed American Holly (e_americanholly_1_2) at 5708,5812,0.
+[18-02-23 02:15:51.471] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5697.0,5759.0,0.0.
+[18-02-23 02:17:01.523] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5691.0,5773.0,0.0.
+[18-02-23 02:18:02.932] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5692.0,5773.0,0.0.
+[18-02-23 02:18:53.005] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5693.0,5773.0,0.0.
+[18-02-23 02:19:17.514] 76561198080689461 "EL-Mao'" removed IsoObject (location_business_office_generic_01_48) at 5793,5428,0.
+[18-02-23 02:21:05.947] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5697.0,5758.0,0.0.
+[18-02-23 02:26:57.289] 76561198145393066 "Gym Burger (Maximum Cheese)" added Thumpable (construction_01_8) at 5695.0,5754.0,0.0.
+[18-02-23 02:29:46.546] 76561198080689461 "EL-Mao'" added Thumpable (location_business_office_generic_01_48) at 5683.0,5763.0,0.0.
+[18-02-23 02:30:22.227] 76561198080689461 "EL-Mao'" removed IsoObject (vegetation_indoor_01_10) at 5683,5764,0.
+[18-02-23 02:30:29.249] 76561198080689461 "EL-Mao'" added IsoObject (vegetation_indoor_01_10) at 5687.0,5766.0,0.0.
+[18-02-23 02:30:34.677] 76561198080689461 "EL-Mao'" removed Thumpable (location_business_office_generic_01_48) at 5683,5763,0.
+[18-02-23 02:30:43.413] 76561198080689461 "EL-Mao'" added  (location_business_office_generic_01_48) at 5683.0,5764.0,0.0.
+[18-02-23 02:58:00.233] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Stove (appliances_cooking_01_24) at 5738,5274,0.
+[18-02-23 03:05:35.540] 76561198080689461 "EL-Mao'" removed IsoGenerator (appliances_misc_01_0) at 5780,5325,0.
+[18-02-23 03:06:35.751] 76561198080689461 "EL-Mao'" added IsoGenerator (appliances_misc_01_0) at 5790.0,5309.0,0.0.
+[18-02-23 03:07:04.922] 76561198145393066 "Gym Burger (Maximum Cheese)" removed IsoGenerator (appliances_misc_01_0) at 5790,5309,0.
+[18-02-23 03:13:31.453] 76561198145393066 "Gym Burger (Maximum Cheese)" added IsoGenerator (appliances_misc_01_0) at 5684.0,5765.0,0.0.
+[18-02-23 03:19:43.347] 76561198100576317 "Muezza" removed Radio () at 5682,5769,1.
+[18-02-23 03:20:43.460] 76561198080689461 "EL-Mao'" removed Canadian Hemlock (e_canadianhemlockJUMBO_1_0) at 5672,5802,0.
+[18-02-23 03:21:13.807] 76561198080689461 "EL-Mao'" removed Virginia Pine (e_virginiapineJUMBO_1_1) at 5672,5804,0.
+[18-02-23 03:21:43.899] 76561198080689461 "EL-Mao'" removed Canadian Hemlock (e_canadianhemlockJUMBO_1_1) at 5670,5802,0.
+[18-02-23 03:22:15.730] 76561198080689461 "EL-Mao'" removed Virginia Pine (e_virginiapineJUMBO_1_1) at 5674,5806,0.
+[18-02-23 03:24:50.269] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_54) at 5686.0,5758.0,0.0.
+[18-02-23 03:25:09.452] 76561198080689461 "EL-Mao'" removed Canadian Hemlock (e_canadianhemlockJUMBO_1_0) at 5668,5800,0.
+[18-02-23 03:25:30.141] 76561198080689461 "EL-Mao'" removed Dogwood (e_dogwoodJUMBO_1_1) at 5674,5804,0.
+[18-02-23 03:25:45.189] 76561198080689461 "EL-Mao'" removed American Holly (e_americanhollyJUMBO_1_1) at 5672,5807,0.
+[18-02-23 03:25:54.722] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_54) at 5687.0,5758.0,0.0.
+[18-02-23 03:28:43.555] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_1) at 5680,5766,1.
+[18-02-23 03:30:43.845] 76561198100576317 "Muezza" added WoodenDoorFrameLvl2 (walls_exterior_wooden_01_51) at 5694.0,5773.0,0.0.
+[18-02-23 03:31:59.865] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Canadian Hemlock (e_canadianhemlock_1_3) at 5709,5811,0.
+[18-02-23 03:32:07.086] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Canadian Hemlock (e_canadianhemlock_1_2) at 5710,5813,0.
+[18-02-23 03:32:15.078] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Canadian Hemlock (e_canadianhemlock_1_3) at 5712,5812,0.
+[18-02-23 03:32:22.609] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Canadian Hemlock (e_canadianhemlock_1_3) at 5713,5812,0.
+[18-02-23 03:32:50.893] 76561198100576317 "Muezza" added Wooden Door (carpentry_01_53) at 5694.0,5773.0,0.0.
+[18-02-23 03:33:34.295] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5695.0,5773.0,0.0.
+[18-02-23 03:33:50.135] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_0) at 5717,5726,0.
+[18-02-23 03:34:18.440] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5697.0,5771.0,0.0.
+[18-02-23 03:34:37.565] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_0) at 5718,5724,1.
+[18-02-23 03:35:15.913] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_0) at 5718,5726,1.
+[18-02-23 03:35:21.546] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5697.0,5772.0,0.0.
+[18-02-23 03:35:33.216] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Virginia Pine (e_virginiapine_1_2) at 5710,5814,0.
+[18-02-23 03:36:08.922] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_0) at 5716,5731,1.
+[18-02-23 03:36:50.995] 76561198100576317 "Muezza" added Log Wall (carpentry_02_81) at 5696.0,5773.0,0.0.
+[18-02-23 03:37:32.976] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5697.0,5757.0,0.0.
+[18-02-23 03:47:34.185] 76561198100576317 "Muezza" removed Canadian Hemlock (e_canadianhemlock_1_2) at 5684,5737,0.
+[18-02-23 03:49:03.919] 76561198100576317 "Muezza" added Bookcase (carpentry_02_64) at 5681.0,5764.0,0.0.
+[18-02-23 03:55:58.459] 76561198100576317 "Muezza" removed American Holly (e_americanholly_1_3) at 5695,5727,0.
+[18-02-23 03:57:14.420] 76561198100576317 "Muezza" removed Yellowwood (e_yellowwood_1_3) at 5684,5727,0.
+[18-02-23 03:58:11.407] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5697.0,5756.0,0.0.
+[18-02-23 03:58:53.375] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Virginia Pine (e_virginiapine_1_2) at 5703,5813,0.
+[18-02-23 03:59:01.056] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Canadian Hemlock (e_canadianhemlock_1_2) at 5701,5814,0.
+[18-02-23 03:59:08.098] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Virginia Pine (e_virginiapine_1_2) at 5701,5815,0.
+[18-02-23 03:59:15.655] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Canadian Hemlock (e_canadianhemlock_1_2) at 5703,5815,0.
+[18-02-23 03:59:53.246] 76561198080689461 "EL-Mao'" added Radio () at 5714.0,5748.0,0.0.
+[18-02-23 04:00:57.313] 76561198100576317 "Muezza" added Log Wall (carpentry_02_80) at 5697.0,5755.0,0.0.
+[18-02-23 04:27:30.201] 76561198100576317 "Muezza" removed Rain Collector Barrel (carpentry_02_52) at 5916,5241,0.
+[18-02-23 04:27:42.409] 76561198100576317 "Muezza" removed Rain Collector Barrel (carpentry_02_52) at 5916,5240,0.
+[18-02-23 04:32:25.434] 76561198100576317 "Muezza" removed IsoObject (vegetation_indoor_01_10) at 5687,5766,0.
+[18-02-23 04:32:37.467] 76561198100576317 "Muezza" added IsoObject (vegetation_indoor_01_10) at 5685.0,5770.0,0.0.
+[18-02-23 04:32:51.534] 76561198100576317 "Muezza" removed IsoObject (vegetation_indoor_01_10) at 5685,5770,0.
+[18-02-23 04:33:03.487] 76561198100576317 "Muezza" added IsoObject (vegetation_indoor_01_10) at 5683.0,5766.0,0.0.
+[18-02-23 04:33:47.537] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_52) at 5686.0,5764.0,0.0.
+[18-02-23 04:33:54.436] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_52) at 5686.0,5765.0,0.0.
+[18-02-23 04:34:14.396] 76561198100576317 "Muezza" removed IsoObject (vegetation_indoor_01_10) at 5683,5766,0.
+[18-02-23 04:34:23.679] 76561198100576317 "Muezza" added IsoObject (vegetation_indoor_01_10) at 5687.0,5766.0,0.0.

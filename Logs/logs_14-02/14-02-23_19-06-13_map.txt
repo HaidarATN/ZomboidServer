@@ -1,0 +1,13 @@
+[14-02-23 19:06:13.207] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_57) at 6352,5307,0.
+[14-02-23 19:08:47.903] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_45) at 6429,5293,0.
+[14-02-23 19:08:53.915] 76561198100576317 "Muezza" removed Door (fixtures_doors_02_44) at 6375,5211,0.
+[14-02-23 19:09:20.985] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_02_5) at 6435,5379,0.
+[14-02-23 19:09:37.821] 76561198100576317 "Muezza" removed Door (fixtures_doors_02_40) at 6375,5210,0.
+[14-02-23 19:09:57.139] 76561198100576317 "Muezza" removed Door (fixtures_doors_01_57) at 6374,5265,0.
+[14-02-23 19:10:05.095] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_57) at 6356,5307,0.
+[14-02-23 19:10:15.938] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_45) at 6415,5274,0.
+[14-02-23 19:10:16.065] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_57) at 6437,5310,0.
+[14-02-23 19:11:42.146] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_45) at 6403,5274,0.
+[14-02-23 19:11:44.388] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_45) at 6360,5292,0.
+[14-02-23 19:12:04.696] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_60) at 6350,5302,0.
+[14-02-23 19:25:26.843] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_48) at 6303,5251,0.

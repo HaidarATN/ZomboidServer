@@ -1,0 +1,13 @@
+[14-02-23 18:48:15.886] 76561198080689461 "EL-Mao'" container -2 6357,5324,0 [Base.Hammer, Base.NailsBox].
+[14-02-23 18:48:21.881] 76561198080689461 "EL-Mao'" container -1 6357,5324,0 [Base.Hat_HardHat].
+[14-02-23 18:48:36.882] 76561198080689461 "EL-Mao'" container -2 6357,5327,0 [Base.GardenSaw, Base.ScrewsBox].
+[14-02-23 18:48:57.880] 76561198080689461 "EL-Mao'" container -1 6360,5327,0 [Base.Trousers_JeanBaggy].
+[14-02-23 18:49:54.881] 76561198080689461 "EL-Mao'" container -1 6357,5328,0 [Base.SnowShovel].
+[14-02-23 18:50:00.886] 76561198080689461 "EL-Mao'" container -2 6358,5331,0 [Base.NailsBox].
+[14-02-23 18:50:18.881] 76561198080689461 "EL-Mao'" container -2 6362,5331,0 [Base.ScrewsBox, Base.NailsBox].
+[14-02-23 18:50:33.888] 76561198080689461 "EL-Mao'" container -1 6365,5328,0 [Base.DishCloth].
+[14-02-23 18:50:39.890] 76561198080689461 "EL-Mao'" container -1 6365,5326,0 [Base.NailsBox].
+[14-02-23 18:50:45.882] 76561198080689461 "EL-Mao'" container -1 6365,5326,0 [Base.Torch].
+[14-02-23 18:51:24.884] 76561198080689461 "EL-Mao'" container -1 6368,5327,0 [Base.Shorts_ShortFormal].
+[14-02-23 18:51:27.888] 76561198080689461 "EL-Mao'" container -1 6368,5327,0 [Base.Tshirt_WhiteTINT].
+[14-02-23 18:51:33.889] 76561198080689461 "EL-Mao'" container -1 6368,5327,0 [Base.Socks_Ankle].

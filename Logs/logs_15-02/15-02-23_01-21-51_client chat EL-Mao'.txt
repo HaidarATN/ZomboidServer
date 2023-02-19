@@ -1,0 +1,207 @@
+[15-02-23 01:21:51.426][info] Init chat system....
+[15-02-23 01:21:51.426][info] Mode: multiplayer.
+[15-02-23 01:21:51.426][info] Chat owner: EL-Mao'.
+[15-02-23 02:29:53.561][info] Got message from server: ChatMessage{chat=Local, author='Muezza', text='HEY YOU!'}.
+[15-02-23 03:31:16.183][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:17.110][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:17.244][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:17.344][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:17.445][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:17.561][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:17.694][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:17.795][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:17.945][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:18.078][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:18.178][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:18.311][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:18.430][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:18.562][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:18.830][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:18.946][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:19.098][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:19.246][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:19.397][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:19.513][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:19.646][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:19.780][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:19.913][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:20.029][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:20.129][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:20.263][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:20.383][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:20.513][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:20.663][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:20.797][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:20.914][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:21.047][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:21.197][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:21.330][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:21.447][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:21.581][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:21.714][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:21.909][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:22.068][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:22.267][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:22.435][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:22.601][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:22.842][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:22.891][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:23.036][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:23.240][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:23.339][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:23.530][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:23.713][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:23.809][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:23.950][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:24.090][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:24.235][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:24.402][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:24.548][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:24.732][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:24.915][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:25.131][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:25.298][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:25.465][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:25.734][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:25.898][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:26.031][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:26.232][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:26.398][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:26.548][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:26.698][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:26.832][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:26.999][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:27.137][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:27.299][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:27.698][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:27.814][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:27.893][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:27.925][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:28.082][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:28.248][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:28.432][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:28.617][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:28.765][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:28.915][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:29.098][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:29.265][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:29.416][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:29.581][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:29.731][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:29.900][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:30.085][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:30.249][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:30.432][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:30.631][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:30.818][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:30.998][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:31.182][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:31.365][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:31.550][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:31.749][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:31.931][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:32.141][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:32.322][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:32.539][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:32.731][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:32.915][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:33.101][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:33.301][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:33.482][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:33.707][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:33.868][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:34.071][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:34.264][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:34.449][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:34.658][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:34.831][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:35.048][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:35.249][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:35.449][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:35.648][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:35.815][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:36.018][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:36.199][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:36.402][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:36.581][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:36.748][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:36.899][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:37.090][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:37.249][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:37.418][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:37.599][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:37.759][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:37.935][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:38.211][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:38.377][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:38.531][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:38.699][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:38.900][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:39.032][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:39.253][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:39.404][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:39.601][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:39.765][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:39.982][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:40.156][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:40.365][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:40.565][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:40.748][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:40.948][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:41.131][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:41.288][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:41.501][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:41.695][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:41.880][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:42.082][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:42.264][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:42.485][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:42.681][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:42.932][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:43.130][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:43.312][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:43.489][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:43.632][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:43.815][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:43.948][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:44.099][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:44.249][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:44.376][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:44.565][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:45.168][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:45.341][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:45.548][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:45.735][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:48.214][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:48.405][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:48.665][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:48.986][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:49.799][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:50.187][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:50.556][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:50.984][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:51.515][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:52.604][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:53.345][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:54.321][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:31:54.881][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:55.982][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:57.831][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:31:59.482][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:31:59.987][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:32:00.756][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:32:01.765][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:32:03.785][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:32:04.895][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:32:05.709][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:32:06.550][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:32:07.431][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:32:08.282][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:32:09.598][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:32:10.460][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:32:11.715][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:32:13.023][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
+[15-02-23 03:32:14.548][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:32:18.781][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY!'}.
+[15-02-23 03:32:19.817][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='HEY YOU!'}.
+[15-02-23 03:33:14.190][info] Got message from server: ChatMessage{chat=Local, author='Gym Burger', text='OVER HERE!'}.
