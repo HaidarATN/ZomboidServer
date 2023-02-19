@@ -1,0 +1,110 @@
+[19-02-23 20:10:35.868] 76561198100576317 "Muezza" removed IsoObject (furniture_tables_high_01_7) at 5680,5765,0.
+[19-02-23 20:10:43.835] 76561198100576317 "Muezza" removed Curtain (fixtures_windows_curtains_01_56) at 5680,5767,0.
+[19-02-23 20:11:00.979] 76561198100576317 "Muezza" added Thumpable (furniture_tables_high_01_7) at 5680.0,5767.0,0.0.
+[19-02-23 20:11:10.449] 76561198100576317 "Muezza" added Curtain (fixtures_windows_curtains_01_60) at 5680.0,5767.0,0.0.
+[19-02-23 20:41:00.046] 76561198100576317 "Muezza" removed Canadian Hemlock (e_canadianhemlock_1_2) at 5710,5819,0.
+[19-02-23 20:41:07.628] 76561198100576317 "Muezza" removed Canadian Hemlock (e_canadianhemlock_1_2) at 5708,5818,0.
+[19-02-23 20:41:15.899] 76561198100576317 "Muezza" removed Virginia Pine (e_virginiapine_1_2) at 5712,5817,0.
+[19-02-23 20:41:26.116] 76561198100576317 "Muezza" removed Dogwood (e_dogwood_1_3) at 5715,5821,0.
+[19-02-23 20:45:35.695] 76561198100576317 "Muezza" added Lamp on Pillar (carpentry_02_61) at 5692.0,5754.0,0.0.
+[19-02-23 20:46:52.781] 76561198100576317 "Muezza" removed Thumpable (furniture_tables_high_01_7) at 5680,5767,0.
+[19-02-23 20:47:49.049] 76561198100576317 "Muezza" removed IsoObject (furniture_seating_indoor_02_21) at 5680,5769,0.
+[19-02-23 20:49:02.783] 76561198100576317 "Muezza" added  (furniture_tables_high_01_7) at 5685.0,5770.0,0.0.
+[19-02-23 20:49:38.595] 76561198100576317 "Muezza" added Small Bookcase (furniture_shelving_01_23) at 5680.0,5767.0,0.0.
+[19-02-23 20:51:52.327] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5681.0,5755.0,1.0.
+[19-02-23 20:53:11.822] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5682.0,5755.0,1.0.
+[19-02-23 20:53:23.645] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5683.0,5755.0,1.0.
+[19-02-23 20:53:28.029] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5684.0,5755.0,1.0.
+[19-02-23 20:53:32.280] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5685.0,5755.0,1.0.
+[19-02-23 20:54:37.136] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5689.0,5755.0,1.0.
+[19-02-23 20:54:41.981] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5688.0,5755.0,1.0.
+[19-02-23 20:54:46.734] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5687.0,5755.0,1.0.
+[19-02-23 20:54:52.065] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5686.0,5755.0,1.0.
+[19-02-23 20:55:33.350] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Canadian Hemlock (e_canadianhemlock_1_3) at 5705,5819,0.
+[19-02-23 20:55:40.988] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Virginia Pine (e_virginiapine_1_2) at 5704,5819,0.
+[19-02-23 20:55:48.259] 76561198145393066 "Gym Burger (Maximum Cheese)" removed American Holly (e_americanholly_1_2) at 5703,5819,0.
+[19-02-23 20:58:23.064] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Redmaple (e_redmaple_1_3) at 5706,5821,0.
+[19-02-23 20:58:31.373] 76561198145393066 "Gym Burger (Maximum Cheese)" removed American Holly (e_americanholly_1_3) at 5707,5821,0.
+[19-02-23 20:58:38.876] 76561198145393066 "Gym Burger (Maximum Cheese)" removed American Holly (e_americanholly_1_3) at 5708,5821,0.
+[19-02-23 21:03:37.481] 76561198100576317 "Muezza" removed Log Wall (carpentry_02_81) at 5680,5755,0.
+[19-02-23 21:03:50.788] 76561198100576317 "Muezza" added WoodenDoorFrameLvl3 (walls_exterior_wooden_01_35) at 5680.0,5755.0,0.0.
+[19-02-23 21:06:21.041] 76561198100576317 "Muezza" added Wooden Door (carpentry_01_57) at 5680.0,5755.0,0.0.
+[19-02-23 21:08:22.932] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5684.0,5758.0,1.0.
+[19-02-23 21:08:28.156] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5685.0,5758.0,1.0.
+[19-02-23 21:08:32.467] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5686.0,5758.0,1.0.
+[19-02-23 21:21:38.714] 76561198100576317 "Muezza" removed Rain Collector Barrel (carpentry_02_54) at 5686,5758,0.
+[19-02-23 21:21:50.611] 76561198100576317 "Muezza" removed Rain Collector Barrel (carpentry_02_54) at 5687,5758,0.
+[19-02-23 21:22:38.983] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_54) at 5684.0,5758.0,1.0.
+[19-02-23 21:22:52.170] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_54) at 5684.0,5759.0,1.0.
+[19-02-23 21:23:29.354] 76561198100576317 "Muezza" removed Rain Collector Barrel (carpentry_02_54) at 5687,5759,0.
+[19-02-23 21:23:33.712] 76561198100576317 "Muezza" removed Rain Collector Barrel (carpentry_02_54) at 5687,5760,0.
+[19-02-23 21:24:50.882] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_54) at 5683.0,5759.0,1.0.
+[19-02-23 21:24:56.980] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_54) at 5683.0,5758.0,1.0.
+[19-02-23 21:29:10.519] 76561198100576317 "Muezza" removed Rain Collector Barrel (carpentry_02_54) at 5683,5759,1.
+[19-02-23 21:29:18.646] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_54) at 5681.0,5760.0,1.0.
+[19-02-23 21:29:35.131] 76561198100576317 "Muezza" removed Rain Collector Barrel (carpentry_02_54) at 5681,5760,1.
+[19-02-23 21:29:43.311] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_54) at 5682.0,5760.0,1.0.
+[19-02-23 21:32:00.945] 76561198100576317 "Muezza" removed Rain Collector Barrel (carpentry_02_54) at 5682,5760,1.
+[19-02-23 21:32:28.117] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_54) at 5681.0,5760.0,1.0.
+[19-02-23 21:34:08.721] 76561198100576317 "Muezza" removed Rain Collector Barrel (carpentry_02_54) at 5681,5760,1.
+[19-02-23 21:35:21.724] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_54) at 5683.0,5759.0,1.0.
+[19-02-23 21:39:37.164] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_52) at 5679.0,5754.0,0.0.
+[19-02-23 21:45:16.620] 76561198100576317 "Muezza" removed IsoObject (fixtures_sinks_01_13) at 5715,5725,0.
+[19-02-23 21:46:01.845] 76561198100576317 "Muezza" removed IsoObject (fixtures_bathroom_01_0) at 5680,5762,0.
+[19-02-23 21:46:36.447] 76561198100576317 "Muezza" added IsoObject (fixtures_sinks_01_12) at 5680.0,5762.0,0.0.
+[19-02-23 21:46:51.278] 76561198100576317 "Muezza" added IsoObject (fixtures_bathroom_01_3) at 5680.0,5763.0,0.0.
+[19-02-23 21:48:41.015] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5678.0,5760.0,1.0.
+[19-02-23 21:48:45.151] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5678.0,5761.0,1.0.
+[19-02-23 21:48:49.718] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5678.0,5762.0,1.0.
+[19-02-23 21:49:43.846] 76561198100576317 "Muezza" removed Rain Collector Barrel (carpentry_02_54) at 5683,5759,1.
+[19-02-23 21:49:56.603] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_54) at 5679.0,5761.0,1.0.
+[19-02-23 21:51:34.568] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_48) at 5679.0,5770.0,1.0.
+[19-02-23 21:51:41.302] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_48) at 5679.0,5769.0,1.0.
+[19-02-23 21:52:38.054] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_48) at 5679.0,5768.0,1.0.
+[19-02-23 21:52:43.768] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_48) at 5679.0,5767.0,1.0.
+[19-02-23 21:52:49.648] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_48) at 5679.0,5766.0,1.0.
+[19-02-23 21:54:09.216] 76561198100576317 "Muezza" removed IsoObject (fixtures_counters_01_43) at 5715,5723,0.
+[19-02-23 21:56:23.536] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_48) at 5679.0,5765.0,1.0.
+[19-02-23 21:56:29.406] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_48) at 5679.0,5764.0,1.0.
+[19-02-23 21:57:31.551] 76561198100576317 "Muezza" removed Television (appliances_television_01_2) at 5715,5725,1.
+[19-02-23 21:57:56.900] 76561198100576317 "Muezza" removed IsoObject (furniture_bedding_01_32) at 5717,5731,1.
+[19-02-23 21:57:56.903] 76561198100576317 "Muezza" removed IsoObject (furniture_bedding_01_33) at 5718,5731,1.
+[19-02-23 22:01:49.368] 76561198100576317 "Muezza" added IsoObject (street_decoration_01_26) at 5690.0,5765.0,0.0.
+[19-02-23 22:10:57.398] 76561198100576317 "Muezza" removed Rain Collector Barrel (carpentry_02_52) at 5679,5754,0.
+[19-02-23 22:11:17.479] 76561198100576317 "Muezza" added Rain Collector Barrel (carpentry_02_52) at 5669.0,5748.0,0.0.
+[19-02-23 22:15:55.284] 76561198100576317 "Muezza" added Wooden Stairs (carpentry_02_88) at 5683.0,5756.0,0.0.
+[19-02-23 22:15:55.285] 76561198100576317 "Muezza" added Wooden Stairs (carpentry_02_89) at 5682.0,5756.0,0.0.
+[19-02-23 22:15:55.286] 76561198100576317 "Muezza" added IsoObject (carpentry_02_57) at 5680.0,5756.0,1.0.
+[19-02-23 22:15:55.287] 76561198100576317 "Muezza" added Wooden Stairs (carpentry_02_90) at 5681.0,5756.0,0.0.
+[19-02-23 22:19:03.795] 76561198100576317 "Muezza" removed IsoObject (location_restaurant_bar_01_26) at 5702,5719,0.
+[19-02-23 22:19:25.155] 76561198100576317 "Muezza" removed IsoObject (furniture_seating_indoor_02_4) at 5707,5717,0.
+[19-02-23 22:19:40.486] 76561198100576317 "Muezza" removed IsoObject (furniture_tables_high_01_8) at 5707,5716,0.
+[19-02-23 22:19:40.487] 76561198100576317 "Muezza" removed IsoObject (furniture_tables_high_01_9) at 5708,5716,0.
+[19-02-23 22:19:55.818] 76561198100576317 "Muezza" removed IsoObject (furniture_tables_high_01_11) at 5709,5716,0.
+[19-02-23 22:19:55.819] 76561198100576317 "Muezza" removed IsoObject (furniture_tables_high_01_10) at 5709,5717,0.
+[19-02-23 22:20:11.551] 76561198100576317 "Muezza" removed IsoObject (furniture_tables_high_01_11) at 5709,5718,0.
+[19-02-23 22:20:11.554] 76561198100576317 "Muezza" removed IsoObject (furniture_tables_high_01_10) at 5709,5719,0.
+[19-02-23 22:20:59.788] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Eastern Redbud (e_easternredbudJUMBO_1_0) at 5639,5769,0.
+[19-02-23 22:21:15.567] 76561198145393066 "Gym Burger (Maximum Cheese)" removed American Linden (e_americanlindenJUMBO_1_1) at 5641,5772,0.
+[19-02-23 22:21:32.625] 76561198145393066 "Gym Burger (Maximum Cheese)" removed American Linden (e_americanlindenJUMBO_1_1) at 5642,5776,0.
+[19-02-23 22:21:49.286] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5680.0,5757.0,1.0.
+[19-02-23 22:21:49.586] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Carolina Silverbell (e_carolinasilverbellJUMBO_1_1) at 5637,5774,0.
+[19-02-23 22:22:23.037] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5687.0,5756.0,1.0.
+[19-02-23 22:22:27.135] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5687.0,5757.0,1.0.
+[19-02-23 22:22:31.397] 76561198100576317 "Muezza" added IsoObject (carpentry_02_56) at 5687.0,5758.0,1.0.
+[19-02-23 22:23:07.421] 76561198100576317 "Muezza" added Wooden Fence (carpentry_02_49) at 5687.0,5755.0,1.0.
+[19-02-23 23:11:28.100] 76561198100576317 "Muezza" removed Television (appliances_television_01_9) at 6818,7716,0.
+[19-02-23 23:12:01.796] 76561198100576317 "Muezza" removed Radio (appliances_radio_01_0) at 6819,7713,0.
+[19-02-23 23:12:41.352] 76561198100576317 "Muezza" removed LightSwitch (lighting_indoor_01_10) at 6812,7713,0.
+[19-02-23 23:18:29.734] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_02_5) at 7298,8264,0.
+[19-02-23 23:18:44.843] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_56) at 7229,8210,0.
+[19-02-23 23:22:19.092] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_5) at 7213,8286,0.
+[19-02-23 23:22:23.177] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_01_4) at 7301,8202,0.
+[19-02-23 23:22:45.989] 76561198100576317 "Muezza" removed Door (fixtures_doors_02_5) at 7306,8197,0.
+[19-02-23 23:22:49.237] 76561198213478008 "Trisudar" removed Door (fixtures_doors_01_5) at 7207,8206,0.
+[19-02-23 23:23:25.045] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Door (fixtures_doors_02_4) at 7215,8209,0.
+[19-02-23 23:23:46.795] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Door (fixtures_doors_02_5) at 7156,8186,0.
+[19-02-23 23:23:52.626] 76561198080689461 "EL-Mao'" removed Door (fixtures_doors_02_4) at 7180,8223,0.
+[19-02-23 23:24:15.452] 76561198213478008 "Trisudar" removed Door (fixtures_doors_01_5) at 7212,8213,0.
+[19-02-23 23:24:55.030] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Door (fixtures_doors_02_4) at 7206,8207,0.
+[19-02-23 23:25:25.144] 76561198145393066 "Gym Burger (Maximum Cheese)" removed Door (location_restaurant_pileocrepe_01_49) at 7236,8199,0.

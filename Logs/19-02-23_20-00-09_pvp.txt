@@ -1,0 +1,23 @@
+[19-02-23 20:00:09.257][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 20:09:38.696][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 20:18:31.054][INFO] user "Gym Burger (Maximum Cheese)" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 20:58:25.686][INFO] user "Trisudar" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 20:59:06.479][INFO] user "EL-Mao'" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 21:04:17.460][INFO] user "Gym Burger (Maximum Cheese)" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 21:09:28.422][INFO] user "Gym Burger (Maximum Cheese)" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 21:17:33.113][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 21:19:22.916][INFO] user "EL-Mao'" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 21:23:23.628][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 21:58:10.064][INFO] user "Gym Burger (Maximum Cheese)" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 22:00:14.933][INFO] user "Gym Burger (Maximum Cheese)" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 22:04:39.086] user "Trisudar" (5686,5767,0) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 22:04:39.086] user "Trisudar" (5686,5767,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[19-02-23 22:04:43.499] user "Trisudar" (5682,5765,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[19-02-23 22:04:43.499] user "Trisudar" (5682,5765,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[19-02-23 23:40:16.143][INFO] user "Trisudar" store safety enabled=true last=false cooldown=0.0 toggle=0.0.
+[19-02-23 23:41:52.944] user "EL-Mao'" (5681,5767,1) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 23:41:52.944] user "EL-Mao'" (5681,5767,1) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[19-02-23 23:42:30.551] user "EL-Mao'" (5682,5767,1) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[19-02-23 23:42:30.551] user "EL-Mao'" (5682,5767,1) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[19-02-23 23:42:47.160][INFO] user "EL-Mao'" store safety enabled=true last=false cooldown=0.0 toggle=0.0.
+[19-02-23 23:42:49.490][INFO] user "Muezza" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
