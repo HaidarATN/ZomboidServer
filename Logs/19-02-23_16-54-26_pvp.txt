@@ -1,0 +1,8 @@
+[19-02-23 16:54:26.157][INFO] user "Muezza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 16:56:24.831][INFO] user "EL-Mao'" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 17:00:17.104][INFO] user "Gym Burger (Maximum Cheese)" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 17:51:18.320] user "Muezza" (5684,5764,0) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[19-02-23 17:51:18.320] user "Muezza" (5684,5764,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[19-02-23 17:51:21.047] user "Muezza" (5684,5764,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[19-02-23 17:51:21.047] user "Muezza" (5684,5764,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[19-02-23 17:58:09.214][INFO] user "Muezza" store safety enabled=true last=false cooldown=0.0 toggle=0.0.

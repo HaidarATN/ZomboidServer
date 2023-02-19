@@ -1,0 +1,20 @@
+[19-02-23 16:51:05.342] added connection index=0 127.0.0.1.
+[19-02-23 16:51:06.199] 76561198100576317 "Muezza" attempting to join.
+[19-02-23 16:51:06.199] 76561198100576317 "Muezza" allowed to join.
+[19-02-23 16:51:12.957] 76561198100576317 "Muezza" attempting to join used queue.
+[19-02-23 16:51:27.828] player Muezza loading time was: 14314 ms.
+[19-02-23 16:54:26.212] 76561198100576317 "Muezza" fully connected (5682,5770,0).
+[19-02-23 16:55:14.833] added connection index=1 85.247.86.132.
+[19-02-23 16:55:15.828] 76561198080689461 "EL-Mao'" attempting to join.
+[19-02-23 16:55:15.828] 76561198080689461 "EL-Mao'" allowed to join.
+[19-02-23 16:55:33.147] 76561198080689461 "EL-Mao'" attempting to join used queue.
+[19-02-23 16:56:20.579] player EL-Mao' loading time was: 46098 ms.
+[19-02-23 16:56:24.832] 76561198080689461 "EL-Mao'" fully connected (5683,5760,0).
+[19-02-23 16:58:55.240] added connection index=2 11.125.123.145.
+[19-02-23 16:58:56.129] 76561198145393066 "Gym Burger (Maximum Cheese)" attempting to join.
+[19-02-23 16:58:56.129] 76561198145393066 "Gym Burger (Maximum Cheese)" allowed to join.
+[19-02-23 16:59:06.594] 76561198145393066 "Gym Burger (Maximum Cheese)" attempting to join used queue.
+[19-02-23 17:00:07.764] player Gym Burger (Maximum Cheese) loading time was: 58699 ms.
+[19-02-23 17:00:17.105] 76561198145393066 "Gym Burger (Maximum Cheese)" fully connected (5690,5769,0).
+[19-02-23 17:58:09.201] 76561198100576317 "Muezza" removed connection index=0.
+[19-02-23 17:58:09.214] 76561198100576317 "Muezza" disconnected player (5684,5760,0).

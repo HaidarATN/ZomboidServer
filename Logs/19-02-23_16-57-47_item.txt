@@ -1,0 +1,389 @@
+[19-02-23 16:57:47.156] 76561198100576317 "Muezza" container -1 5685,5759,0 [Base.DriedChickpeas].
+[19-02-23 16:58:56.129] 76561198100576317 "Muezza" container -78 5682,5769,1 [Base.Nails].
+[19-02-23 17:00:08.134] 76561198100576317 "Muezza" container -2 5687,5761,0 [Base.Garbagebag].
+[19-02-23 17:00:11.774] 76561198100576317 "Muezza" floor +1 5687,5764,0 [Base.Garbagebag].
+[19-02-23 17:00:11.775] 76561198100576317 "Muezza" floor +1 5687,5764,0 [Base.Garbagebag].
+[19-02-23 17:01:42.387] 76561198100576317 "Muezza" floor -1 5683,5766,0 [Base.Matches].
+[19-02-23 17:01:42.388] 76561198100576317 "Muezza" floor -1 5683,5766,0 [Base.Matches].
+[19-02-23 17:01:46.568] 76561198100576317 "Muezza" floor -1 5684,5766,0 [Base.MetalBar].
+[19-02-23 17:01:56.141] 76561198100576317 "Muezza" container +0 5683,5767,0 [Base.Matches].
+[19-02-23 17:02:01.225] 76561198100576317 "Muezza" floor -1 5683,5766,0 [Base.Cigarettes].
+[19-02-23 17:02:01.230] 76561198100576317 "Muezza" floor -1 5683,5766,0 [Base.Cigarettes].
+[19-02-23 17:02:04.729] 76561198100576317 "Muezza" floor -1 5681,5765,0 [Base.BookMechanic3].
+[19-02-23 17:02:14.134] 76561198100576317 "Muezza" container +0 5683,5767,0 [Base.Cigarettes].
+[19-02-23 17:02:20.131] 76561198100576317 "Muezza" container +0 5683,5767,0 [Base.MetalBar].
+[19-02-23 17:03:26.249] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 5682,5759,0 [Base.Saucepan].
+[19-02-23 17:03:36.846] 76561198080689461 "EL-Mao'" container -1 5686,5759,0 [Base.CocoaPowder].
+[19-02-23 17:03:56.132] 76561198100576317 "Muezza" container -1 5680,5764,0 [Base.BookCarpentry5].
+[19-02-23 17:04:02.241] 76561198145393066 "Gym Burger (Maximum Cheese)" container +0 5684,5759,0 [Base.WaterSaucepan].
+[19-02-23 17:04:05.135] 76561198100576317 "Muezza" container +0 5680,5764,0 [Base.BookMechanic3].
+[19-02-23 17:04:20.237] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 5684,5759,0 [Base.WaterSaucepan].
+[19-02-23 17:04:24.457] 76561198145393066 "Gym Burger (Maximum Cheese)" floor -1 5685,5759,0 [Base.Rice].
+[19-02-23 17:04:25.901] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 5684,5760,0 [Base.Rice].
+[19-02-23 17:05:05.242] 76561198145393066 "Gym Burger (Maximum Cheese)" container +0 5684,5759,0 [Base.WaterSaucepanRice].
+[19-02-23 17:05:36.845] 76561198080689461 "EL-Mao'" container -1 5695,5762,0 [Base.EmptyPetrolCan].
+[19-02-23 17:05:39.851] 76561198080689461 "EL-Mao'" container -3 5695,5762,0 [Base.EmptyPetrolCan].
+[19-02-23 17:05:42.839] 76561198080689461 "EL-Mao'" container -1 5695,5762,0 [Base.EmptyPetrolCan].
+[19-02-23 17:05:45.844] 76561198080689461 "EL-Mao'" container -1 5695,5762,0 [Base.PropaneTank].
+[19-02-23 17:05:48.847] 76561198080689461 "EL-Mao'" container -1 5695,5762,0 [Base.PropaneTank].
+[19-02-23 17:06:02.131] 76561198100576317 "Muezza" container -1 5681,5764,0 [Base.VHS_Retail].
+[19-02-23 17:06:05.233] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 5684,5759,0 [Base.WaterSaucepanRice].
+[19-02-23 17:06:11.077] 76561198080689461 "EL-Mao'" floor +1 5680,5761,0 [Base.PropaneTank].
+[19-02-23 17:06:17.234] 76561198145393066 "Gym Burger (Maximum Cheese)" container +0 5682,5759,0 [Base.Saucepan].
+[19-02-23 17:06:23.515] 76561198080689461 "EL-Mao'" floor -1 5680,5761,0 [Base.PropaneTank].
+[19-02-23 17:06:23.515] 76561198080689461 "EL-Mao'" floor -1 5680,5761,0 [Base.PropaneTank].
+[19-02-23 17:06:36.799] 76561198080689461 "EL-Mao'" floor +1 5680,5761,0 [Base.PropaneTank].
+[19-02-23 17:06:38.264] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 5681,5764,0 [Base.FishingMag2].
+[19-02-23 17:06:43.149] 76561198080689461 "EL-Mao'" floor +1 5680,5761,0 [Base.PropaneTank].
+[19-02-23 17:06:49.181] 76561198080689461 "EL-Mao'" floor +1 5680,5761,0 [Base.PropaneTank].
+[19-02-23 17:06:56.252] 76561198145393066 "Gym Burger (Maximum Cheese)" container +0 5681,5764,0 [Base.FishingMag2].
+[19-02-23 17:06:56.913] 76561198080689461 "EL-Mao'" floor -1 5680,5761,0 [Base.PropaneTank].
+[19-02-23 17:07:02.629] 76561198080689461 "EL-Mao'" floor +1 5680,5761,0 [Base.PropaneTank].
+[19-02-23 17:07:18.850] 76561198080689461 "EL-Mao'" container +0 5695,5762,0 [Base.EmptyPetrolCan].
+[19-02-23 17:07:21.853] 76561198080689461 "EL-Mao'" container +0 5695,5762,0 [Base.EmptyPetrolCan].
+[19-02-23 17:07:26.906] 76561198080689461 "EL-Mao'" floor +1 5695,5765,0 [Base.EmptyPetrolCan].
+[19-02-23 17:07:30.845] 76561198080689461 "EL-Mao'" container -1 5695,5762,0 [Base.Scotchtape].
+[19-02-23 17:07:33.870] 76561198080689461 "EL-Mao'" container -1 5695,5762,0 [Base.BallPeenHammer].
+[19-02-23 17:07:36.846] 76561198080689461 "EL-Mao'" container -1 5695,5762,0 [Base.MeatCleaver].
+[19-02-23 17:07:39.843] 76561198080689461 "EL-Mao'" container -2 5695,5762,0 [Base.Saw, Base.Plank].
+[19-02-23 17:07:42.842] 76561198080689461 "EL-Mao'" container -2 5695,5762,0 [Base.ScrapMetal, Base.SmallSheetMetal].
+[19-02-23 17:07:52.983] 76561198080689461 "EL-Mao'" floor +1 5692,5766,0 [Base.Plank].
+[19-02-23 17:08:02.782] 76561198080689461 "EL-Mao'" floor +1 5685,5761,0 [Base.MeatCleaver].
+[19-02-23 17:08:28.315] 76561198080689461 "EL-Mao'" floor +1 5682,5769,1 [Base.Scotchtape].
+[19-02-23 17:08:36.433] 76561198080689461 "EL-Mao'" floor +1 5683,5769,1 [Base.BallPeenHammer].
+[19-02-23 17:08:41.414] 76561198080689461 "EL-Mao'" floor +1 5682,5769,1 [Base.ScrapMetal].
+[19-02-23 17:08:45.082] 76561198080689461 "EL-Mao'" floor +1 5682,5769,1 [Base.SmallSheetMetal].
+[19-02-23 17:08:52.296] 76561198080689461 "EL-Mao'" floor +1 5683,5769,1 [Base.Saw].
+[19-02-23 17:08:53.129] 76561198100576317 "Muezza" container +0 5681,5764,0 [Base.VHS_Retail].
+[19-02-23 17:09:05.052] 76561198080689461 "EL-Mao'" floor -1 5680,5764,1 [Base.Jack].
+[19-02-23 17:09:09.849] 76561198080689461 "EL-Mao'" container -1 5680,5764,1 [Base.LugWrench].
+[19-02-23 17:09:23.128] 76561198100576317 "Muezza" container -1 5681,5764,0 [Base.VHS_Retail].
+[19-02-23 17:09:26.132] 76561198100576317 "Muezza" container -1 5681,5764,0 [Base.VHS_Retail].
+[19-02-23 17:10:50.130] 76561198100576317 "Muezza" container +0 5680,5764,0 [Base.BookCarpentry5].
+[19-02-23 17:10:53.127] 76561198100576317 "Muezza" container +0 5680,5764,0 [Base.VHS_Retail].
+[19-02-23 17:11:23.137] 76561198100576317 "Muezza" container +0 5686,5770,0 [Base.Nails].
+[19-02-23 17:11:32.125] 76561198100576317 "Muezza" container -1 5686,5770,0 [Base.LightBulb].
+[19-02-23 17:11:39.786] 76561198080689461 "EL-Mao'" floor -1 5686,5769,0 [Base.EmptyPetrolCan].
+[19-02-23 17:11:46.782] 76561198080689461 "EL-Mao'" floor +1 5694,5765,0 [Base.EmptyPetrolCan].
+[19-02-23 17:11:47.129] 76561198100576317 "Muezza" container +0 5683,5763,0 [Base.LightBulb].
+[19-02-23 17:11:58.582] 76561198145393066 "Gym Burger (Maximum Cheese)" floor -1 5695,5765,0 [Base.EmptyPetrolCan].
+[19-02-23 17:11:58.592] 76561198145393066 "Gym Burger (Maximum Cheese)" floor -1 5694,5765,0 [Base.EmptyPetrolCan].
+[19-02-23 17:12:13.226] 76561198100576317 "Muezza" floor +1 5684,5766,0 [Base.Mirror].
+[19-02-23 17:12:13.504] 76561198100576317 "Muezza" floor +1 5684,5766,0 [Base.JuiceBox].
+[19-02-23 17:12:19.691] 76561198100576317 "Muezza" floor -1 5684,5766,0 [Base.TinCanEmpty].
+[19-02-23 17:12:20.234] 76561198145393066 "Gym Burger (Maximum Cheese)" container -5 5695,5762,0 [Base.Disc_Retail, Base.Aluminum, Base.Pepper, Base.Lard, Radio.ElectricWire].
+[19-02-23 17:12:21.471] 76561198100576317 "Muezza" floor -1 5684,5766,0 [Base.JuiceBox].
+[19-02-23 17:12:23.243] 76561198145393066 "Gym Burger (Maximum Cheese)" container -2 5695,5762,0 [Base.WaterBottlePetrol, Base.CleaningLiquid2].
+[19-02-23 17:12:26.226] 76561198145393066 "Gym Burger (Maximum Cheese)" container -2 5695,5762,0 [Base.Crowbar, Base.Toolbox].
+[19-02-23 17:12:29.233] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 5695,5762,0 [Base.Toolbox].
+[19-02-23 17:12:38.131] 76561198100576317 "Muezza" container +0 5687,5761,0 [Base.TinCanEmpty].
+[19-02-23 17:12:38.309] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 5690,5766,0 [Base.Aluminum].
+[19-02-23 17:12:42.152] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 5690,5766,0 [Base.Lard].
+[19-02-23 17:12:44.802] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 5690,5766,0 [Base.Disc_Retail].
+[19-02-23 17:12:46.254] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 5690,5766,0 [Radio.ElectricWire].
+[19-02-23 17:12:53.480] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 5690,5766,0 [Base.Toolbox].
+[19-02-23 17:12:58.486] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 5690,5766,0 [Base.Toolbox].
+[19-02-23 17:13:01.594] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 5690,5766,0 [Base.WaterBottlePetrol].
+[19-02-23 17:13:08.129] 76561198100576317 "Muezza" container -1 5690,5766,0 [Base.Saw].
+[19-02-23 17:13:14.130] 76561198100576317 "Muezza" container -2 5690,5766,0 [Base.Hammer, Base.BallPeenHammer].
+[19-02-23 17:13:22.575] 76561198100576317 "Muezza" floor +1 5690,5767,0 [Base.Hammer].
+[19-02-23 17:13:22.703] 76561198100576317 "Muezza" floor +1 5690,5767,0 [Base.BallPeenHammer].
+[19-02-23 17:13:25.534] 76561198145393066 "Gym Burger (Maximum Cheese)" container +0 5686,5770,0 [Base.Crowbar].
+[19-02-23 17:13:30.401] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 5689,5767,0 [Base.CleaningLiquid2].
+[19-02-23 17:13:37.861] 76561198100576317 "Muezza" container -1 5686,5770,0 [Base.Screwdriver].
+[19-02-23 17:13:41.229] 76561198145393066 "Gym Burger (Maximum Cheese)" container +0 5695,5762,0 [Base.EmptyPetrolCan].
+[19-02-23 17:13:44.232] 76561198145393066 "Gym Burger (Maximum Cheese)" container +0 5695,5762,0 [Base.EmptyPetrolCan].
+[19-02-23 17:14:26.224] 76561198145393066 "Gym Burger (Maximum Cheese)" container -2 5685,5759,0 [Base.CannedPeas].
+[19-02-23 17:14:28.164] 76561198100576317 "Muezza" floor -1 5686,5753,0 [Base.Shirt_CamoGreen].
+[19-02-23 17:14:29.213] 76561198100576317 "Muezza" floor -1 5686,5753,0 [Base.Trousers_DefaultTEXTURE_TINT].
+[19-02-23 17:14:30.269] 76561198100576317 "Muezza" floor -1 5686,5753,0 [Base.Shoes_Random].
+[19-02-23 17:14:37.729] 76561198100576317 "Muezza" floor +1 5692,5757,0 [Base.Shoes_Random].
+[19-02-23 17:14:37.846] 76561198100576317 "Muezza" floor +1 5692,5757,0 [Base.Trousers_DefaultTEXTURE_TINT].
+[19-02-23 17:14:37.970] 76561198100576317 "Muezza" floor +1 5692,5757,0 [Base.Shirt_CamoGreen].
+[19-02-23 17:17:12.811] 76561198100576317 "Muezza" floor -1 6643,5494,0 [Base.MetalPipe].
+[19-02-23 17:17:35.604] 76561198080689461 "EL-Mao'" floor +1 6647,5490,0 [Base.MetalBar].
+[19-02-23 17:17:42.150] 76561198145393066 "Gym Burger (Maximum Cheese)" floor -1 6647,5490,0 [Base.MetalBar].
+[19-02-23 17:18:02.223] 76561198145393066 "Gym Burger (Maximum Cheese)" container -3 6647,5478,0 [Base.Crackers, Base.GranolaBar, Base.Sugar].
+[19-02-23 17:18:03.848] 76561198080689461 "EL-Mao'" container -1 6649,5478,0 [Base.Chocolate].
+[19-02-23 17:18:05.129] 76561198100576317 "Muezza" container -2 6644,5478,0 [Base.JuiceBox, Base.Pop2].
+[19-02-23 17:18:08.134] 76561198100576317 "Muezza" container -1 6644,5478,0 [Base.PopBottle].
+[19-02-23 17:18:09.843] 76561198080689461 "EL-Mao'" container -1 6649,5478,0 [Base.OilVegetable].
+[19-02-23 17:18:14.233] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6646,5478,0 [Base.Pot].
+[19-02-23 17:18:20.133] 76561198100576317 "Muezza" container -1 6650,5476,0 [Base.Aluminum].
+[19-02-23 17:18:23.134] 76561198100576317 "Muezza" container -1 6650,5476,0 [Base.Garbagebag].
+[19-02-23 17:18:26.133] 76561198100576317 "Muezza" container -2 6650,5476,0 [Base.HandTorch, Base.Matches].
+[19-02-23 17:18:26.220] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6650,5476,0 [].
+[19-02-23 17:18:30.576] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 6647,5475,0 [Base.TinCanEmpty].
+[19-02-23 17:18:45.850] 76561198080689461 "EL-Mao'" container -1 6648,5467,0 [Base.Book].
+[19-02-23 17:18:48.856] 76561198080689461 "EL-Mao'" container -1 6648,5467,0 [Base.MagazineWordsearch3].
+[19-02-23 17:19:03.265] 76561198100576317 "Muezza" floor +1 6652,5470,0 [Base.Plank].
+[19-02-23 17:19:03.265] 76561198100576317 "Muezza" floor +1 6652,5470,0 [Base.Nails].
+[19-02-23 17:19:03.266] 76561198100576317 "Muezza" floor +1 6652,5470,0 [Base.Nails].
+[19-02-23 17:19:05.161] 76561198100576317 "Muezza" floor -1 6652,5470,0 [Base.Nails].
+[19-02-23 17:19:05.172] 76561198100576317 "Muezza" floor -1 6652,5470,0 [Base.Nails].
+[19-02-23 17:19:05.227] 76561198145393066 "Gym Burger (Maximum Cheese)" container -2 6648,5466,0 [Base.VHS_Retail].
+[19-02-23 17:19:32.223] 76561198080689461 "EL-Mao'" floor +1 6654,5473,0 [Base.Hat_Bandana].
+[19-02-23 17:20:05.222] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6653,5474,0 [Base.TrousersMesh_DenimLight].
+[19-02-23 17:20:09.848] 76561198080689461 "EL-Mao'" container -1 6656,5472,0 [Base.Speaker].
+[19-02-23 17:20:11.218] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6653,5474,0 [Base.Vest_DefaultTEXTURE_TINT].
+[19-02-23 17:20:17.221] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6651,5473,0 [Base.TrousersMesh_DenimLight].
+[19-02-23 17:20:32.225] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6651,5473,0 [Base.Underpants_White].
+[19-02-23 17:20:50.221] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6654,5475,0 [Base.Trousers_Denim].
+[19-02-23 17:20:51.853] 76561198080689461 "EL-Mao'" container -1 6648,5476,1 [Base.Pills].
+[19-02-23 17:20:54.864] 76561198080689461 "EL-Mao'" container -1 6648,5477,1 [Base.Sheet].
+[19-02-23 17:21:02.223] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6654,5475,0 [Base.Trousers_CamoDesert].
+[19-02-23 17:21:05.225] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6654,5475,0 [Base.Shoes_ArmyBoots].
+[19-02-23 17:21:16.538] 76561198100576317 "Muezza" floor +1 6644,5471,0 [Base.ElectronicsScrap].
+[19-02-23 17:21:19.242] 76561198100576317 "Muezza" floor -1 6644,5471,0 [Base.ElectronicsScrap].
+[19-02-23 17:21:22.351] 76561198145393066 "Gym Burger (Maximum Cheese)" floor -1 6654,5470,0 [Base.GuitarAcoustic].
+[19-02-23 17:21:25.256] 76561198145393066 "Gym Burger (Maximum Cheese)" floor -1 6654,5470,0 [Base.GuitarElectricBlue].
+[19-02-23 17:21:32.316] 76561198080689461 "EL-Mao'" floor +1 6650,5477,1 [Base.MetalPipe].
+[19-02-23 17:21:32.317] 76561198080689461 "EL-Mao'" floor +1 6650,5478,1 [Base.MetalPipe].
+[19-02-23 17:22:38.214] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6645,5466,0 [Base.JacketLong_Random].
+[19-02-23 17:22:44.210] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6645,5466,0 [Base.Trousers_DefaultTEXTURE_TINT].
+[19-02-23 17:22:45.939] 76561198080689461 "EL-Mao'" floor +1 6652,5467,0 [Base.Disc_Retail].
+[19-02-23 17:22:48.854] 76561198080689461 "EL-Mao'" container -1 6652,5466,0 [Base.Disc_Retail].
+[19-02-23 17:22:50.218] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6645,5466,0 [Base.Jumper_RoundNeck].
+[19-02-23 17:22:56.226] 76561198145393066 "Gym Burger (Maximum Cheese)" container -2 6645,5466,0 [Base.Tshirt_DefaultTEXTURE_TINT, Base.Socks_Ankle].
+[19-02-23 17:23:07.297] 76561198100576317 "Muezza" floor +1 6645,5469,0 [Base.Plank].
+[19-02-23 17:23:07.297] 76561198100576317 "Muezza" floor +1 6645,5469,0 [Base.Nails].
+[19-02-23 17:23:10.071] 76561198080689461 "EL-Mao'" floor +1 6652,5466,0 [Base.SmallSheetMetal].
+[19-02-23 17:23:10.072] 76561198080689461 "EL-Mao'" floor +1 6652,5466,0 [Base.SmallSheetMetal].
+[19-02-23 17:23:12.046] 76561198100576317 "Muezza" floor -1 6645,5469,0 [Base.Nails].
+[19-02-23 17:23:17.501] 76561198080689461 "EL-Mao'" floor -1 6652,5466,0 [Base.SmallSheetMetal].
+[19-02-23 17:23:17.501] 76561198080689461 "EL-Mao'" floor -1 6652,5466,0 [Base.SmallSheetMetal].
+[19-02-23 17:23:46.884] 76561198100576317 "Muezza" floor +1 6645,5470,0 [Base.Plank].
+[19-02-23 17:23:46.884] 76561198100576317 "Muezza" floor +1 6645,5470,0 [Base.Nails].
+[19-02-23 17:23:46.885] 76561198100576317 "Muezza" floor +1 6645,5470,0 [Base.Nails].
+[19-02-23 17:23:46.886] 76561198100576317 "Muezza" floor +1 6646,5470,0 [Base.Plank].
+[19-02-23 17:23:46.887] 76561198100576317 "Muezza" floor +1 6646,5470,0 [Base.Nails].
+[19-02-23 17:23:46.887] 76561198100576317 "Muezza" floor +1 6646,5470,0 [Base.Nails].
+[19-02-23 17:23:49.511] 76561198100576317 "Muezza" floor -1 6645,5470,0 [Base.Nails].
+[19-02-23 17:23:49.521] 76561198100576317 "Muezza" floor -1 6645,5470,0 [Base.Nails].
+[19-02-23 17:23:49.521] 76561198100576317 "Muezza" floor -1 6646,5470,0 [Base.Nails].
+[19-02-23 17:23:49.521] 76561198100576317 "Muezza" floor -1 6646,5470,0 [Base.Nails].
+[19-02-23 17:24:09.851] 76561198080689461 "EL-Mao'" container -1 6652,5470,1 [Base.Book].
+[19-02-23 17:24:11.499] 76561198100576317 "Muezza" floor +1 6647,5469,0 [Base.Plank].
+[19-02-23 17:24:11.500] 76561198100576317 "Muezza" floor +1 6647,5469,0 [Base.Nails].
+[19-02-23 17:24:11.501] 76561198100576317 "Muezza" floor +1 6647,5469,0 [Base.Nails].
+[19-02-23 17:24:12.863] 76561198100576317 "Muezza" floor -1 6647,5469,0 [Base.Nails].
+[19-02-23 17:24:12.868] 76561198100576317 "Muezza" floor -1 6647,5469,0 [Base.Nails].
+[19-02-23 17:24:27.847] 76561198080689461 "EL-Mao'" container -1 6647,5471,1 [Base.Magazine].
+[19-02-23 17:24:54.683] 76561198100576317 "Muezza" floor +1 6644,5478,1 [Base.ElectronicsScrap].
+[19-02-23 17:24:54.846] 76561198080689461 "EL-Mao'" container -1 6644,5470,1 [Base.Antibiotics].
+[19-02-23 17:24:57.846] 76561198080689461 "EL-Mao'" container -1 6644,5471,1 [Base.Bandaid].
+[19-02-23 17:25:00.855] 76561198080689461 "EL-Mao'" container -2 6644,5471,1 [Base.Sheet, Base.Pills].
+[19-02-23 17:25:02.858] 76561198100576317 "Muezza" floor -1 6644,5478,1 [Base.ElectronicsScrap].
+[19-02-23 17:25:03.849] 76561198080689461 "EL-Mao'" container -2 6644,5471,1 [Base.Soap2].
+[19-02-23 17:25:44.130] 76561198100576317 "Muezza" container -1 6655,5478,1 [Base.Garbagebag].
+[19-02-23 17:25:51.847] 76561198080689461 "EL-Mao'" container -1 6655,5474,1 [Base.Jacket_Black].
+[19-02-23 17:25:59.072] 76561198080689461 "EL-Mao'" floor +1 6646,5473,1 [Base.Jacket_Black].
+[19-02-23 17:26:02.206] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6647,5477,1 [Base.Tie_BowTieWorn].
+[19-02-23 17:26:05.135] 76561198100576317 "Muezza" container -1 6655,5473,1 [Base.Speaker].
+[19-02-23 17:26:16.225] 76561198145393066 "Gym Burger (Maximum Cheese)" floor -1 6646,5473,1 [Base.Jacket_Black].
+[19-02-23 17:26:56.210] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6653,5474,1 [Base.Trousers_Denim].
+[19-02-23 17:26:59.210] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6653,5474,1 [Base.Tshirt_Rock].
+[19-02-23 17:27:38.211] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6655,5474,1 [Base.Shorts_CamoGreenLong].
+[19-02-23 17:27:39.854] 76561198080689461 "EL-Mao'" container -1 6631,5467,0 [Base.Magazine].
+[19-02-23 17:28:03.853] 76561198080689461 "EL-Mao'" container -1 6622,5469,0 [Base.Woodglue].
+[19-02-23 17:28:15.857] 76561198080689461 "EL-Mao'" container -1 6625,5477,0 [Base.Crisps4].
+[19-02-23 17:28:17.135] 76561198100576317 "Muezza" container -1 6644,5471,1 [Base.Disinfectant].
+[19-02-23 17:28:24.849] 76561198080689461 "EL-Mao'" container -1 6625,5477,0 [Base.BouillonCube].
+[19-02-23 17:28:29.204] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6644,5470,1 [Base.Soap2].
+[19-02-23 17:28:42.989] 76561198100576317 "Muezza" floor -1 6647,5468,1 [Base.Book].
+[19-02-23 17:28:45.878] 76561198080689461 "EL-Mao'" container -2 6622,5479,0 [Base.CannedCorn].
+[19-02-23 17:28:48.858] 76561198080689461 "EL-Mao'" container -1 6622,5479,0 [Base.CannedBolognese].
+[19-02-23 17:28:54.853] 76561198080689461 "EL-Mao'" container -1 6624,5479,0 [Base.MapleSyrup].
+[19-02-23 17:28:57.851] 76561198080689461 "EL-Mao'" container -1 6624,5479,0 [Base.Crackers].
+[19-02-23 17:29:12.847] 76561198080689461 "EL-Mao'" container -2 6625,5479,0 [Base.Torch].
+[19-02-23 17:29:28.975] 76561198145393066 "Gym Burger (Maximum Cheese)" floor -1 6648,5469,1 [Base.Shirt_FormalWhite_ShortSleeveTINT].
+[19-02-23 17:29:36.897] 76561198145393066 "Gym Burger (Maximum Cheese)" floor -1 6647,5470,1 [Base.Jumper_DiamondPatternTINT].
+[19-02-23 17:29:44.131] 76561198100576317 "Muezza" container -1 6625,5479,0 [Base.LightBulb].
+[19-02-23 17:29:47.131] 76561198100576317 "Muezza" container -1 6625,5479,0 [Base.Screwdriver].
+[19-02-23 17:29:53.134] 76561198100576317 "Muezza" container -1 6625,5477,0 [Base.Ramen].
+[19-02-23 17:29:56.133] 76561198100576317 "Muezza" container -1 6625,5476,0 [Base.Pop2].
+[19-02-23 17:30:18.851] 76561198080689461 "EL-Mao'" container -1 6628,5479,1 [Base.Pills].
+[19-02-23 17:31:14.136] 76561198100576317 "Muezza" container -1 6622,5469,0 [Base.Screwdriver].
+[19-02-23 17:31:17.137] 76561198100576317 "Muezza" container -2 6622,5469,0 [Base.Hammer, Base.Hat_HardHat].
+[19-02-23 17:31:23.134] 76561198100576317 "Muezza" container -1 6622,5470,0 [Radio.ElectricWire].
+[19-02-23 17:31:26.132] 76561198100576317 "Muezza" container -1 6622,5470,0 [Base.Extinguisher].
+[19-02-23 17:31:26.201] 76561198145393066 "Gym Burger (Maximum Cheese)" container -2 6658,5482,0 [Base.Tshirt_PoloStripedTINT, Base.Socks_Ankle].
+[19-02-23 17:31:35.319] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 6659,5480,0 [Base.TinCanEmpty].
+[19-02-23 17:31:48.861] 76561198080689461 "EL-Mao'" container -4 6622,5471,1 [Base.VHS_Retail].
+[19-02-23 17:31:57.855] 76561198080689461 "EL-Mao'" container -1 6623,5470,1 [Base.ElectronicsMag5].
+[19-02-23 17:32:09.851] 76561198080689461 "EL-Mao'" container -1 6623,5470,1 [Base.MagazineCrossword3].
+[19-02-23 17:32:45.855] 76561198080689461 "EL-Mao'" container -2 6636,5467,1 [Base.RevolverCase2, Base.Pills].
+[19-02-23 17:32:56.196] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6635,5475,1 [Base.Trousers_SuitTEXTURE].
+[19-02-23 17:33:05.209] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6634,5475,1 [Base.Jumper_VNeck].
+[19-02-23 17:33:08.198] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6634,5475,1 [Base.Tshirt_DefaultTEXTURE_TINT].
+[19-02-23 17:33:11.207] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6634,5475,1 [Base.Shirt_FormalWhite].
+[19-02-23 17:33:23.672] 76561198080689461 "EL-Mao'" floor +1 6627,5473,1 [Base.DuctTape].
+[19-02-23 17:33:24.857] 76561198080689461 "EL-Mao'" container -1 6626,5474,1 [Base.DuctTape].
+[19-02-23 17:33:27.329] 76561198080689461 "EL-Mao'" floor +1 6627,5473,1 [Base.JacketLong_Random].
+[19-02-23 17:33:27.858] 76561198080689461 "EL-Mao'" container -1 6626,5474,1 [Base.JacketLong_Random].
+[19-02-23 17:33:30.429] 76561198080689461 "EL-Mao'" floor -1 6627,5473,1 [Base.DuctTape].
+[19-02-23 17:33:32.876] 76561198080689461 "EL-Mao'" floor +1 6627,5473,1 [Base.Jacket_Shellsuit_Blue].
+[19-02-23 17:33:33.856] 76561198080689461 "EL-Mao'" container -1 6626,5474,1 [Base.Jacket_Shellsuit_Blue].
+[19-02-23 17:33:36.481] 76561198080689461 "EL-Mao'" floor +1 6627,5473,1 [Base.Battery].
+[19-02-23 17:33:36.620] 76561198080689461 "EL-Mao'" floor +1 6627,5473,1 [Base.HandTorch].
+[19-02-23 17:33:36.751] 76561198080689461 "EL-Mao'" floor +1 6627,5473,1 [Base.HandTorch].
+[19-02-23 17:33:36.852] 76561198080689461 "EL-Mao'" container -3 6626,5473,1 [Base.Battery, Base.HandTorch].
+[19-02-23 17:33:36.942] 76561198080689461 "EL-Mao'" floor +1 6627,5473,1 [Base.Saw].
+[19-02-23 17:33:39.128] 76561198080689461 "EL-Mao'" floor +1 6627,5473,1 [Base.Suitcase].
+[19-02-23 17:33:39.872] 76561198080689461 "EL-Mao'" container -1 6626,5474,1 [Base.Suitcase].
+[19-02-23 17:33:39.872] 76561198080689461 "EL-Mao'" container -1 6626,5473,1 [Base.Saw].
+[19-02-23 17:34:02.132] 76561198100576317 "Muezza" container -1 6622,5474,1 [Base.HandTorch].
+[19-02-23 17:34:04.094] 76561198080689461 "EL-Mao'" floor +1 6626,5473,1 [Base.UnusableMetal].
+[19-02-23 17:34:04.094] 76561198080689461 "EL-Mao'" floor +1 6626,5473,1 [Base.UnusableMetal].
+[19-02-23 17:34:04.095] 76561198080689461 "EL-Mao'" floor +1 6626,5474,1 [Base.MetalBar].
+[19-02-23 17:34:04.096] 76561198080689461 "EL-Mao'" floor +1 6626,5474,1 [Base.UnusableMetal].
+[19-02-23 17:34:05.134] 76561198100576317 "Muezza" container -2 6622,5474,1 [Base.Screwdriver, Base.Hammer].
+[19-02-23 17:34:18.196] 76561198080689461 "EL-Mao'" floor +1 6623,5474,1 [Base.Disc_Retail].
+[19-02-23 17:34:18.861] 76561198080689461 "EL-Mao'" container -2 6622,5474,1 [Base.Disc_Retail, Base.Rope].
+[19-02-23 17:34:21.861] 76561198080689461 "EL-Mao'" container -1 6622,5474,1 [Radio.ElectricWire].
+[19-02-23 17:34:43.891] 76561198080689461 "EL-Mao'" floor +1 6622,5474,1 [Base.SmallSheetMetal].
+[19-02-23 17:34:43.892] 76561198080689461 "EL-Mao'" floor +1 6622,5474,1 [Base.Screws].
+[19-02-23 17:35:15.961] 76561198080689461 "EL-Mao'" floor +1 6627,5468,1 [Base.ClosedUmbrellaBlack].
+[19-02-23 17:35:16.213] 76561198080689461 "EL-Mao'" floor +1 6627,5468,1 [Base.Hammer].
+[19-02-23 17:35:16.260] 76561198080689461 "EL-Mao'" floor +1 6627,5468,1 [Base.LightBulb].
+[19-02-23 17:35:18.855] 76561198080689461 "EL-Mao'" container -3 6627,5468,1 [Base.ClosedUmbrellaBlack, Base.LightBulb, Base.Hammer].
+[19-02-23 17:35:20.013] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6627,5469,1 [Base.Dress_Knees].
+[19-02-23 17:35:38.210] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6623,5470,1 [Base.Magazine].
+[19-02-23 17:35:41.636] 76561198080689461 "EL-Mao'" floor +1 6627,5468,1 [Base.UnusableMetal].
+[19-02-23 17:35:53.217] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6623,5470,1 [Base.Magazine].
+[19-02-23 17:36:08.195] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6623,5470,1 [Base.Magazine].
+[19-02-23 17:36:17.130] 76561198100576317 "Muezza" container -1 6633,5467,1 [Base.FishingMag2].
+[19-02-23 17:36:36.861] 76561198080689461 "EL-Mao'" container -1 6630,5466,0 [Base.FarmingMag1].
+[19-02-23 17:36:44.476] 76561198100576317 "Muezza" floor -1 6632,5470,0 [Base.Salt].
+[19-02-23 17:36:44.806] 76561198100576317 "Muezza" floor -1 6632,5470,0 [Base.KitchenKnife].
+[19-02-23 17:36:51.854] 76561198080689461 "EL-Mao'" container -2 6630,5466,0 [Base.Magazine, Base.MagazineCrossword3].
+[19-02-23 17:36:54.870] 76561198080689461 "EL-Mao'" container -1 6630,5466,0 [Base.MagazineWordsearch1].
+[19-02-23 17:37:14.204] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6625,5477,0 [Base.DishCloth].
+[19-02-23 17:38:17.199] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6669,5477,0 [Base.JamFruit].
+[19-02-23 17:38:30.624] 76561198100576317 "Muezza" floor +1 6667,5476,0 [Base.Pop2Empty].
+[19-02-23 17:38:33.866] 76561198080689461 "EL-Mao'" container -1 6669,5477,0 [Base.SugarBrown].
+[19-02-23 17:38:35.202] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6668,5477,0 [Base.TrapMouse].
+[19-02-23 17:38:44.138] 76561198080689461 "EL-Mao'" container -2 6670,5477,0 [Base.Sugar, Base.OilOlive].
+[19-02-23 17:38:53.130] 76561198100576317 "Muezza" container -5 6666,5471,0 [Base.Ramen, Base.Pepper, Base.Macandcheese, Base.Salt].
+[19-02-23 17:38:56.127] 76561198100576317 "Muezza" container -1 6666,5471,0 [Base.DriedKidneyBeans].
+[19-02-23 17:38:59.198] 76561198145393066 "Gym Burger (Maximum Cheese)" container -4 6668,5475,0 [Base.CannedCornedBeef, Base.CannedPeaches].
+[19-02-23 17:39:02.198] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6668,5475,0 [Base.CannedPotato2].
+[19-02-23 17:39:02.242] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 6667,5475,0 [Base.DishClothWet].
+[19-02-23 17:39:11.196] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6669,5475,0 [Base.Pop3].
+[19-02-23 17:39:23.205] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6675,5468,0 [Base.Shirt_Denim].
+[19-02-23 17:39:26.201] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6675,5468,0 [Base.Dungarees].
+[19-02-23 17:40:12.848] 76561198080689461 "EL-Mao'" container -4 6676,5472,1 [Base.Bandage, Base.Bandaid, Base.Pills].
+[19-02-23 17:41:05.127] 76561198100576317 "Muezza" container -2 6680,5472,1 [Base.Battery, Radio.ElectricWire].
+[19-02-23 17:41:17.208] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6666,5465,1 [Base.Trousers_DefaultTEXTURE].
+[19-02-23 17:41:50.729] 76561198145393066 "Gym Burger (Maximum Cheese)" floor -1 6679,5477,1 [Base.Tshirt_PoloStripedTINT].
+[19-02-23 17:42:26.193] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 6676,5472,1 [Base.HairDyeGinger].
+[19-02-23 17:43:09.775] 76561198100576317 "Muezza" floor +1 6667,5469,1 [farming.MayonnaiseWaterFull].
+[19-02-23 17:43:09.902] 76561198100576317 "Muezza" floor +1 6667,5469,1 [Base.WineWaterFull].
+[19-02-23 17:43:17.677] 76561198100576317 "Muezza" floor -1 6667,5469,1 [Base.WineWaterFull].
+[19-02-23 17:43:32.128] 76561198100576317 "Muezza" container -1 6670,5468,1 [Base.Screwdriver].
+[19-02-23 17:43:34.244] 76561198100576317 "Muezza" container -1 6670,5468,1 [Base.Crowbar].
+[19-02-23 17:43:56.133] 76561198100576317 "Muezza" container -1 6668,5477,0 [Base.Needle].
+[19-02-23 17:46:36.278] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 6562,5524,0 [Base.Glasses_Normal].
+[19-02-23 17:46:55.476] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 6561,5525,0 [Base.Hat_BaseballCapKY].
+[19-02-23 17:47:08.831] 76561198100576317 "Muezza" floor +1 6561,5526,0 [Base.Hat_BaseballCapKY].
+[19-02-23 17:50:52.601] 76561198100576317 "Muezza" floor +1 5690,5767,0 [Base.Bag_NormalHikingBag].
+[19-02-23 17:51:00.747] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 5689,5767,0 [Base.Pot].
+[19-02-23 17:51:01.130] 76561198080689461 "EL-Mao'" floor +1 5681,5765,0 [Base.VHS_Retail].
+[19-02-23 17:51:01.131] 76561198080689461 "EL-Mao'" floor +1 5681,5765,0 [Base.VHS_Retail].
+[19-02-23 17:51:01.132] 76561198080689461 "EL-Mao'" floor +1 5681,5765,0 [Base.VHS_Retail].
+[19-02-23 17:51:01.132] 76561198080689461 "EL-Mao'" floor +1 5681,5765,0 [Base.VHS_Retail].
+[19-02-23 17:51:02.194] 76561198100576317 "Muezza" floor -1 5690,5767,0 [Base.Bag_NormalHikingBag].
+[19-02-23 17:51:09.913] 76561198080689461 "EL-Mao'" floor +1 5681,5765,0 [Base.FarmingMag1].
+[19-02-23 17:51:11.189] 76561198145393066 "Gym Burger (Maximum Cheese)" container +0 5681,5764,0 [Base.VHS_Retail].
+[19-02-23 17:51:12.026] 76561198080689461 "EL-Mao'" floor +1 5681,5765,0 [Base.MagazineWordsearch1].
+[19-02-23 17:51:30.865] 76561198080689461 "EL-Mao'" container +0 5686,5759,0 [Base.OilOlive].
+[19-02-23 17:51:35.135] 76561198100576317 "Muezza" container +0 5683,5763,0 [Base.Battery, Base.Amplifier].
+[19-02-23 17:51:38.129] 76561198100576317 "Muezza" container +0 5683,5763,0 [Radio.ElectricWire].
+[19-02-23 17:51:41.133] 76561198100576317 "Muezza" container +0 5683,5763,0 [Base.LightBulbGreen].
+[19-02-23 17:51:43.288] 76561198080689461 "EL-Mao'" floor +1 5685,5759,0 [Base.CannedBolognese].
+[19-02-23 17:51:44.006] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 5686,5766,1 [Base.GuitarElectricBlue].
+[19-02-23 17:51:47.127] 76561198100576317 "Muezza" container +0 5683,5763,0 [Base.LightBulb].
+[19-02-23 17:51:48.621] 76561198080689461 "EL-Mao'" floor +1 5685,5759,0 [Base.CannedCorn].
+[19-02-23 17:51:50.862] 76561198080689461 "EL-Mao'" floor +1 5685,5759,0 [Base.CannedCorn].
+[19-02-23 17:51:53.129] 76561198100576317 "Muezza" container +0 5683,5763,0 [Base.LightBulbRed].
+[19-02-23 17:51:53.483] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 5686,5767,1 [Base.GuitarAcoustic].
+[19-02-23 17:51:56.130] 76561198100576317 "Muezza" container +0 5683,5763,0 [Base.ElectronicsScrap].
+[19-02-23 17:51:57.853] 76561198080689461 "EL-Mao'" container +0 5686,5759,0 [Base.MapleSyrup].
+[19-02-23 17:52:00.859] 76561198080689461 "EL-Mao'" container +0 5686,5759,0 [Base.OilVegetable].
+[19-02-23 17:52:02.130] 76561198100576317 "Muezza" container +0 5683,5763,0 [Base.Speaker].
+[19-02-23 17:54:04.891] 76561198080689461 "EL-Mao'" floor +1 5682,5769,1 [Base.ElectronicsScrap].
+[19-02-23 17:54:11.135] 76561198100576317 "Muezza" container +0 5681,5764,0 [Base.FishingMag2].
+[19-02-23 17:54:13.421] 76561198080689461 "EL-Mao'" floor +1 5682,5769,1 [Base.SmallSheetMetal].
+[19-02-23 17:54:14.136] 76561198100576317 "Muezza" container +0 5681,5764,0 [Base.Book].
+[19-02-23 17:54:15.280] 76561198080689461 "EL-Mao'" floor +1 5682,5769,1 [Base.SmallSheetMetal].
+[19-02-23 17:54:20.185] 76561198145393066 "Gym Burger (Maximum Cheese)" container +0 5685,5759,0 [Base.CannedCornedBeef].
+[19-02-23 17:54:23.134] 76561198100576317 "Muezza" container +0 5683,5767,0 [Base.Matches].
+[19-02-23 17:54:23.185] 76561198145393066 "Gym Burger (Maximum Cheese)" container +0 5685,5759,0 [Base.CannedCornedBeef].
+[19-02-23 17:54:24.851] 76561198080689461 "EL-Mao'" container +0 5683,5762,1 [Base.Soap2].
+[19-02-23 17:54:26.177] 76561198145393066 "Gym Burger (Maximum Cheese)" container +0 5685,5759,0 [Base.CannedPeaches, Base.CannedPotato2].
+[19-02-23 17:54:27.859] 76561198080689461 "EL-Mao'" container +0 5683,5762,1 [Base.Pills].
+[19-02-23 17:54:36.408] 76561198080689461 "EL-Mao'" floor +1 5683,5769,1 [Base.Torch].
+[19-02-23 17:54:38.089] 76561198080689461 "EL-Mao'" floor +1 5683,5769,1 [Base.Torch].
+[19-02-23 17:54:38.123] 76561198100576317 "Muezza" container +0 5683,5763,0 [Base.HandTorch].
+[19-02-23 17:54:38.187] 76561198145393066 "Gym Burger (Maximum Cheese)" container +0 5685,5759,0 [Base.Sugar, Base.Pepper].
+[19-02-23 17:54:41.130] 76561198100576317 "Muezza" container +0 5683,5763,0 [Base.HandTorch].
+[19-02-23 17:54:45.266] 76561198080689461 "EL-Mao'" floor +1 5682,5769,1 [Base.Amplifier].
+[19-02-23 17:54:48.418] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 5685,5761,0 [Base.WaterMug].
+[19-02-23 17:54:51.825] 76561198100576317 "Muezza" floor +1 5684,5765,0 [Base.DriedKidneyBeans].
+[19-02-23 17:54:52.343] 76561198100576317 "Muezza" floor +1 5684,5765,0 [Base.Ramen].
+[19-02-23 17:54:52.610] 76561198100576317 "Muezza" floor +1 5684,5765,0 [Base.JuiceBox].
+[19-02-23 17:54:52.611] 76561198100576317 "Muezza" floor +1 5684,5765,0 [Base.JuiceBox].
+[19-02-23 17:54:53.387] 76561198100576317 "Muezza" floor +1 5684,5765,0 [Base.Disinfectant].
+[19-02-23 17:54:56.628] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 5684,5766,0 [Base.MetalBar].
+[19-02-23 17:54:57.859] 76561198080689461 "EL-Mao'" container +0 5683,5763,1 [Base.Sheet].
+[19-02-23 17:54:59.261] 76561198100576317 "Muezza" floor +1 5684,5765,0 [Base.PopBottle].
+[19-02-23 17:54:59.759] 76561198100576317 "Muezza" floor +1 5684,5765,0 [Base.Pepper].
+[19-02-23 17:55:00.530] 76561198100576317 "Muezza" floor +1 5684,5765,0 [Base.Pop2].
+[19-02-23 17:55:01.029] 76561198100576317 "Muezza" floor +1 5684,5765,0 [Base.Salt].
+[19-02-23 17:55:01.542] 76561198100576317 "Muezza" floor +1 5684,5765,0 [Base.Salt].
+[19-02-23 17:55:02.308] 76561198100576317 "Muezza" floor +1 5684,5765,0 [Base.KitchenKnife].
+[19-02-23 17:55:03.564] 76561198100576317 "Muezza" floor +1 5684,5765,0 [Base.Macandcheese].
+[19-02-23 17:55:03.877] 76561198080689461 "EL-Mao'" floor +1 5682,5769,1 [Base.Woodglue].
+[19-02-23 17:55:08.178] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 5681,5770,0 [Base.TinCanEmpty].
+[19-02-23 17:55:20.131] 76561198100576317 "Muezza" container +0 5682,5769,1 [Base.Nails].
+[19-02-23 17:55:23.361] 76561198080689461 "EL-Mao'" floor +1 5682,5769,1 [Base.Rope].
+[19-02-23 17:55:34.941] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 5682,5768,1 [Base.Pop3Empty].
+[19-02-23 17:55:36.858] 76561198080689461 "EL-Mao'" container +0 5683,5763,1 [Base.Pills].
+[19-02-23 17:55:42.852] 76561198080689461 "EL-Mao'" container +0 5683,5763,1 [Base.Antibiotics].
+[19-02-23 17:55:44.133] 76561198100576317 "Muezza" container +0 5683,5763,1 [Base.Needle].
+[19-02-23 17:55:53.630] 76561198100576317 "Muezza" floor +1 5680,5766,1 [Base.Extinguisher].
+[19-02-23 17:55:54.306] 76561198080689461 "EL-Mao'" floor +1 5682,5769,1 [Base.DuctTape].
+[19-02-23 17:55:56.190] 76561198145393066 "Gym Burger (Maximum Cheese)" container +0 5684,5769,1 [Base.Shoes_ArmyBoots].
+[19-02-23 17:55:56.210] 76561198080689461 "EL-Mao'" floor +1 5682,5769,1 [Radio.ElectricWire].
+[19-02-23 17:56:03.863] 76561198080689461 "EL-Mao'" container +0 5681,5769,1 [Base.RevolverCase2].
+[19-02-23 17:56:05.135] 76561198100576317 "Muezza" container -6 5683,5769,1 [Base.FishingLine, Base.FishingNet, Base.FishingRod].
+[19-02-23 17:56:11.135] 76561198100576317 "Muezza" container +0 5680,5765,1 [Base.FishingLine].
+[19-02-23 17:56:14.138] 76561198100576317 "Muezza" container +0 5680,5765,1 [Base.FishingNet, Base.FishingRod].
+[19-02-23 17:56:17.128] 76561198100576317 "Muezza" container +0 5680,5765,1 [Base.FishingNet].
+[19-02-23 17:56:20.711] 76561198080689461 "EL-Mao'" floor +1 5681,5765,0 [Base.ElectronicsMag5].
+[19-02-23 17:56:22.876] 76561198080689461 "EL-Mao'" floor +1 5681,5765,0 [Base.MagazineCrossword3].
+[19-02-23 17:56:24.680] 76561198080689461 "EL-Mao'" floor +1 5681,5765,0 [Base.Magazine].
+[19-02-23 17:56:26.125] 76561198100576317 "Muezza" container +0 5683,5769,1 [Base.Hammer].
+[19-02-23 17:56:26.179] 76561198145393066 "Gym Burger (Maximum Cheese)" container +0 5684,5769,1 [Base.Trousers_Padded].
+[19-02-23 17:56:28.833] 76561198080689461 "EL-Mao'" floor +1 5681,5765,0 [Base.Book].
+[19-02-23 17:56:29.128] 76561198100576317 "Muezza" container +0 5683,5769,1 [Base.Hammer].
+[19-02-23 17:56:29.472] 76561198080689461 "EL-Mao'" floor +1 5681,5765,0 [Base.Book].
+[19-02-23 17:56:32.132] 76561198100576317 "Muezza" container +0 5683,5769,1 [Base.MetalPipe].
+[19-02-23 17:56:38.134] 76561198100576317 "Muezza" container +0 5683,5769,1 [Base.Screwdriver, Base.Crowbar].
+[19-02-23 17:56:41.126] 76561198100576317 "Muezza" container +0 5683,5769,1 [Base.Screwdriver].
+[19-02-23 17:56:50.135] 76561198100576317 "Muezza" container +0 5684,5769,1 [Base.Hat_HardHat].
+[19-02-23 17:56:56.136] 76561198100576317 "Muezza" container +0 5682,5769,1 [Base.Aluminum].
+[19-02-23 17:56:58.003] 76561198145393066 "Gym Burger (Maximum Cheese)" floor +1 5684,5762,0 [Base.Mugl].
+[19-02-23 17:57:04.688] 76561198100576317 "Muezza" floor +1 5687,5764,0 [Base.Garbagebag].
+[19-02-23 17:57:04.689] 76561198100576317 "Muezza" floor +1 5687,5764,0 [Base.Garbagebag].
+[19-02-23 17:57:20.174] 76561198145393066 "Gym Burger (Maximum Cheese)" container +0 5682,5759,0 [Base.WineWaterFull, Base.WaterPopBottle].
+[19-02-23 17:57:33.161] 76561198100576317 "Muezza" floor -1 5684,5766,0 [Base.MetalBar].
+[19-02-23 17:57:38.176] 76561198145393066 "Gym Burger (Maximum Cheese)" container -1 5682,5759,0 [Base.WineWaterFull].
+[19-02-23 17:57:39.059] 76561198100576317 "Muezza" floor -1 5684,5765,0 [Base.DriedKidneyBeans].
+[19-02-23 17:57:39.285] 76561198100576317 "Muezza" floor -1 5684,5765,0 [Base.Ramen].
+[19-02-23 17:57:40.209] 76561198100576317 "Muezza" floor -1 5684,5765,0 [Base.PopBottle].
+[19-02-23 17:57:42.344] 76561198100576317 "Muezza" floor -1 5684,5765,0 [Base.Pop2].
+[19-02-23 17:57:50.135] 76561198100576317 "Muezza" container +0 5683,5759,0 [Base.Pop2].
+[19-02-23 17:57:53.139] 76561198100576317 "Muezza" container +0 5683,5759,0 [Base.PopBottle].
+[19-02-23 17:57:59.127] 76561198100576317 "Muezza" container +0 5685,5759,0 [Base.Ramen].
+[19-02-23 17:58:02.141] 76561198100576317 "Muezza" container +0 5685,5759,0 [Base.DriedKidneyBeans].

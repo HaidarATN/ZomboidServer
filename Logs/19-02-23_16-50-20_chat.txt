@@ -1,0 +1,29 @@
+[19-02-23 16:50:20.922][info] Start chat server initialization....
+[19-02-23 16:50:21.061][info] General chat has id = 0.
+[19-02-23 16:50:21.061][info] Say chat has id = 1.
+[19-02-23 16:50:21.061][info] Shout chat has id = 2.
+[19-02-23 16:50:21.061][info] Radio chat has id = 3.
+[19-02-23 16:50:21.061][info] Admin chat has id = 4.
+[19-02-23 16:50:21.061][info] Server chat has id = 5.
+[19-02-23 16:50:21.062][info] Chat server successfully initialized.
+[19-02-23 16:50:46.411][info] Creating safehouse chat '5678,5757 at 1676800246409'.
+[19-02-23 16:50:46.432][info] Safehouse chat '5678,5757 at 1676800246409' created.
+[19-02-23 16:54:26.146][info] Player with id = '0' tries to connect.
+[19-02-23 16:54:26.146][info] Adding player '0' to chat server.
+[19-02-23 16:54:26.146][info] Player joined to default chats.
+[19-02-23 16:54:26.147][info] Player joined to chat of safehouse '5678,5757 at 1676800246409'.
+[19-02-23 16:54:26.147][info] Player Muezza(0) joined to chat server successfully.
+[19-02-23 16:56:24.831][info] Player with id = '4' tries to connect.
+[19-02-23 16:56:24.831][info] Adding player '4' to chat server.
+[19-02-23 16:56:24.831][info] Player joined to default chats.
+[19-02-23 16:56:24.831][info] Player joined to chat of safehouse '5678,5757 at 1676800246409'.
+[19-02-23 16:56:24.831][info] Player EL-Mao'(4) joined to chat server successfully.
+[19-02-23 17:00:17.104][info] Player with id = '8' tries to connect.
+[19-02-23 17:00:17.104][info] Adding player '8' to chat server.
+[19-02-23 17:00:17.104][info] Player joined to default chats.
+[19-02-23 17:00:17.104][info] Player joined to chat of safehouse '5678,5757 at 1676800246409'.
+[19-02-23 17:00:17.104][info] Player Gym Burger (Maximum Cheese)(8) joined to chat server successfully.
+[19-02-23 17:58:09.213][info] Player 0 disconnecting....
+[19-02-23 17:58:09.214][info] Disconnecting player 0 finished.
+[19-02-23 17:58:09.214][info] Player 0 disconnecting....
+[19-02-23 17:58:09.214][info] Disconnecting player 0 finished.
