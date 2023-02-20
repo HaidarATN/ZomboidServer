@@ -1,0 +1,19 @@
+[20-02-23 20:18:26.122][info] Start chat server initialization....
+[20-02-23 20:18:26.130][info] General chat has id = 0.
+[20-02-23 20:18:26.130][info] Say chat has id = 1.
+[20-02-23 20:18:26.130][info] Shout chat has id = 2.
+[20-02-23 20:18:26.130][info] Radio chat has id = 3.
+[20-02-23 20:18:26.131][info] Admin chat has id = 4.
+[20-02-23 20:18:26.131][info] Server chat has id = 5.
+[20-02-23 20:18:26.131][info] Chat server successfully initialized.
+[20-02-23 20:18:28.644][info] Creating safehouse chat '5678,5757 at 1676899108638'.
+[20-02-23 20:18:28.645][info] Safehouse chat '5678,5757 at 1676899108638' created.
+[20-02-23 20:28:50.970][info] Player with id = '0' tries to connect.
+[20-02-23 20:28:50.971][info] Adding player '0' to chat server.
+[20-02-23 20:28:50.971][info] Player joined to default chats.
+[20-02-23 20:28:50.972][info] Player joined to chat of safehouse '5678,5757 at 1676899108638'.
+[20-02-23 20:28:50.972][info] Player EL-Mao'(0) joined to chat server successfully.
+[20-02-23 20:30:15.649][info] Player 0 disconnecting....
+[20-02-23 20:30:15.650][info] Disconnecting player 0 finished.
+[20-02-23 20:30:15.650][info] Player 0 disconnecting....
+[20-02-23 20:30:15.650][info] Disconnecting player 0 finished.

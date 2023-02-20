@@ -1,0 +1,38 @@
+[20-02-23 20:33:46.939] added connection index=0 127.0.0.1.
+[20-02-23 20:33:47.775] 76561198080689461 "EL-Mao'" attempting to join.
+[20-02-23 20:33:47.775] 76561198080689461 "EL-Mao'" allowed to join.
+[20-02-23 20:33:56.087] 76561198080689461 "EL-Mao'" attempting to join used queue.
+[20-02-23 20:34:07.553] player EL-Mao' loading time was: 11192 ms.
+[20-02-23 20:35:18.856] 76561198080689461 "EL-Mao'" fully connected (5684,5767,0).
+[20-02-23 20:36:24.995] added connection index=1 149.61.202.16.
+[20-02-23 20:36:25.856] 76561198145393066 "Gym Burger (Maximum Cheese)" attempting to join.
+[20-02-23 20:36:25.857] 76561198145393066 "Gym Burger (Maximum Cheese)" allowed to join.
+[20-02-23 20:36:34.936] 76561198145393066 "Gym Burger (Maximum Cheese)" attempting to join used queue.
+[20-02-23 20:37:10.906] player Gym Burger (Maximum Cheese) loading time was: 33845 ms.
+[20-02-23 20:37:29.702] added connection index=2 183.3.164.20.
+[20-02-23 20:37:30.878] 76561198100576317 "Muezza" attempting to join.
+[20-02-23 20:37:30.879] 76561198100576317 "Muezza" allowed to join.
+[20-02-23 20:37:38.281] 76561198100576317 "Muezza" attempting to join used queue.
+[20-02-23 20:38:56.086] 76561198145393066 "Gym Burger (Maximum Cheese)" fully connected (5683,5765,0).
+[20-02-23 20:39:06.026] player Muezza loading time was: 85142 ms.
+[20-02-23 20:39:48.295] 76561198100576317 "Muezza" fully connected (5680,5756,1).
+[20-02-23 21:51:03.083] user Muezza died at (5692,5763,0) (non pvp).
+[20-02-23 22:01:46.016] 76561198100576317 "Muezza" disconnected player (5692,5763,0).
+[20-02-23 22:01:53.688] 76561198100576317 "Muezza" fully connected (5686,5763,0).
+[20-02-23 22:24:51.941] user Gym Burger (Maximum Cheese) died at (5475,5845,0) (non pvp).
+[20-02-23 22:37:27.228] 76561198145393066 "Gym Burger (Maximum Cheese)" disconnected player (5475,5845,0).
+[20-02-23 22:37:29.768] 76561198145393066 "Gym Burger (Maximum Cheese)" fully connected (5686,5763,0).
+[21-02-23 00:50:08.260] 76561198145393066 "Gym Burger (Maximum Cheese)" removed connection index=1.
+[21-02-23 00:50:08.283] 76561198145393066 "Gym Burger (Maximum Cheese)" disconnected player (7333,8163,0).
+[21-02-23 00:50:08.283] 76561198145393066 "Gym Burger (Maximum Cheese)" removed connection index=1.
+[21-02-23 00:51:52.394] added connection index=1 211.144.146.158.
+[21-02-23 00:51:53.175] 76561198145393066 "Col. Gym Burger (Maximum Cheese)" attempting to join.
+[21-02-23 00:51:53.188] 76561198145393066 "Col. Gym Burger (Maximum Cheese)" allowed to join.
+[21-02-23 00:52:01.220] 76561198145393066 "Col. Gym Burger (Maximum Cheese)" attempting to join used queue.
+[21-02-23 00:52:13.003] player Col. Gym Burger (Maximum Cheese) loading time was: 10807 ms.
+[21-02-23 00:52:26.284] 76561198145393066 "Col. Gym Burger (Maximum Cheese)" fully connected (7328,8154,0).
+[21-02-23 00:57:21.347] user Col. Gym Burger (Maximum Cheese) died at (7311,8147,0) (non pvp).
+[21-02-23 01:02:23.537] 76561198145393066 "Col. Gym Burger (Maximum Cheese)" removed connection index=1.
+[21-02-23 01:02:23.549] 76561198145393066 "Col. Gym Burger (Maximum Cheese)" disconnected player (7311,8147,0).
+[21-02-23 01:20:43.324] 76561198080689461 "EL-Mao'" removed connection index=0.
+[21-02-23 01:20:43.337] 76561198080689461 "EL-Mao'" disconnected player (5680,5763,1).

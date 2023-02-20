@@ -1,0 +1,28 @@
+[20-02-23 14:22:09.131][info] Start chat server initialization....
+[20-02-23 14:22:09.138][info] General chat has id = 0.
+[20-02-23 14:22:09.139][info] Say chat has id = 1.
+[20-02-23 14:22:09.139][info] Shout chat has id = 2.
+[20-02-23 14:22:09.139][info] Radio chat has id = 3.
+[20-02-23 14:22:09.139][info] Admin chat has id = 4.
+[20-02-23 14:22:09.140][info] Server chat has id = 5.
+[20-02-23 14:22:09.140][info] Chat server successfully initialized.
+[20-02-23 14:22:11.419][info] Creating safehouse chat '5678,5757 at 1676877731417'.
+[20-02-23 14:22:11.420][info] Safehouse chat '5678,5757 at 1676877731417' created.
+[20-02-23 14:22:41.600][info] Player with id = '0' tries to connect.
+[20-02-23 14:22:41.600][info] Adding player '0' to chat server.
+[20-02-23 14:22:41.600][info] Player joined to default chats.
+[20-02-23 14:22:41.601][info] Player joined to chat of safehouse '5678,5757 at 1676877731417'.
+[20-02-23 14:22:41.601][info] Player EL-Mao'(0) joined to chat server successfully.
+[20-02-23 14:29:36.131][info] Player with id = '4' tries to connect.
+[20-02-23 14:29:36.131][info] Adding player '4' to chat server.
+[20-02-23 14:29:36.132][info] Player joined to default chats.
+[20-02-23 14:29:36.132][info] Player joined to chat of safehouse '5678,5757 at 1676877731417'.
+[20-02-23 14:29:36.132][info] Player Muezza(4) joined to chat server successfully.
+[20-02-23 14:30:45.351][info] Player 4 disconnecting....
+[20-02-23 14:30:45.351][info] Disconnecting player 4 finished.
+[20-02-23 14:30:45.351][info] Player 4 disconnecting....
+[20-02-23 14:30:45.351][info] Disconnecting player 4 finished.
+[20-02-23 14:31:30.550][info] Player 0 disconnecting....
+[20-02-23 14:31:30.550][info] Disconnecting player 0 finished.
+[20-02-23 14:31:30.551][info] Player 0 disconnecting....
+[20-02-23 14:31:30.551][info] Disconnecting player 0 finished.
