@@ -1,0 +1,8 @@
+[20-02-23 08:19:14.240] added connection index=0 127.0.0.1.
+[20-02-23 08:19:14.962] 76561198080689461 "EL-Mao'" attempting to join.
+[20-02-23 08:19:14.962] 76561198080689461 "EL-Mao'" allowed to join.
+[20-02-23 08:19:22.695] 76561198080689461 "EL-Mao'" attempting to join used queue.
+[20-02-23 08:19:31.388] player EL-Mao' loading time was: 8409 ms.
+[20-02-23 08:22:07.309] 76561198080689461 "EL-Mao'" fully connected (5693,5762,0).
+[20-02-23 09:14:42.330] 76561198080689461 "EL-Mao'" removed connection index=0.
+[20-02-23 09:14:42.345] 76561198080689461 "EL-Mao'" disconnected player (5681,5767,0).

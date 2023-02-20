@@ -1,0 +1,44 @@
+[20-02-23 07:40:32.477][info] Start chat server initialization....
+[20-02-23 07:40:32.488][info] General chat has id = 0.
+[20-02-23 07:40:32.488][info] Say chat has id = 1.
+[20-02-23 07:40:32.488][info] Shout chat has id = 2.
+[20-02-23 07:40:32.488][info] Radio chat has id = 3.
+[20-02-23 07:40:32.489][info] Admin chat has id = 4.
+[20-02-23 07:40:32.489][info] Server chat has id = 5.
+[20-02-23 07:40:32.489][info] Chat server successfully initialized.
+[20-02-23 07:40:36.082][info] Creating safehouse chat '5678,5757 at 1676853636080'.
+[20-02-23 07:40:36.083][info] Safehouse chat '5678,5757 at 1676853636080' created.
+[20-02-23 07:41:11.760][info] Player with id = '0' tries to connect.
+[20-02-23 07:41:11.760][info] Adding player '0' to chat server.
+[20-02-23 07:41:11.761][info] Player joined to default chats.
+[20-02-23 07:41:11.761][info] Player joined to chat of safehouse '5678,5757 at 1676853636080'.
+[20-02-23 07:41:11.761][info] Player EL-Mao'(0) joined to chat server successfully.
+[20-02-23 07:45:34.106][info] Got message:ChatMessage{chat=Local, author='EL-Mao'', text='HEY YOU!'}.
+[20-02-23 07:45:34.107][info] Message ChatMessage{chat=Local, author='EL-Mao'', text='HEY YOU!'} sent to chat (id = 2) members.
+[20-02-23 07:45:43.607][info] Got message:ChatMessage{chat=Local, author='EL-Mao'', text='HEY YOU!'}.
+[20-02-23 07:45:43.607][info] Message ChatMessage{chat=Local, author='EL-Mao'', text='HEY YOU!'} sent to chat (id = 2) members.
+[20-02-23 07:46:43.385][info] Got message:ChatMessage{chat=Local, author='EL-Mao'', text='OVER HERE!'}.
+[20-02-23 07:46:43.385][info] Message ChatMessage{chat=Local, author='EL-Mao'', text='OVER HERE!'} sent to chat (id = 2) members.
+[20-02-23 07:47:06.336][info] Got message:ChatMessage{chat=Local, author='EL-Mao'', text='HEY!'}.
+[20-02-23 07:47:06.336][info] Message ChatMessage{chat=Local, author='EL-Mao'', text='HEY!'} sent to chat (id = 2) members.
+[20-02-23 07:47:22.820][info] Got message:ChatMessage{chat=Local, author='EL-Mao'', text='HEY!'}.
+[20-02-23 07:47:22.820][info] Message ChatMessage{chat=Local, author='EL-Mao'', text='HEY!'} sent to chat (id = 2) members.
+[20-02-23 07:47:25.639][info] Got message:ChatMessage{chat=Local, author='EL-Mao'', text='HEY!'}.
+[20-02-23 07:47:25.639][info] Message ChatMessage{chat=Local, author='EL-Mao'', text='HEY!'} sent to chat (id = 2) members.
+[20-02-23 07:48:01.017][info] Player 0 disconnecting....
+[20-02-23 07:48:01.018][info] Disconnecting player 0 finished.
+[20-02-23 08:07:13.828][info] Player 0 disconnecting....
+[20-02-23 08:07:13.828][info] Disconnecting player 0 finished.
+[20-02-23 08:07:13.829][info] Player with id = '0' tries to connect.
+[20-02-23 08:07:13.829][info] Adding player '0' to chat server.
+[20-02-23 08:07:13.830][error] Player or connection is not found on server!.
+[20-02-23 08:07:13.830][error] player = null.
+[20-02-23 08:07:15.955][info] Player with id = '0' tries to connect.
+[20-02-23 08:07:15.955][info] Adding player '0' to chat server.
+[20-02-23 08:07:15.956][info] Player joined to default chats.
+[20-02-23 08:07:15.956][info] Player joined to chat of safehouse '5678,5757 at 1676853636080'.
+[20-02-23 08:07:15.956][info] Player EL-Mao'(0) joined to chat server successfully.
+[20-02-23 08:17:47.626][info] Player 0 disconnecting....
+[20-02-23 08:17:47.626][info] Disconnecting player 0 finished.
+[20-02-23 08:17:47.626][info] Player 0 disconnecting....
+[20-02-23 08:17:47.626][info] Disconnecting player 0 finished.
